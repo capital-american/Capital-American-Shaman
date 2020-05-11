@@ -1,7 +1,8 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
-import logo from '../img/logo.svg'
+import facebook from '../img/social/fb.png'
+import instagram from '../img/social/insta.png'
+import logo from '../img/capital-logo.png'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -23,74 +24,128 @@ const Navbar = class extends React.Component {
         // set the class in state for the navbar accordingly
         this.state.active
           ? this.setState({
-              navBarActiveClass: 'is-active',
-            })
+            navBarActiveClass: 'is-active',
+          })
           : this.setState({
-              navBarActiveClass: '',
-            })
+            navBarActiveClass: '',
+          })
       }
     )
   }
 
   render() {
     return (
-      <nav
-        className="navbar is-transparent"
-        role="navigation"
-        aria-label="main-navigation"
-      >
-        <div className="container">
-          <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
-            </Link>
-            {/* Hamburger menu */}
-            <div
-              className={`navbar-burger burger ${this.state.navBarActiveClass}`}
-              data-target="navMenu"
-              onClick={() => this.toggleHamburger()}
-            >
-              <span />
-              <span />
-              <span />
+      <div>
+        <div className="social-container">
+          <div className="contact-container">
+            <div className="contact-options">
+              <div className="columns">
+                <div className="column">
+                  <div className="contact-info">
+                    <div className="header-icon">
+                      <i className="fas fa-mobile-alt"></i>
+                    </div>
+                    <span className="info-simple"><a href="tel:512-386-1873"> 512-386-1873</a> </span>
+                  </div>
+                </div>
+                <div className="column">
+                  <div className="contact-info">
+                    <div className="header-icon">
+                      <i className="fas fa-store-alt"></i>
+                    </div>
+                    <span className="info-simple capital-location-info">8315 Burnet Rd Austin, TX 78757</span>
+
+                  </div></div>
+                <div className="column">  <div className="contact-info">
+                  <div className="header-icon">
+                    <i className="fas fa-envelope"> </i>
+                  </div>
+                  <span className="info-simple"><a href="mailto:info@capitalamericanshaman.com" target="_top">info@capitalamericanshaman.com</a></span>
+
+                </div></div>
+              </div>
             </div>
           </div>
-          <div
-            id="navMenu"
-            className={`navbar-menu ${this.state.navBarActiveClass}`}
-          >
-            <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/about">
-                About
-              </Link>
-              <Link className="navbar-item" to="/products">
-                Products
-              </Link>
-              <Link className="navbar-item" to="/blog">
-                Blog
-              </Link>
-              <Link className="navbar-item" to="/contact">
-                Contact
-              </Link>
-              <Link className="navbar-item" to="/contact/examples">
-                Form Examples
-              </Link>
-            </div>
-            <div className="navbar-end has-text-centered">
-              <a
-                className="navbar-item"
-                href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
+
+          <div className="top-social">
+            <div className="columns">
+              <div className="column social-link"><a
+
+                href="https://www.facebook.com/CapitalCBDAustin/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <span className="icon">
-                  <img src={github} alt="Github" />
+                  <img src={facebook} alt="Facebook" />
                 </span>
-              </a>
+              </a></div>
+              <div className="column social-link">  <a
+
+                href="https://www.instagram.com/capitalcbdatx/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img src={instagram} alt="Instagram" />
+                </span>
+              </a></div>
             </div>
           </div>
         </div>
-      </nav>
+        <nav
+          className="navbar is-transparent"
+          role="navigation"
+          aria-label="main-navigation"
+        >
+
+          <div className="container">
+
+            <div className="navbar-brand">
+              <Link to="/" className="navbar-item" title="Logo">
+                <img src={logo} alt="Kaldi" style={{ width: '234px', height: '112px', maxHeight: 'none' }} />
+              </Link>
+              {/* Hamburger menu */}
+              <div
+                className={`navbar-burger burger ${this.state.navBarActiveClass}`}
+                data-target="navMenu"
+                onClick={() => this.toggleHamburger()}
+              >
+                <span />
+                <span />
+                <span />
+              </div>
+            </div>
+            <div
+              id="navMenu"
+              className={`navbar-menu ${this.state.navBarActiveClass}`}
+            >
+              <div className="navbar-start has-text-centered">
+                <Link className="navbar-item" to="/">
+                  HOME
+              </Link>
+                <Link className="navbar-item" to="/products">
+                  PRODUCTS
+              </Link>
+                <Link className="navbar-item" to="/blog">
+                  BLOG
+              </Link>
+                <Link className="navbar-item" to="/#why-cbd">
+                  WHY CBD
+              </Link>
+                <Link className="navbar-item" to="/#gallery">
+                  GALLERY
+              </Link>
+                <Link className="navbar-item" to="/#contact-us">
+                  CONTACT US
+              </Link>
+              </div>
+              <div className="navbar-end has-text-centered">
+
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div >
     )
   }
 }

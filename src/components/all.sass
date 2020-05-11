@@ -4,7 +4,7 @@
 // Kaldi logo brand color: #FD461E
 $kaldi-red: #D64000
 $kaldi-red-invert: #fff
-
+$capital-plum: #8b2e6b
 $primary: $kaldi-red
 $primary-invert: $kaldi-red-invert
 $body-color: #333
@@ -73,6 +73,23 @@ $black: #2b2523
 
 .navbar-item .icon
   color: $primary
+.social-container
+  background: $capital-plum
+  display: flex
+  align-items: center
+  justify-content: center
+  padding: 10px 0
+  .top-social
+    padding-right: 10px
+    display: flex
+    width: 100%
+    //padding-right: 10px
+    justify-content: flex-end
+    ul
+      display:flex
+    .social-link
+      //padding-left: 0px
+      //padding-right: 0px
 // Override for use of svg's from https://simpleicons.org/
 .icon svg
   width: 1.5rem
@@ -138,3 +155,27 @@ $menu-label-color: $white-ter
     text-align: center;
     max-width: 70%;
     margin: 0 0 1em;
+
+//contact section
+.contact-options
+  display: flex
+  color: white;
+  a
+     color: white;  
+  .contact-info
+    white-space: nowrap
+    display: flex
+    margin-left: 20px
+    .info-simple
+      padding-left: 5px
+
+a 
+  text-decoration: none
+  &.navbar-item
+    font-weight: bold
+    &:hover 
+      color: $capital-plum
+    
+
+.fa, .fas
+  color: white

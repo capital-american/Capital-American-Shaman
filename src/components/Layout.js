@@ -14,7 +14,8 @@ const TemplateWrapper = ({ children }) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
-
+        <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png" />
+        <script src="https://kit.fontawesome.com/729aead759.js" crossorigin="anonymous"></script>
         <link
           rel="apple-touch-icon"
           sizes="180x180"
@@ -23,13 +24,13 @@ const TemplateWrapper = ({ children }) => {
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix('/')}img/favicon-32x32.png`}
+          href={`${withPrefix('/')}img/favicon.png`}
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix('/')}img/favicon-16x16.png`}
+          href={`${withPrefix('/')}img/favicon.png`}
           sizes="16x16"
         />
 
