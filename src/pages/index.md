@@ -2,6 +2,7 @@
 templateKey: index-page
 title: Great coffee with a conscience3
 image: /img/home-jumbotron.jpg
+maincaption: MORE POWERFUL - MORE EFFECTIVE - IN THE HEART OF AUSTIN
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
