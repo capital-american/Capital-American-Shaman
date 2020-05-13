@@ -14,13 +14,6 @@ import image3 from '../img/slider/3.jpg';
 import image4 from '../img/slider/4.jpg';
 import image5 from '../img/slider/5.jpg';
 
-var settings = {
-  dots: true,
-  infinite: true,
-  speed: 500,
-  slidesToShow: 1,
-  slidesToScroll: 1
-};
 export const IndexPageTemplate = ({
   image,
   title,
@@ -120,7 +113,8 @@ export const IndexPageTemplate = ({
                       <h3 className="has-text-weight-semibold is-size-2">
                         {heading}
                       </h3>
-                      <p>{description}</p>
+                      <div dangerouslySetInnerHTML={{ __html: description }} />
+
                     </div>
                   </div>
                   <Features gridItems={intro.blurbs} />
@@ -157,7 +151,7 @@ IndexPageTemplate.propTypes = {
   heading: PropTypes.string,
   subheading: PropTypes.string,
   mainpitch: PropTypes.object,
-  description: PropTypes.string,
+  description: PropTypes.object,
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
