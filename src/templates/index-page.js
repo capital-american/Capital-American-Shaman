@@ -13,6 +13,12 @@ import image2 from '../img/slider/2.jpg';
 import image3 from '../img/slider/3.jpg';
 import image4 from '../img/slider/4.jpg';
 import image5 from '../img/slider/5.jpg';
+import product1 from '../img/products/CBD-Beauty.jpg';
+import product2 from '../img/products/CBD-PETS.jpg';
+import product3 from '../img/products/CBD-Relief.jpg';
+import product4 from '../img/products/CBD-Wellness.jpg';
+import productsImage from '../img/capital_american_shaman_of-_midlothian_product_group-600x448.jpg';
+
 
 export const IndexPageTemplate = ({
   image,
@@ -100,8 +106,8 @@ export const IndexPageTemplate = ({
             <div className="columns">
               <div className="column is-10 is-offset-1">
                 <div className="content">
-                  <div className="content">
-                    <div className="tile">
+                  <div className="content section-headline main-headline">
+                    <div className="tile ">
                       <h1 className="title">{mainpitch.title}</h1>
                     </div>
                     <div className="tile">
@@ -110,11 +116,99 @@ export const IndexPageTemplate = ({
                   </div>
                   <div className="columns">
                     <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">
+                      <h2 className="has-text-weight-semibold is-size-2">
                         {heading}
-                      </h3>
+                      </h2>
                       <div dangerouslySetInnerHTML={{ __html: description }} />
 
+                    </div>
+                  </div>
+                  <div className="has-text-centered section-headline">
+                    <h2 className="is-size-2 bold-900">OUR
+                  <span className="color"> CBD PRODUCTS </span></h2> </div>
+                  <div className="has-text-centered section">
+                    Capital American Shaman CBD products are not cookie cutter, one-size-fits-all.
+                    There are many different ways you can use CBD.
+                  </div>
+
+                  <div className="columns ">
+                    <div className="column">
+                      <div className="product-box">
+                        <a className="service" target="_blank"
+                          href="https://cbdamericanshaman.com/msterling-leach">
+                          <img src={product1}></img>
+                        </a>
+                      </div>
+                    </div>
+                    <div className="column">
+                      <div className="product-box">
+                        <a className="service" target="_blank"
+                          href="https://cbdamericanshaman.com/msterling-leach">
+                          <img src={product2}></img>
+                        </a>
+                      </div>
+                    </div>
+
+                    <div className="column">
+                      <div className="product-box">
+                        <a className="service" target="_blank"
+                          href="https://cbdamericanshaman.com/msterling-leach">
+                          <img src={product3}></img>
+                        </a>
+                      </div>
+                    </div>
+
+                    <div className="column">
+                      <div className="product-box">
+                        <a className="service" target="_blank"
+                          href="https://cbdamericanshaman.com/msterling-leach">
+                          <img src={product4}></img>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="section">We offer a wide range of products,
+                  including…</div>
+
+                  <div className="columns">
+                    <div className="column">
+                      <ul className="product-list">
+                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">CBD
+                        Water
+                        Soluble
+                                                Products</a>
+                        </li>
+                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">CBD
+                                                Tinctures</a>
+                        </li>
+                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">CBD
+                                                Edibles</a>
+                        </li>
+                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">CBD
+                        Lotions,
+                        Creams and
+                                                Topicals</a>
+                        </li>
+                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">CBD
+                        Soaps
+                                                and Bath Bombs</a>
+                        </li>
+                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">CBD
+                        Dog, Cat
+                        and Equine
+                                                Products</a>
+                        </li>
+                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">CBD
+                        Skin
+                                                Care</a>
+                        </li>
+                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">Hemp
+                                                Flower</a>
+                        </li>
+                      </ul>
+                    </div>
+                    <div className="column">
+                      <img src={productsImage}></img>
                     </div>
                   </div>
                   <Features gridItems={intro.blurbs} />
@@ -151,7 +245,7 @@ IndexPageTemplate.propTypes = {
   heading: PropTypes.string,
   subheading: PropTypes.string,
   mainpitch: PropTypes.object,
-  description: PropTypes.object,
+  description: PropTypes.string,
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
