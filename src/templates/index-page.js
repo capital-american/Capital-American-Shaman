@@ -18,6 +18,11 @@ import product2 from '../img/products/CBD-PETS.jpg';
 import product3 from '../img/products/CBD-Relief.jpg';
 import product4 from '../img/products/CBD-Wellness.jpg';
 import productsImage from '../img/capital_american_shaman_of-_midlothian_product_group-600x448.jpg';
+import quality from '../img/corporate/quality.png';
+import hemp from '../img/corporate/hemp.png';
+import idea from '../img/corporate/idea.png';
+import love from '../img/corporate/love.png';
+import rocket from '../img/corporate/rocket.png';
 
 
 export const IndexPageTemplate = ({
@@ -101,6 +106,7 @@ export const IndexPageTemplate = ({
         </div>
       </Slider>
       <section className="section section--gradient">
+        {/* <div className="container"> */}
         <div className="container">
           <div className="section">
             <div className="columns">
@@ -167,6 +173,7 @@ export const IndexPageTemplate = ({
                       </div>
                     </div>
                   </div>
+
                   <div className="section">We offer a wide range of products,
                   including…</div>
 
@@ -210,6 +217,73 @@ export const IndexPageTemplate = ({
                     <div className="column">
                       <img src={productsImage}></img>
                     </div>
+                  </div>
+                  <p>
+                    What type of CBD oil products are you looking for? Ask about our current options now by
+                            calling <a href="tel:512-386-1873">512-386-1873</a> or coming down to the “Austin Shaman” on
+                            Burnet Rd.
+                  </p>
+                  {/* <!--corportate--> */}
+                  <div className="columns corporate-banner">
+                    <div className="column">
+                      <div className="corporate-box">
+                        <div className="image-container">
+                          <img src={quality} ></img>
+                        </div>
+                        <div className="corporate-title">Quality</div>
+                        <div className="corporate-desc">We select only top-grade hemp plants grown on sustainable small farms right here in the USA</div>
+
+                      </div>
+                    </div>
+                    <div className="column">
+                      <div className="corporate-box">
+                        <div className="image-container">
+                          <img src={hemp} ></img>
+                        </div>
+                        <div className="corporate-title">Safety</div>
+                        <div className="corporate-desc">
+                          The US Hemp Authority certifies our industry-leading standards in product safety and quality
+                        </div>
+                      </div>
+                    </div>
+
+                    <div className="column">
+                      <div className="corporate-box">
+                        <div className="image-container">
+                          <img src={rocket} ></img>
+                        </div>
+                        <div className="corporate-title">Mission</div>
+                        <div className="corporate-desc">
+                          We bring wellness to humans and the Earth by producing the highest quality CBD on the market
+                        </div>
+                      </div>
+                    </div>
+
+                    <div className="column">
+                      <div className="corporate-box">
+                        <div className="image-container">
+                          <img src={love} ></img>
+                        </div>
+                        <div className="corporate-title">Charity</div>
+                        <div className="corporate-desc">
+                          We partner with veterans, artists and more to help them bring wellness to their communities
+                        </div>
+                      </div>
+                    </div>
+
+                    <div className="column">
+                      <div className="corporate-box">
+                        <div className="image-container">
+                          <img src={idea} ></img>
+                        </div>
+                        <div className="corporate-title">Innovation</div>
+                        <div className="corporate-desc">
+                          Our products are absorbed faster thanks to our nanotechnology that shrinks CBD particle size
+                        </div>
+                      </div>
+                    </div>
+
+
                   </div>
                   <Features gridItems={intro.blurbs} />
                   <div className="columns">
