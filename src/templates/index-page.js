@@ -33,7 +33,8 @@ export const IndexPageTemplate = ({
   mainpitch,
   description,
   intro,
-  slideSettings
+  slideSettings,
+  whyCBDContent
 }) => (
     <div>
       {/* <div
@@ -131,7 +132,8 @@ export const IndexPageTemplate = ({
                   </div>
                   <div className="has-text-centered section-headline">
                     <h2 className="is-size-2 bold-900">OUR
-                  <span className="color"> CBD PRODUCTS </span></h2> </div>
+                  <span className="color"> CBD PRODUCTS </span></h2>
+                  </div>
                   <div className="has-text-centered section">
                     Capital American Shaman CBD products are not cookie cutter, one-size-fits-all.
                     There are many different ways you can use CBD.
@@ -285,6 +287,45 @@ export const IndexPageTemplate = ({
 
 
                   </div>
+
+                  {/* WHY CBD */}
+                  <div className="section">
+                    <div className="why-cbd-section container">
+                      <div className="has-text-centered section-headline">
+                        <h2 className="is-size-2 bold-900">WHY
+                       <span className="color"> CBD  </span></h2>
+                      </div>
+                      <div className=" why-cbd-boxes-container">
+                        <div className="columns is-multiline is-centered">
+                          {whyCBDContent.map((item, index) => (
+                            <div key={item.title} className="column" >
+                              <div className="why-cbd-box">
+                                <div className="title">
+                                  {item.title}
+                                </div>
+                                <div className="text">
+                                  {item.text}
+                                </div>
+
+                              </div>
+                            </div>
+
+                          ))}
+                        </div>
+                      </div >
+                    </div>
+
+                  </div>
+
+
+                  <div className="contact-us-container container">
+                    <div className="has-text-centered section-headline">
+                      <h2 className="is-size-2 bold-900">CONTACT
+                       <span className="color"> US  </span></h2>
+                    </div>
+
+                  </div>
+
                   <Features gridItems={intro.blurbs} />
                   <div className="columns">
                     <div className="column is-12 has-text-centered">
@@ -313,6 +354,22 @@ export const IndexPageTemplate = ({
     </div >
   )
 
+const whyCBDContent = [{
+  title: "PAIN MANAGEMENT",
+  text: "Evidence suggests CBD can be used to manage chronic pain, and this is especially promising information due to its lack of intoxicating effects on the body. Many people looking for natural alternative pain relief are starting to evaluate the benefits of cbd as viable option."
+},
+{
+  title: "MAINTAIN BALANCE AND MANAGE PHYSICAL AND EMOTIONAL STRESS",
+  text: "CBD interacts with our body through the endocannabinoid system, which is the system that regulates the bodies normal homeostasis. Maintaining balance promotes a healthy immune system which in turns increases wellness."
+},
+{ title: "MAINTAIN FOCUS AND REGULATE MOOD", text: "CBD directly associates with the brain’s dopamine, the chemical neurotransmitter in charge of memory, focus and mental awareness. By facilitating the correct levels of dopamine released into the body, CBD helps the body perform at a higher level of efficiency." },
+{ title: "SLEEP AID", text: "CBD activates serotonin receptors in the brain and this release has soothing, anti-anxiety effects that can help people sleep. We also carry CBNight, A new revolutionary blend of cannabinoids that focuses purely on one thing, better sleep. With CBNight Water Soluble CBN Oil, you will not experience any side effects as you’re using nature’s cannabinoids and terpenes to softly encourage exactly what you’ve been looking for, better sleep." },
+{ title: "RELIEF FROM MULTIPLE CONDITIONS", text: "Studies have shown CBD provides anecdotal relief from various common health issues, such as anxiety, depression, acne, fibromyalgia and others. Those suffering from nausea and vomiting have also seen relief, and studies have shown promising results with epilepsy, multiple sclerosis and heart related issues. Research is still ongoing." },
+{ title: "PET CARE", text: "Cats and your Dogs have an endocannabinoid system as well, they can also experience many of the same benefits CBD provides to humans. This can include an increase in mobility and an ease of stress and anxiety. CBD can also improve heart and immune systems in some pets." },
+
+]
+
+
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
@@ -323,7 +380,8 @@ IndexPageTemplate.propTypes = {
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
-  slideSettings: PropTypes.object
+  slideSettings: PropTypes.object,
+  whyCBDContent: PropTypes.array
 }
 
 const IndexPage = ({ data }) => {
@@ -347,6 +405,7 @@ const IndexPage = ({ data }) => {
         description={frontmatter.description}
         intro={frontmatter.intro}
         slideSettings={settings}
+        whyCBDContent={whyCBDContent}
       />
     </Layout>
   )
