@@ -24,7 +24,7 @@ import idea from '../img/corporate/idea.png';
 import love from '../img/corporate/love.png';
 import rocket from '../img/corporate/rocket.png';
 import GoogleMapReact from 'google-map-react';
-import mapMarker from '../img/map-marker2.png';
+import MapMarker from '../components/MapMarker'
 
 
 export const IndexPageTemplate = ({
@@ -113,7 +113,7 @@ export const IndexPageTemplate = ({
         <div className="container">
           <div className="section">
             <div className="columns">
-              <div className="column is-10 is-offset-1">
+              <div className="column ">
                 <div className="content">
                   <div className="content section-headline main-headline">
                     <div className="tile ">
@@ -335,24 +335,27 @@ export const IndexPageTemplate = ({
                         }}
                         defaultZoom={14}
                       >
-                        <img src={mapMarker} style={{ height: '40px' }} />
+                        <MapMarker />
                       </GoogleMapReact>
                     </div>
                   </div>
 
-                  <Features gridItems={intro.blurbs} />
+                  {/* <Features gridItems={intro.blurbs} />
                   <div className="columns">
                     <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/products">
                         See all products
                     </Link>
                     </div>
-                  </div>
+                  </div> */}
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      Latest stories
-                  </h3>
-                    <BlogRoll />
+                    <div className="has-text-centered section-headline ">
+                      <h2 className="is-size-2 bold-900">LATEST
+                       <span className="color"> BLOGS  </span></h2>
+                    </div>
+                    <div style={{ margin: '100px 0 50px 0' }}>
+                      <BlogRoll />
+                    </div>
                     <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/blog">
                         Read more

@@ -61,10 +61,9 @@ $black: #2b2523
     border-radius: .25rem
     text-decoration: none
     font-weight: 700
-    color: #CC3700
+    color: white
+    background: $capital-plum
     text-align: center
-    -webkit-box-shadow: inset 0 0 0 2px #CC3700
-    box-shadow: inset 0 0 0 2px #f40
     -webkit-transition: all .15s ease
     transition: all .15s ease
 
@@ -131,14 +130,16 @@ $menu-label-color: $white-ter
 
 // blog roll
 .blog-list-item.is-featured
-  background-color: #d6400033;
+  background-color: #fdecf7;
 .blog-list-item header
   display: flex;
   margin-bottom: 1em;
 .blog-list-item .featured-thumbnail
   flex-basis: 35%;
   margin: 0 1.5em 0 0;
-
+.blog-list-item
+  a
+    color: $capital-plum !important
 
 @import "~bulma"
 
@@ -194,6 +195,9 @@ h1
 
 .bold-900
   font-weight: 900 !important
+
+.section
+  padding: 20px !important;
 
 .section-headline
     &::after
@@ -275,3 +279,64 @@ ul
       &:hover
         color: white !important;
   .text
+
+.footer-section-1
+  background: #bcbcbc !important;
+  padding: 40px 20px
+  p
+    span 
+      color: #8b2e6b;
+      font-weight: 700;
+    a
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+  h5
+    font-size: 18px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+
+  #mc_embed_signup
+    label
+      display: block
+      font-size: 16px
+      padding-bottom: 10px
+      font-weight: bold
+      color: rgb(68, 68, 68);
+    input.email
+      font-size: 15px
+      display: block
+      padding: 0 0.4em
+      margin: 0 4% 10px 0 
+      min-height: 32px
+      width: 58%
+      min-width: 130px
+      -webkit-border-radius: 3px;
+      -moz-border-radius: 3px;
+      border-radius: 3px;
+      border: 1px solid #8b2e6b;
+
+    .button
+      background-color: #8b2e6b;
+      border: 0 none;
+      color: white;
+
+
+::selection
+    background: #8b2e6b;
+    color: white;
+    text-shadow: none;
+
+.footer-area-bottom 
+  background: rgba(10, 27, 40, 0.99) none repeat scroll 0 0;
+  padding: 25px 20px;
+  .copyright
+    a
+      color: #8b2e6b
+      
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px)
+  .why-cbd-section .why-cbd-box
+    width: 300px
+
+    
