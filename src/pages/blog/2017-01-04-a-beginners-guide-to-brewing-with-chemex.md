@@ -1,29 +1,64 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: "CBD and Stress "
+date: 2020-05-25T01:17:21.755Z
+description: >
+  As we navigate uncertain times and a reality that rivals a farfetched natural
+  disaster movie there’s one thing that we’re all too familiar with, stress. 
+  Stress has increasingly become a more common complaint to just about
+  everyone.  Our lives are more confined and unpredictable than ever before.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/blog2.png
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+![CBD and Stress](/img/blog2.png)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
 
-## The little secrets of Chemex brewing
+Many clinical studies have shown stress to cross mental boundaries and affect us physically.We must figure out a way to remain calm and collected.One of the things that CBD does well is curb stress.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+We all have various techniques we use to reduce everyday stressors with different levels of success. At [Capital CBD American Shaman, we offer a wide variety of CBD-infused products](https://cbdamericanshaman.com/msterling-leach) that can be taken regularly, each with their own unique formulations and all containing the highest-quality CBD extract on the market.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+In addition to going over the effects, root of stress and CBD’s effect, we’ll also explore the best ways to use CBD to manage the stress levels we encounter daily. This will provide insight and know how on how to utilize hemp most effectively.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+
+**Dissecting stress**
+
+What exactly is stress? Stress is a chemical reaction that occurs within our hormonal system. In ancient times our ancestors relied on stress response to keep them clear of danger. Our minds secrete cortisol, a hormone that stimulates the nervous system when in the bloodstream, this helps us think faster, and respond quicker to avoid danger. Stress helped our ancestors survive. The stress response evokes a series of chemical changes which increases our heart rate, deprioritizes digestion, cause our minds to have racing thoughts and cause our muscles to tense up. These side effects that once helped us, seem to hinder more than help in today’s society.Life has changed drastically from ancient times.
+
+
+
+**Dealing with Stress**
+
+There are many ways to deal with stress, some techniques are more useful than others. Many people use, meditation, yoga and many other practices in an attempt to calm the mind but not everyone has time to carry out these practices daily. Some people utilize a professional therapist for help with limiting their stress.
+
+
+
+
+
+**CBD lowers Stress: What Research Tells Us.**
+
+How does CBD fit into the equation that yields our stress levels? CBD and other hemp cannabinoids work with our body’s endocannabinoid system.Our endocannabinoid system uses cannabinoid receptors to produce chemical changes which can regulate bodily functions such as hormonal secretion and mood.
+
+CBD is a natural, plant-derived product that can be purchased over the counter and is sometimes blended with other stress-relieving plant-based alternatives such as lavender, kava and other herbs & botanicals. Many people use CBD daily to alleviate stress.
+
+
+
+**How You Can Start Using CBD**
+
+The first thing we recommend to everyone is that they consult with their doctor prior to implementing a CBD regimen. It is always good for your doctor to know what you are putting in your body, whether it comes from a plant or not.
+
+We recommend that you choose a strength that is catered to you as an individual. Higher strengths of CBD are more potent, and you will know the potency level that is ideal for you based on how you feel.It is always better to start off with a lower strength and increase potency vs starting off stronger and decreasing as needed.
+
+One key aspect to using CBD is consistency. Due to the nature of the endocannabinoid system, it seems best to use CBD daily, this allows the compounds to build up gradually in the system potentially making it more efficient which is more effective. You can start with the suggested dosage found on the product label. You can increase your daily dose as needed over the course of a few weeks if you feel it’s necessary.
+
+The manner you choose to consume CBD is your decision. CBD can be [vaped](https://cbdamericanshaman.com/msterling-leach), [ingested](https://cbdamericanshaman.com/msterling-leach) or applied via sublingual administration as a [tincture](https://cbdamericanshaman.com/msterling-leach). No particular method is objectively better than the other however some methods are more efficient.You can choose the method that appeals most to your personal preferences, and feel free to experiment to determine what works best for you.
+
+
+
+**Remain Calm and Let CBD Work For You**
+
+We all experience various levels of stress with the passage of time.It is a basic and natural human response when things don’t go our way, or when we sense danger.Everyday stress has hit record levels which can be really unhealthy.There are actions you can take to lower your current stress levels and in some cases prevent it altogether.Use this guide to go about [buying and using CBD products](https://cbdamericanshaman.com/msterling-leach) the most effective way.Make the most of the high quality CBD near Burnet Rd at Capital CBD American Shaman.Our products are an excellent natural alternative path to wellness.
