@@ -9,7 +9,7 @@ description: The CBD market is quickly growing and diversifying, consumers have
   educate our customers on CBD as much as we possibly can.  Our goal is help
   customers match the right products for their needs and enjoy a successful
   routine with all that hemp has to offer.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/hempoil.png
 tags:
   - hemp oil
