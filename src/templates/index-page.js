@@ -295,7 +295,7 @@ export const IndexPageTemplate = ({
 
                   {/* WHY CBD */}
 
-                  <div className="why-cbd-section app-section">
+                  <div className="why-cbd-section app-section" id="why-cbd">
                     <div className="has-text-centered section-headline">
                       <h2 className="is-size-2 bold-900">WHY
                        <span className="color"> CBD  </span></h2>
@@ -320,7 +320,7 @@ export const IndexPageTemplate = ({
                     </div >
                   </div>
 
-                  <div className="contact-us-section app-section">
+                  <div className="contact-us-section app-section" id="contact-us">
                     <div className="has-text-centered section-headline">
                       <h2 className="is-size-2 bold-900">CONTACT
                        <span className="color"> US  </span></h2>

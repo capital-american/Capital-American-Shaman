@@ -14,6 +14,11 @@ const TemplateWrapper = ({ children }) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
+        <meta name="keywords" content="CBD Near Me, CBD Store, CBD American Shaman, CBD North Austin, CBD Austin,
+        American Shaman Austin, American Shaman Burnet, CBD American Shaman Near Me,
+        hemp cbd oil, cbd gummies austin, best cbd gummies, cbd gummies near me, cbd
+        flower austin, hemp flower austin, best cbd flower, cbd bud, cbd oil austin,
+        cbd gummies for pain, cbd oil for pain, pain relief, Arthritis relief"></meta>
         <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png" />
         <script src="https://kit.fontawesome.com/729aead759.js" crossorigin="anonymous"></script>
         <link
