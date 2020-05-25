@@ -302,7 +302,7 @@ export const IndexPageTemplate = ({
                     </div>
                     <div className=" why-cbd-boxes-container">
                       <div className="columns is-multiline is-centered">
-                        {whyCBDContent.map((item, index) => (
+                        {whyCBDContent && whyCBDContent.map((item, index) => (
                           <div key={item.title} className="column" >
                             <div className="why-cbd-box">
                               <div className="title">
