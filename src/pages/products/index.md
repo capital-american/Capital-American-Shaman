@@ -12,10 +12,10 @@ intro:
   blurbs:
     - image: /img/water-soluble-full-spectrum-hemp-oil.jpg
       text: >
-        MADE IN USA: Now, you can drink our Ultra Concentrated Hemp Oil
+        <p>MADE IN USA: Now, you can drink our Ultra Concentrated Hemp Oil
         Supplement. This fast acting delivery system is up to 10 times more
         bioavailable than oil. This may be added to any drink and there are four
-        flavors to choose from.
+        flavors to choose from.<p/>
 
 
         Directions: 2X Daily. (mL measure is on dropper). Use 1/2 mL in 8oz of liquid. Stir and drink. 1 mL contains 10mg of CBD.
