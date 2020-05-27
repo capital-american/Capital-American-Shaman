@@ -12,10 +12,10 @@ intro:
   blurbs:
     - image: /img/water-soluble-full-spectrum-hemp-oil.jpg
       text: >
-        <p>MADE IN USA: Now, you can drink our Ultra Concentrated Hemp Oil
+        MADE IN USA: Now, you can drink our Ultra Concentrated Hemp Oil
         Supplement. This fast acting delivery system is up to 10 times more
         bioavailable than oil. This may be added to any drink and there are four
-        flavors to choose from.<p/>
+        flavors to choose from.
 
 
         Directions: 2X Daily. (mL measure is on dropper). Use 1/2 mL in 8oz of liquid. Stir and drink. 1 mL contains 10mg of CBD.
@@ -25,12 +25,18 @@ intro:
 
 
         *Daily Value: Not established. Cannabidiol is a natural constituent of Hemp Oil.
-    - image: /img/coffee-gear.png
+    - image: /img/cbd-extra-strength-water-soluble_900-450.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        
+        American Shaman Extra Strength Water Soluble
+
+
+        MADE IN USA:  Now, you can drink our Ultra Concentrated Hemp Oil Supplement with Extra Strength. Containing high amounts of CBD (Cannabidiol). No Heavy Metals or Insecticides. Ultra Performance Convergence Chromatography. This fast acting delivery system is up to 10 times more bioavailable than oil. This may be added to any drink.
+
+
+        INGREDIENTS: Purified Water by reverse osmosis, Concentrated Cannabinoid and Terpene Rich Hemp Oil, Berry Saponin Extract, and Citric Acid. Please note that natural ingredients may cause color variations.
+
+        SERVING SIZE: 1/2 mL to 1mL (mL measure is on the dropper)
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
