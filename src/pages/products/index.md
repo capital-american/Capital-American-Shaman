@@ -2,10 +2,6 @@
 heading: Buy with confidence
 path: /products
 templateKey: product-page
-pricing:
-  heading: test
-  description: test
-  plans: []
 title: Our Products
 image: /img/product-page-main.jpg
 description: Taking or using a CBD enriched product can enhance your body’s
@@ -206,4 +202,13 @@ testimonials:
       out!
     author: Kristian Judd
 full_image: /img/happy-men.jpg
+pricing:
+  heading: test
+  description: test
+  plans:
+    - plan: "1"
+      price: "2"
+      description: "3"
+      items:
+        - "4"
 ---
