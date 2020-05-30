@@ -14,6 +14,16 @@ intro:
       text: >-
         <p>
 
+        <h3> 
+
+        Water Soluble, Full Spectrum Hemp Oil (30mL)
+
+        </h3>
+
+        </p>
+
+        <p>
+
         MADE IN USA: Now, you can drink our Ultra Concentrated Hemp Oil Supplement. This fast acting delivery system is up to 10 times more bioavailable than oil. This may be added to any drink and there are four flavors to choose from.
 
         </p>
