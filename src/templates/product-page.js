@@ -30,8 +30,8 @@ export const ProductPageTemplate = ({
         <h2
           className="has-text-weight-bold is-size-1"
           style={{
-            boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-            backgroundColor: '#f40',
+            boxShadow: '0.5rem 0 0 #8b2e6b, -0.5rem 0 0 #8b2e6b',
+            backgroundColor: '#8b2e6b',
             color: 'white',
             padding: '1rem',
           }}
@@ -51,15 +51,19 @@ export const ProductPageTemplate = ({
             <div className="columns">
               <div className="column is-10 is-offset-1">
                 <Features gridItems={intro.blurbs} />
-                <div className="columns">
+                <div>
+                  <a className="link-view-more-products" target="_blank" href="https://cbdamericanshaman.com/msterling-leach">View More Products</a>
+                </div>
+                {/* <div className="columns">
                   <div className="column is-7">
                     <h3 className="has-text-weight-semibold is-size-3">
                       {main.heading}
                     </h3>
                     <p>{main.description}</p>
                   </div>
-                </div>
-                <div className="tile is-ancestor">
+                </div> */}
+
+                {/* <div className="tile is-ancestor">
                   <div className="tile is-vertical">
                     <div className="tile">
                       <div className="tile is-parent is-vertical">
@@ -79,29 +83,25 @@ export const ProductPageTemplate = ({
                       </article>
                     </div>
                   </div>
+                </div> */}
+                <div className="testimonaals">
+                  <Testimonials testimonials={testimonials} />
                 </div>
-                <Testimonials testimonials={testimonials} />
                 <div
-                  className="full-width-image-container"
-                  style={{
-                    backgroundImage: `url(${
-                      fullImage.childImageSharp
-                        ? fullImage.childImageSharp.fluid.src
-                        : fullImage
-                      })`,
-                  }}
+
+
                 />
-                <h2 className="has-text-weight-semibold is-size-2">
+                {/* <h2 className="has-text-weight-semibold is-size-2">
                   {pricing.heading}
                 </h2>
                 <p className="is-size-5">{pricing.description}</p>
-                <Pricing data={pricing.plans} />
+                <Pricing data={pricing.plans} /> */}
               </div>
             </div>
           </div>
         </div>
       </section>
-      <a className="shop-link"></a>
+      <a style={{ display: 'none' }} className="shop-link" ></a>
     </div>
   )
 
