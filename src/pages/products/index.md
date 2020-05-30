@@ -69,29 +69,80 @@ intro:
 
         </p>
 
-        INGREDIENTS: Purified Water by reverse osmosis, Concentrated Cannabinoid and Terpene Rich Hemp Oil, Berry Saponin Extract, and Citric Acid. Please note that natural ingredients may cause color variations.
+        Ingredients: Purified Water by reverse osmosis, Concentrated Cannabinoid and Terpene Rich Hemp Oil, Berry Saponin Extract, and Citric Acid. Please note that natural ingredients may cause color variations.
 
         </p>
 
         <p>
 
-        SERVING SIZE: 1/2 mL to 1mL (mL measure is on the dropper)
+        Serving size: 1/2 mL to 1mL (mL measure is on the dropper)
 
         </p>
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+    - image: /img/canine-cbd.jpg
+      text: >-
+        <p>
+
+        <h3>Canine CBD Hemp Oil Tincture </h3>
+
+        <p>
+
+        MADE IN USA: Just as with our human line of products, we use the best of ingredients for our canine, feline or equine customers. After all, they’re family, too!
+
+        </p>
+
+        <p>
+
+        Ingredients: CBD Terpene Rich Industrial Hemp Oil, Medium Chain Triglyceride Oil from Coconut Oil. Real Beef and Cheese Flavor. Successfully Tested on Humans.
+
+        </p>
+
+        <p>
+
+        Serving Size: (mL measure is on dropper)
+
+
+        1 to 24lb. Dog = .25mL
+
+        25 to 49lb. Dog = .5mL
+
+        50 to 99lb. Dog = .75mL
+
+        100 to 200lb. Dog = 1mL
+
+        2X Daily
+
+        </p>
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: >-
+        <p>
+
+        <h3> </h3>
+
+        <p>
+
+        </p>
+
+        <p>
+
+        </p>
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
