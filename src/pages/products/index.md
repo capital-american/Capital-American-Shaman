@@ -2,6 +2,10 @@
 heading: Buy with confidence
 path: /products
 templateKey: product-page
+pricing:
+  heading: test
+  description: test
+  plans: []
 title: Our Products
 image: /img/product-page-main.jpg
 description: Taking or using a CBD enriched product can enhance your body’s
@@ -201,9 +205,5 @@ testimonials:
       helps me with anxiety. I use the water soluble pink lemonade. Check em
       out!
     author: Kristian Judd
-full_image: /img/products-full-width.jpg
-pricing:
-  heading: test
-  description: test
-  plans: []
+full_image: /img/happy-men.jpg
 ---
