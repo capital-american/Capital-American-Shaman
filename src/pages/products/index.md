@@ -160,54 +160,50 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: test main
+  description: "\n"
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/happy-men.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/happy-people.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/products-grid2.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+  - author: Marissa Neunaber
+    quote: I highly recommend Capital CBD American Shaman on Burnet Rd. The
+      establishment is very nice, clean and inviting. Mike is very knowledgeable
+      about all the products and his customer service if great! If you’re
+      thinking about trying CBD, this is definitely where you should go.
+  - author: Booker Gilbert
+    quote: Great experience while visiting Capital CBD American Shaman. Very clean
+      environment and was greeted as if we were long time friends. Michael was
+      very knowledgeable and respectful of the fact that I didn’t really know
+      what I was looking for. He simply asked a few questions about my needs,
+      explained the benefits of their products, which eventually allowed me to
+      make confident selection.
+  - quote: I would definitely recommend Capital CBD to anyone looking to get into
+      using CBD or anyone who just wants quality products. We talked to Kelley
+      when we went in and she was so welcoming and kind. She definitely creates
+      an awesome environment for learning and growth! We purchased the 25mg
+      gummies and got to try the lemon drops at 30mg a dropper and my back pain
+      disappeared by the end of our conversation. My best friend has epilepsy
+      and Kelly offered us some educational information to give to her. I can
+      really tell Capital CBD is a business that will continue to grow because
+      of their awesome staff and amazing products.
+    author: Annie Olivarez
+  - quote: Capital CBD has been my favorite place to shop for all of my cbd needs.
+      They have gummies, water solubles, pre-rolls, flower and more all in an
+      upscale environment. Quality products made here in the U.S.!  If you're
+      new to the CBD scene these folks know everything about nature's gift. CBD
+      helps me with anxiety. I use the water soluble pink lemonade. Check em
+      out!
+    author: Kristian Judd
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: ??
+  heading: test
+  description: test
+  plans: []
 ---
