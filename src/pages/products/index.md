@@ -161,7 +161,9 @@ intro:
     knowledge to anyone. This is an edit via identity...
 main:
   heading: test main
-  description: "\n"
+  description: |-
+    
+    test
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/happy-men.jpg
