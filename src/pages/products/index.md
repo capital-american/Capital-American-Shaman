@@ -1,13 +1,13 @@
 ---
-heading: Great coffee with a conscience
+heading: Buy with confidence
 path: /products
 templateKey: product-page
-title: Our Coffee
-image: /img/jumbotron.jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+title: Our Products
+image: /img/product-page-main.jpg
+description: Taking or using a CBD enriched product can enhance your body’s
+  ability to maintain balance and manage occasional stress. It is also known to
+  have many beneficial properties and is particularly effective for supporting
+  focus and maintaining health and well-being.
 intro:
   blurbs:
     - image: /img/water-soluble-full-spectrum-hemp-oil.jpg
@@ -21,7 +21,7 @@ intro:
         Directions: 2X Daily. (mL measure is on dropper). Use 1/2 mL in 8oz of liquid. Stir and drink. 1 mL contains 10mg of CBD.
 
 
-        Ingredients: Purified water by reverse osmosis, natural & artificial flavoring, concentrated cannabinoid & terpene rich hemp oil, citric acid.
+        Ingredients: <strong>Purified water by reverse osmosis, natural & artificial flavoring, concentrated cannabinoid & terpene rich hemp oil, citric acid. </strong>
 
 
         *Daily Value: Not established. Cannabidiol is a natural constituent of Hemp Oil.
