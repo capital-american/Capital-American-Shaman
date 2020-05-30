@@ -52,17 +52,32 @@ intro:
 
         </p>
     - image: /img/cbd-extra-strength-water-soluble_900-450.jpg
-      text: >
-        
+      text: >-
+        <p>
+
+        <h3>
+
         American Shaman Extra Strength Water Soluble
 
+        </h3>
+
+        </p>
+
+        <p>
 
         MADE IN USA:  Now, you can drink our Ultra Concentrated Hemp Oil Supplement with Extra Strength. Containing high amounts of CBD (Cannabidiol). No Heavy Metals or Insecticides. Ultra Performance Convergence Chromatography. This fast acting delivery system is up to 10 times more bioavailable than oil. This may be added to any drink.
 
+        </p>
 
         INGREDIENTS: Purified Water by reverse osmosis, Concentrated Cannabinoid and Terpene Rich Hemp Oil, Berry Saponin Extract, and Citric Acid. Please note that natural ingredients may cause color variations.
 
+        </p>
+
+        <p>
+
         SERVING SIZE: 1/2 mL to 1mL (mL measure is on the dropper)
+
+        </p>
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
