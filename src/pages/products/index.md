@@ -11,20 +11,35 @@ description: Taking or using a CBD enriched product can enhance your body’s
 intro:
   blurbs:
     - image: /img/water-soluble-full-spectrum-hemp-oil.jpg
-      text: >
+      text: >-
         MADE IN USA: Now, you can drink our Ultra Concentrated Hemp Oil
         Supplement. This fast acting delivery system is up to 10 times more
         bioavailable than oil. This may be added to any drink and there are four
         flavors to choose from.
 
+        <p>
 
         Directions: 2X Daily. (mL measure is on dropper). Use 1/2 mL in 8oz of liquid. Stir and drink. 1 mL contains 10mg of CBD.
 
+        </p>
 
-        Ingredients: <strong>Purified water by reverse osmosis, natural & artificial flavoring, concentrated cannabinoid & terpene rich hemp oil, citric acid. </strong>
+        <p>
 
+        Ingredients: Purified water by reverse osmosis, natural & artificial flavoring, concentrated cannabinoid & terpene rich hemp oil, citric acid. 
+
+        </p>
+
+        <p>
 
         *Daily Value: Not established. Cannabidiol is a natural constituent of Hemp Oil.
+
+        </p>
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
     - image: /img/cbd-extra-strength-water-soluble_900-450.jpg
       text: >
         
