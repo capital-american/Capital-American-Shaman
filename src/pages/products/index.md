@@ -203,7 +203,7 @@ testimonials:
       helps me with anxiety. I use the water soluble pink lemonade. Check em
       out!
     author: Kristian Judd
-full_image: /img/happy-men.jpg
+full_image: /img/nature.jpeg
 pricing:
   heading: test
   description: test
