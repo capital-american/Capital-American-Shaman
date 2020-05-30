@@ -124,17 +124,27 @@ intro:
         <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
 
         </p>
-    - image: /img/meeting-space.png
+    - image: /img/500-topical-cream.jpg
       text: >-
         <p>
 
-        <h3> </h3>
+        <h3>500 Topical Cream </h3>
 
         <p>
+
+        MADE IN USA: You get only the highest quality hemp oil (non-GMO hemp) containing high amounts of CBD (500 mg) in a convenient 2oz size. And, since we test each batch for purity and potency, you know you're getting the best of Nature enhanced by Science.
 
         </p>
 
         <p>
+
+        Directions: Use a drop or two of our CBD Topical Cream. A small amount spreads like crazy! Pat onto affected area and see a difference in a matter of days. Nature’s secret is at your finger tips.
+
+        </p>
+
+        <p>
+
+        Ingredients: Vegetable Glycerin, Lanolin, Aloe Vera Gel, DMSO, CBD and Terpene Rich Hemp Oil Concentrate, Vitamin A, D, & E Oil. Natural ingredients may cause color variations. Refrigerate for longer shelf life. 
 
         </p>
 
