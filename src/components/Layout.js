@@ -19,7 +19,7 @@ const TemplateWrapper = ({ children }) => {
         hemp cbd oil, cbd gummies austin, best cbd gummies, cbd gummies near me, cbd
         flower austin, hemp flower austin, best cbd flower, cbd bud, cbd oil austin,
         cbd gummies for pain, cbd oil for pain, pain relief, Arthritis relief"></meta>
-        <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png" />
+        <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico" />
         <script src="https://kit.fontawesome.com/729aead759.js" crossorigin="anonymous"></script>
         <link
           rel="apple-touch-icon"
@@ -29,19 +29,19 @@ const TemplateWrapper = ({ children }) => {
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix('/')}img/favicon.png`}
+          href={`${withPrefix('/')}img/favicon.ico`}
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix('/')}img/favicon.png`}
+          href={`${withPrefix('/')}img/favicon-16x16.png`}
           sizes="16x16"
         />
 
         <link
           rel="mask-icon"
-          href={`${withPrefix('/')}img/safari-pinned-tab.svg`}
+          href={`${withPrefix('/')}img/capital-logo.png`}
           color="#ff4400"
         />
         <meta name="theme-color" content="#fff" />
@@ -51,7 +51,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          content={`${withPrefix('/')}img/og-image.jpg`}
+          content={`${withPrefix('/')}img/capital-logo.png`}
         />
       </Helmet>
       <Navbar />
