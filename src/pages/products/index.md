@@ -153,7 +153,7 @@ intro:
         <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
 
         </p>
-    - image: /img/cbnight.jpg
+    - image: /img/cbnight-austin-cbd-store-shaman.jpg
       text: >+
         <p>
 
