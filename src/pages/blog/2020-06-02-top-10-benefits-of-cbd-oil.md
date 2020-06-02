@@ -8,15 +8,11 @@ featuredimage: /img/cbd-oil-for-pain-near-me.jpg
 tags:
   - Benefits of CBD
 ---
-
-
 ![](/img/top-benefits.jpg)
-
-
 
 By Capital CBD American Shaman | May 07, 2020
 
-[Share](https://www.facebook.com/sharer/sharer.php?u=https://cbdamericanshaman.com/blog/benefits-of-cbd-oil/msterling-leach)
+[Share](https://www.facebook.com/sharer/sharer.php?u=https://capitalamericanshaman.com/blog/2020-06-02-top-10-benefits-of-cbd-oil/)
 
 Cannabidiol (CBD) is a natural compound derived from cannabis plants. CBD is one of over 100 cannabinoid compounds that can be found in these plants. Hemp-derived CBD oils do not contain more than 0.3 percent tetrahydrocannabinol (THC), which is the physcoactive, intoxicating cannabinoid found in marijuana.  THC creates a high effect.
 
