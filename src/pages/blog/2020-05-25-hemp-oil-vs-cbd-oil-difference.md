@@ -16,6 +16,12 @@ tags:
   - cbd oil
   - ""
 ---
+
+
+![](/img/hempoil.png)
+
+
+
 **Hemp Oil vs. CBD Oil: The reason There Isn’t a Clear Answer**
 
 Let’s first define each term.  Technically speaking, hemp oil is an oil derived from the hemp seeds, while it’s extremely rich in a variety of nutrients, it practically has no CBD content because CBD is found in other parts of the plant.  [CBD oil](https://cbdamericanshaman.com/cbd-oils) comes from the flowers, stalks, and leaves of the hemp plant.  CBD naturally occurs in these areas of the plant at a high volume.
