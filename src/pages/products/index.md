@@ -181,6 +181,14 @@ intro:
 
         Strength: 4mg
 
+        </p>
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+
 
   heading: What we offer
   description: >
