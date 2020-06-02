@@ -153,6 +153,18 @@ intro:
         <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
 
         </p>
+    - image: /img/cbnight.jpg
+      text: "MADE IN USA:  A new revolutionary blend of cannabinoids that focuses
+        purely on one thing and one thing only, better sleep. Our proprietary
+        blend of cannabinoids is taking a step forward by utilizing minor
+        cannabinoids from a hemp extract to bring a new formula to the
+        marketplace. When people take common sleep aids they get side effects
+        like grogginess, unusual dreams, dry mouth, dizziness and many more.
+        With CBNight Water Soluble CBN Oil, you will not experience any side
+        effects as you’re using nature’s cannabinoids and terpenes to softly
+        encourage exactly what you’ve been looking for, better sleep. This
+        product is the first of its kind and we’re excited to let the public buy
+        CBN online after months of testing."
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
