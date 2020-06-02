@@ -223,6 +223,36 @@ intro:
 
 
 
+    - image: /img/austin_shaman_cbd-terpene-rich-hemp-oil-tincture-capital.jpg
+      text: >
+        <p>
+
+        <h3>Terpene Rich Hemp Oil Tincture</h3>
+
+
+        MADE IN USA: This is an all natural, CBD Hemp Oil dietary supplement. It comes in a 15mL bottle with a dropper. It is a tincture (to be taken orally-usually under the tongue).</p>
+
+        <p>
+
+        Flavors: Blueberry Moon, Cinnamon, Grape, and Natural.
+
+        Each flavor comes in 150mg, 300mg, 450mg or 750mg – per each bottle. Choose your strength and amount of CBD & Terpene Rich Hemp Oil Tincture according to your personal needs.
+
+        </p>
+
+        <p>
+
+        Usage: We suggest 1/2 dropper twice a day (approx. 0.5mL). Each bottle has approximately 30 servings.</p>
+
+        <p>
+
+        Ingredients: Our VG Cloud Tinctures consist of Cannabidiol (CBD), Vegetable Glycerin, Propylene Glycol, Natural and/or artificial flavoring.
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
