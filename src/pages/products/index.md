@@ -160,7 +160,7 @@ intro:
         <h3>CBNight Water Soluble CBN Oil </h3>
 
 
-        MADE IN USA:  A new revolutionary blend of cannabinoids that focuses purely on one thing and one thing only, better sleep. Our proprietary blend of cannabinoids is taking a step forward by utilizing minor cannabinoids from a hemp extract to bring a new formula to the marketplace. When people take common sleep aids they get side effects like grogginess, unusual dreams, dry mouth, dizziness and many more. With CBNight Water Soluble CBN Oil, you will not experience any side effects as you’re using nature’s cannabinoids and terpenes to softly encourage exactly what you’ve been looking for, better sleep. This product is the first of its kind and we’re excited to let the public buy CBN online after months of testing.
+        MADE IN USA:  A new revolutionary blend of cannabinoids that focuses purely on one thing and one thing only, better sleep. Our proprietary blend of cannabinoids is taking a step forward by utilizing minor cannabinoids from a hemp extract to bring a new formula to the marketplace. When people take common sleep aids they get side effects like grogginess, unusual dreams, dry mouth, dizziness and many more. With CBNight Water Soluble CBN Oil, you will not experience any side effects as you’re using nature’s cannabinoids and terpenes to softly encourage exactly what you’ve been looking for, better sleep. This product is the first of its kind and we’re excited to let the public buy CBN online after months of testing.</p>
 
 
         <p>
@@ -188,6 +188,39 @@ intro:
         <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
 
         </p>
+
+
+    - image: /img/austin-shaman-vg-cloud-tincture-cbd-terpene-rich-hemp-oil.jpg
+      text: >+
+        <p>
+
+        <h3>CBNight Water Soluble CBN Oil </h3>
+
+
+        MADE IN USA: Welcome to VG Cloud Tincture dietary supplement with infused CBD Hemp Oil. Our CBD is infused through a Proprietary Nanotechnology process. Research has shown nano-technology to have faster absorption, last longer in the body, and to be more bioavailable than oil.</p>
+
+        <p>
+
+        Flavors: Apple, Blueberry Moon, Cool Berry, Cherry Limeade, Grape, Lemon, Natural, Strawberry-Banana, Tropical Punch, Tutti-Frutti, Watermelon</p>
+
+        <p>
+
+        Size: 15mL or 30mL</p>
+
+        <p>
+
+        Usage: As an oral tincture or put into a liquid. 0.5mL (1/2 dropper) 2X daily or as needed. CBD oil tinctures are best if placed under your tongue for 30-90 seconds or until it is dissolved.</p>
+
+        <p>
+
+        Ingredients: Our VG Cloud Tinctures consist of Cannabidiol (CBD), Vegetable Glycerin, Propylene Glycol, Natural and/or artificial flavoring.
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+
 
 
   heading: What we offer
