@@ -194,7 +194,7 @@ intro:
       text: >+
         <p>
 
-        <h3>CBNight Water Soluble CBN Oil </h3>
+        <h3>VG Cloud Tincture - CBD & Terpene Rich Hemp Oil </h3>
 
 
         MADE IN USA: Welcome to VG Cloud Tincture dietary supplement with infused CBD Hemp Oil. Our CBD is infused through a Proprietary Nanotechnology process. Research has shown nano-technology to have faster absorption, last longer in the body, and to be more bioavailable than oil.</p>
