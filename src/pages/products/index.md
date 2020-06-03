@@ -284,6 +284,25 @@ intro:
         <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
 
         </p>
+    - text: >
+        <p>
+
+        <h3>CBD Honey</h3>
+
+        <p>
+
+        Our CBD infused honey is the perfect way to add wellness to your favorite drinks or snacks. We harvest raw honey from Cooper’s honey, located in Missouri. Honey has been known to provide health benefits for centuries and acts as an effective carrier for our high quality, terpene rich CBD oil. CBD Hemp Oil Honey also serves as a natural source of protein, terpenes, flavonoids, B complex vitamins, magnesium, essential fatty acids, and vitamins A, C, and E, without additives or preservatives. Each serving of this natural sweetener contains 10mg of full-spectrum CBD. Enjoy our CBD honey by itself on a spoon or as an alternative to any sweetener!</p>
+
+        <p>
+
+        Serving Size: 10mg CBD Per Serving (4ml)
+
+        Strength: 120mg CBD Per Bottle 
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+      image: /img/cbd-honey_austin_store.jpg
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
