@@ -90,7 +90,6 @@ intro:
 
         <h3>Canine CBD Hemp Oil Tincture </h3>
 
-        <p>
 
         MADE IN USA: Just as with our human line of products, we use the best of ingredients for our canine, feline or equine customers. After all, they’re family, too!
 
@@ -249,6 +248,38 @@ intro:
         Ingredients: Our VG Cloud Tinctures consist of Cannabidiol (CBD), Vegetable Glycerin, Propylene Glycol, Natural and/or artificial flavoring.
 
         <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+    - image: /img/cbd-gummies-austin-shaman.jpg
+      text: >
+        <h3>CBD Gummies</h3>
+
+
+        MADE IN USA: Colorful and tasty ADULT Gummies. Candy is infused with 10mg of CBD. That means this container of 30 Gummie pieces offers you a total of 300mg of infused CBD! As a dietary supplement, it’s a delightful way to consume terpene rich, high quality CBD Hemp Oil.  Each piece is a measured dose and is easy to eat.
+
+        </p)
+
+        <p>
+         Flavors: Misc. Fruit Flavors
+        Weight: 0.24
+
+        <p>
+
+        Size: 30 Pieces per container
+
+        Serving Size: 2 pieces per day</p>
+
+        <p>
+
+        Strength: 30 gummies @ 10mg per piece = 300 mg of CBD per container
+
+        Usage: As a Dietary Supplement</p>
+
+        <p>
+
+        Ingredients: Glucose Syrup (from Wheat or Corn), CBD from Hemp Oil Concentrate, Sugar, Gelatin, Dextrose, Citric Acid, Corn Starch, Artificial and Natural Flavors, Palm Kernel Oil, Carnauba Wax, White Beeswax, Yellow Beeswax, Yellow 5, Red 40, Blue 1</p>
 
         <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
 
