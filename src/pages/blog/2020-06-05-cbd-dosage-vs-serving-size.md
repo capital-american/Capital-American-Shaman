@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: CBD Dosage vs Serving Size
+title: CBD Dosage in Perspective
 date: 2020-06-01T15:00:00.000Z
 description: How to determine how much CBD to take.
 featuredpost: true
