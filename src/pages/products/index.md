@@ -330,8 +330,44 @@ intro:
 
         <b>Usage:</b> Take 1 gummy for a full serving of CBD or as needed.
 
-        Ingredients: Corn Syrup, Pectin, Citric Acid, Dextrose Sodium Acetate, Natural Flavoring and Sugar 
+        Ingredients: Corn Syrup, Pectin, Citric Acid, Dextrose Sodium Acetate, Natural Flavoring and Sugar</p>
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p> 
       image: /img/austin-cbd-store-gourmet-gummies-full-spectrum.jpg
+    - image: /img/cbd-store-lemon-cake-edible-austin.jpg
+      text: >-
+        <p>
+
+        <h3>Lemon Cake</h3>
+
+        <p>
+
+        <b>MADE IN USA:</b>Lemme chill! A delicious limoncello cake with 15mg of CBD Hemp Extract per serving (2 servings/30mg per package).</p>
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+    - text: >-
+        <p>
+
+        <h3>Six Pack Brownies</h3>
+
+        <p>
+
+        <b>MADE IN USA:</b> Sink your teeth into this decadent brownie treat, full of terpene-rich CBD icing. These brownies are baked with love, using our proprietary nanotechnology. Each package contains two 15 mg servings of relaxation and wellness, the perfect snack to satisfy your sweet tooth.</p>
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+      image: /img/cbd_products_browneis_austin_cbd-store.jpg
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
