@@ -245,7 +245,7 @@ intro:
 
         <p>
 
-        Ingredients: Our VG Cloud Tinctures consist of Cannabidiol (CBD), Vegetable Glycerin, Propylene Glycol, Natural and/or artificial flavoring.
+        Ingredients: Our VG Cloud Tinctures consist of Cannabidiol (CBD), Vegetable Glycerin, Propylene Glycol, Natural and/or artificial flavoring.</p>
 
         <p>
 
@@ -297,7 +297,9 @@ intro:
 
         Serving Size: 10mg CBD Per Serving (4ml)
 
-        Strength: 120mg CBD Per Bottle 
+        Strength: 120mg CBD Per Bottle </p>
+
+        <p>
 
         <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
 
