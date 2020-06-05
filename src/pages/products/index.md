@@ -295,9 +295,9 @@ intro:
 
         <p>
 
-        Serving Size: 10mg CBD Per Serving (4ml)
+        <b>Serving Size:</b> 10mg CBD Per Serving (4ml)
 
-        Strength: 120mg CBD Per Bottle </p>
+        <b>Strength:</b> 120mg CBD Per Bottle </p>
 
         <p>
 
@@ -305,6 +305,33 @@ intro:
 
         </p>
       image: /img/cbd-honey_austin_store.jpg
+    - text: >-
+        <p>
+
+        <h3>CBD Gourmet Gummies</h3>
+
+        <p>
+
+        <b>MADE IN USA</b> Flavors: Sweet Watermelon, Sour Watermelon, Sweet Blue Raspberry, Sour Blue Raspberry, Sweet Blackberry, Sour Blackberry, Sweet Tropical, Sour Tropical</p>
+
+        <p>
+
+        <b>Weight:</b> .16</p>
+
+        <b>Serving Size:</b> 1 Gummy
+
+        Serving Per Container: 10
+
+        <p>
+
+        <b>Strength:</b> 250mg (25mg per gummy)
+
+        <p>
+
+        <b>Usage:</b> Take 1 gummy for a full serving of CBD or as needed.
+
+        Ingredients: Corn Syrup, Pectin, Citric Acid, Dextrose Sodium Acetate, Natural Flavoring and Sugar 
+      image: /img/austin-cbd-store-gourmet-gummies-full-spectrum.jpg
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
