@@ -297,6 +297,8 @@ intro:
 
         <b>Serving Size:</b> 10mg CBD Per Serving (4ml)
 
+        <p>
+
         <b>Strength:</b> 120mg CBD Per Bottle </p>
 
         <p>
