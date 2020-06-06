@@ -27,15 +27,15 @@ Capital CBD American Shaman Hemp Oil is the highest quality hemp oil available a
 
 **What make Capital CBD American Shaman a more effective product?**
 
-Our proprietary [Nano Technology](Revised/Nanotechnology.docx).It provides the best absorption rate on the market for more detail information [click here](Revised/Nanotechnology.docx).
+Our proprietary Nano Technology. It provides the best absorption rate on the market for more detail information [click here](https://cbdamericanshaman.com/proprietary-nanotechnology).
 
-**[What is the ideal serving size?](https://wholeorganix.com/education/)**
+**What is the ideal serving size?**
 
 The ideal serving size of CBD varies from person to person depending on a wide range of variables, such as age, body weight, metabolism, your sensitivity to CBD and your intended goal.In addition to those variables it also depends on the product and absorption rate.Servings
 
 **Is there a dosage chart to follow for CBD use?**
 
-While we do not make dosage recommendations, it is generally recommended to adhere to the instructions on the outside of the container.People who are new to CBD should always start with a lower amount and gradually work their way up to a dosage that is ideal for them. [These CBD guidelines](CBD%20Dosage.docx) can be used as an educational tool to help understand how CBD might work for them.
+While we do not make dosage recommendations, it is generally recommended to adhere to the instructions on the outside of the container. People who are new to CBD should always start with a lower amount and gradually work their way up to a dosage that is ideal for them. [These CBD guidelines](https://www.cbd.org/guidance-using-cbd) can be used as an educational tool to help understand how CBD might work for them.
 
 Between 5 and 50 milligrams per day are commonly reported for health maintenance and minor issues.
 
@@ -74,7 +74,7 @@ Many people use CBD to support the body’s natural systems.Cannabinoids are an 
 
 **The difference between Hemp Oil and CBD Oil?**
 
-In short Hemp oil comes from seeds and CBD oil comes from the whole plant.For a morein depth explanation read our blog on [Hemp oil vs CBD oil.](Revised/Sent%20for%20Posting/Hemp%20Oil%20vs%20CBD%20Oil.docx)
+In short Hemp oil comes from seeds and CBD oil comes from the whole plant.For a morein depth explanation read our blog on [Hemp oil vs CBD oil](/blog).
 
 **What are cannabinoids? [](https://wholeorganix.com/education/)**
 
@@ -82,4 +82,4 @@ Cannabinoids are compounds found in cannabis.They account for majority of the be
 
 **How does CBD work?[](https://wholeorganix.com/education/)**
 
-CBD’s effects are a result of its interaction with the endocannabinoid system (ECS).CBD impacts the ECS in an indirect manner, it works through activation of outside receptors and interaction with enzymes.For more detailed information on how CBD works take a look at our blog on [CBD Facts](Revised/Top%2010%20benefits%20of%20CBD.docx)
+CBD’s effects are a result of its interaction with the endocannabinoid system (ECS).CBD impacts the ECS in an indirect manner, it works through activation of outside receptors and interaction with enzymes. For more detailed information on how CBD works take a look at our blog on [CBD Facts](/blog)
