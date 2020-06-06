@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 path: /about
-title: About us
+title: Meet the Owner
 ---
 ![](/img/about-cbd-store-owner.jpg)
 
