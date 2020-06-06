@@ -1,8 +1,12 @@
 ---
 templateKey: about-page
 path: /about
-title: About us page
+title: About us
 ---
+![](/img/about-cbd-store-owner.jpg)
+
+<p><p><p>
+
 Capital CBD is a locally owned and operated franchise of American Shaman, The Most Powerful CBD Hemp Oil Available. Owned and operated by lifetime Austinite, Michael Sterling.
 
 Capital CBD American Shaman is dedicated to bringing wellness to the world through ultra- concentrated terpene rich CBD oil derived from all natural, high quality hemp. It is legal in all 50 states and is 100% Organic, Gluten Free, Non GMO Hemp. Our product does not contain any heavy metals or insecticides and is batch tested using Ultra Performance Convergence Chromatography.
