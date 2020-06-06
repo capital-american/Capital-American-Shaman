@@ -7,9 +7,9 @@ title: Meet the Owner
 
 <p><p><p>
 
-Capital CBD is a locally owned and operated franchise of American Shaman, The Most Powerful CBD Hemp Oil Available. Owned and operated by lifetime Austinite, Michael Sterling.
+I was born an raised in Austin Texas.  I have lived in Austin all but 8 years of my life.  I graduated high school in 1995 and move to Arlington Texas to attend the University of Texas at Arlington.  I moved back to Austin in 2003 where I would soon find my passion in Real Estate.  Over the next 15 years I worked in the capacity of a Realtor, Real Estate Investor and Home Inspector.
 
-Capital CBD American Shaman is dedicated to bringing wellness to the world through ultra- concentrated terpene rich CBD oil derived from all natural, high quality hemp. It is legal in all 50 states and is 100% Organic, Gluten Free, Non GMO Hemp. Our product does not contain any heavy metals or insecticides and is batch tested using Ultra Performance Convergence Chromatography.
+Within my career, which has always centered around Real Estate I have always felt there was something more for me to do.  I truly enjoy the service and interaction with people.  In 2018 I took steps towards venturing into CBD.  I experienced an amazing CBD product from American Shaman and I knew instantly it was something I wanted to be a part of.  I was able to see drastic improvements in my mom's mobility that I thouht to myself.  I want to have a  CBD store in the heart of Austin with amazing products.  I envisioned myself helping and assisted those in need with excellent natural alternatives to pain relief.   Capital CBD American Shaman was designed to become a "Wellness Center".
 
 We put our heart and soul into creating our store so that it would be a welcoming space for everyone. We want to break down the stigma of CBD in a comfortable environment surrounded with knowledge about the products we are selling. We are more than a CBD store. Not only does our staff have a broad understanding of CBD but we are backed by the best producer of CBD available. Not all CBD is equal and we can tell you why.
 
