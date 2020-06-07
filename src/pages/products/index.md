@@ -409,6 +409,21 @@ intro:
 
         </p>
       image: /img/cbd-hard-candy-austin.jpg
+    - text: >
+        <p>
+
+        <h3>CBD Coffee</h3>
+
+        <p>
+
+        <b>MADE IN USA:</b>Single Serving K-Cups are for instant K-Cup coffee makers. Enjoy your coffee as a cannabinoid (CBD) supplement. One K-Cup is one serving. No need to measure or mix. Harvested and processed without the use of pesticides/herbicides. Body types and conditions are unique, so there’s no recommended daily amount. Self-regulation is required.</p>
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+      image: /img/cbd-store-coffee-austin.jpg
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
