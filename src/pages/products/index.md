@@ -370,6 +370,45 @@ intro:
 
         </p>
       image: /img/cbd_products_browneis_austin_cbd-store.jpg
+    - text: >
+        <p>
+
+        <h3>CBD & Terpene Rich Candy</h3>
+
+        <p>
+
+        <b>MADE IN USA:</b>A high quality, all-natural, cannabidiol infused treat.</p>
+
+        <p>
+
+        <b>Flavors:</b> Blueberry, Cherry, Mint Chip, and Watermelon</p>
+
+        <p>
+
+        <b>Weight:</b> 0.08</p>
+
+        <p>
+
+        <b>Serving Size:</b> 8 Candy Pieces (20 grams) Per Bag</p>
+
+        <p>
+
+        <b>Serving Per Container:</b> 1</p>
+
+        <p>
+
+        <b>Strength:</b> 8 Candies = 25mg of CBD</p>
+
+        <p>
+
+        <b>Usage:</b> A tasty, CBD infused, edible treat</p>
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+      image: /img/cbd-hard-candy-austin.jpg
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
