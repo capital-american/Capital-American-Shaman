@@ -25,7 +25,7 @@ Capital CBD American Shaman Hemp Oil is the highest quality hemp oil available a
 
 **What make Capital CBD American Shaman a more effective product?**
 
-Our proprietary [Nano Technology](Revised/Nanotechnology.docx).It provides the best absorption rate on the market for more detail information [click here](Revised/Nanotechnology.docx).
+Our proprietary Nano Technology. It provides the best absorption rate on the market for more detail information [click here](Revised/Nanotechnology.docx).
 
 **What is the ideal serving size?**
 
