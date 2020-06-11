@@ -56,7 +56,8 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
-
+  const featuredImageUrl = post.frontmatter.featuredimage ? post.frontmatter.featuredimage.childImageSharp.fluid.src : "";
+  console.log(post.frontmatter.featuredimage);
   return (
     <Layout>
       <BlogPostTemplate
@@ -70,6 +71,12 @@ const BlogPost = ({ data }) => {
               name="description"
               content={`${post.frontmatter.description}`}
             />
+            {featuredImageUrl != "" &&
+              <meta
+                property="og:image"
+                content={`${featuredImageUrl}`}
+              />
+            }
           </Helmet>
         }
         tags={post.frontmatter.tags}
@@ -96,7 +103,14 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         description
-        tags
+        tags,
+        featuredimage {
+          childImageSharp {
+            fluid(maxWidth: 120, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }
