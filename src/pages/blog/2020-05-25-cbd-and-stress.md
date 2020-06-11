@@ -8,7 +8,7 @@ description: >
   Stress has increasingly become a more common complaint to just about
   everyone.  Our lives are more confined and unpredictable than ever before.
 featuredpost: false
-featuredimage: /img/blog2.png
+featuredimage: /img/stress-and-cbd.jpg
 tags:
   - Stress
 ---
