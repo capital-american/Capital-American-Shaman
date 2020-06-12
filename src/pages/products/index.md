@@ -424,6 +424,44 @@ intro:
 
         </p>
       image: /img/cbd-store-coffee-austin.jpg
+    - text: >
+        <p>
+
+        <h3>CBD Krispy Marshmello treats</h3>
+
+        <p>
+
+        <b>MADE IN USA:</b> Treat yourself to a mid-afternoon snack or late night splurge. Our MarshMellow Treats are infused with love, containing 15mg of Hemp Extract in each serving (2 servings per package). A great way to consume all the benefits of CBD on the go!</p>
+
+        <p>
+
+        <b>Ingredients:</b>Rice Crispies, Fruity Cereal, Coconut Oil, Marshmallows, Hemp Extract (aerial parts), and Vanilla.
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+      image: /img/cbd_products_cereal-marshmallow-treat-austin.jpg
+    - text: >
+        <p>
+
+        <h3>CBD Cookies</h3>
+
+        <p>
+
+        <b>MADE IN USA:</b> Try a package of our CBD cookies in one of the delicious varieties we carry, including Pecan, Hermit (Raisin & Pecan), Cowboy (Chocolate Chip, Oatmeal & Pecan), and Chocolate Cowboy. These cookies are sure to satisfy any sweet tooth while providing the benefits of CBD with each serving.</p>
+
+        <p>
+
+        Each package contains six 10 mg servings of relaxation and wellness, making our cookies the perfect snack to satisfy your sweet tooth.</p>
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+      image: /img/cbd_cookies_austin_cbd_store.jpg
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
