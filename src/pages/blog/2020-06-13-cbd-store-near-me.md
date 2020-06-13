@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: CBD Store Near  Me
 date: 2020-06-13T21:14:44.691Z
-description: Looking For a CBD Store in Ausint?
+description: Looking For a CBD Store in Austin?
 featuredpost: true
 featuredimage: /img/capital-cbd.jpg
 tags:
