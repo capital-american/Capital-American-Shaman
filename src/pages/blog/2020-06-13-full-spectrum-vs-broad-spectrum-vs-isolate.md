@@ -8,11 +8,9 @@ featuredimage: /img/full-spectrum-cbd.jpg
 tags:
   - Full Spectrum
 ---
-
+![](/img/full-spectrum-cbd.jpg)
 
 ### When looking to purchase CBD products, it’s important to fully understand the terms listed on the label.
-
-
 
 In the midst of a rapidly expanding unregulated market, CBD consumers need a clear explanation of key terms that CBD products utilize to differentiate differences in types of product. There is often confusion by the terms “full spectrum,” “broad spectrum”, and “isolate.” Here is a quick guide to understanding these terms by definition.
 
@@ -25,8 +23,6 @@ Also referred to “whole plant”, full spectrum is a specific type of extract 
 ### **What is the Entourage Effect?**
 
 The[ entourage effect](https://www.leafly.com/news/cannabis-101/cannabis-entourage-effect-why-thc-and-cbd-only-medicines-arent-g) is the concept of numerous compounds in the cannabis plant working together synergistically together to provide a broader range of benefits as a whole.It’s basically the enhanced effectiveness of the other components extracted from the cannabis plant.Research has shown CBD interacts with different cannabinoid receptors than THC does, meaning both of these cannabinoids can simultaneously interact with different receptors in the endocannabinoid system. With assistance from the other cannabinoids and plant extracts, full- and broad-spectrum CBD are more effectively boost and stimulate the ECS. 
-
-
 
 ### **What is Broad Spectrum CBD?**
 
