@@ -4,7 +4,7 @@ title: CBD Store Near  Me
 date: 2020-06-13T21:14:44.691Z
 description: Looking For a CBD Store in Austin?
 featuredpost: true
-featuredimage: /img/capital-cbd.jpg
+featuredimage: /img/capital-cbd-sm.jpg
 tags:
   - CBD Store
 ---
