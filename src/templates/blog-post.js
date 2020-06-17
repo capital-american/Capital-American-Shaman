@@ -65,7 +65,7 @@ const BlogPost = ({ data, location }) => {
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
-          <Helmet titleTemplate="%s | Capital American Shaman">
+          <Helmet titleTemplate="%s | Capital American Shaman CBD">
             <title>{`${post.frontmatter.title}`}</title>
             <meta
               name="description"
@@ -85,7 +85,7 @@ const BlogPost = ({ data, location }) => {
             }
             <meta
               property="og:title"
-              content={`${post.frontmatter.title} | Capital American Shaman`}
+              content={`${post.frontmatter.title} | Capital American Shaman CBD`}
             />
           </Helmet>
         }

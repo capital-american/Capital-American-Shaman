@@ -5,7 +5,7 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
-import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import { Helmet } from 'react-helmet'
 
 export const ProductPageTemplate = ({
   image,
@@ -131,9 +131,13 @@ ProductPageTemplate.propTypes = {
 
 const ProductPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
-
+  console.log(data);
   return (
     <Layout>
+      <Helmet titleTemplate="%s | Capital American Shaman CBD">
+        <title>{frontmatter.title}</title>
+        <meta name="description" content="Checkout our CBD products and learn how it can help you and your pets " />
+      </Helmet>
       <ProductPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}

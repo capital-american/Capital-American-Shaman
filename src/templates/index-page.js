@@ -90,22 +90,19 @@ export const IndexPageTemplate = ({
 
       <Slider {...slideSettings}>
         <div>
-          <img src={image1} />
+          <img src={image1} alt="Capital American CBD store front" />
         </div>
         <div>
-          <img src={image2} />
+          <img src={image2} alt="Capital American CBD store products preview" />
         </div>
         <div>
-          <img src={image3} />
+          <img src={image3} alt="Capital American CBD store view" />
         </div>
         <div>
-          <img src={image4} />
+          <img src={image4} alt="Capital American CBD store  front view" />
         </div>
         <div>
-          <img src={image5} />
-        </div>
-        <div>
-          <img src={image1} />
+          <img src={image5} alt="Capital American CBD store products " />
         </div>
       </Slider>
       <section className="section section--gradient">
@@ -147,7 +144,7 @@ export const IndexPageTemplate = ({
                         <div className="product-box">
                           <a className="service" target="_blank"
                             href="https://cbdamericanshaman.com/msterling-leach">
-                            <img src={product1}></img>
+                            <img src={product1} alt="Beauty products"></img>
                           </a>
                         </div>
                       </div>
@@ -155,16 +152,7 @@ export const IndexPageTemplate = ({
                         <div className="product-box">
                           <a className="service" target="_blank"
                             href="https://cbdamericanshaman.com/msterling-leach">
-                            <img src={product2}></img>
-                          </a>
-                        </div>
-                      </div>
-
-                      <div className="column">
-                        <div className="product-box">
-                          <a className="service" target="_blank"
-                            href="https://cbdamericanshaman.com/msterling-leach">
-                            <img src={product3}></img>
+                            <img src={product2} alt="Pet products"></img>
                           </a>
                         </div>
                       </div>
@@ -173,7 +161,16 @@ export const IndexPageTemplate = ({
                         <div className="product-box">
                           <a className="service" target="_blank"
                             href="https://cbdamericanshaman.com/msterling-leach">
-                            <img src={product4}></img>
+                            <img src={product3} alt="Relief products"></img>
+                          </a>
+                        </div>
+                      </div>
+
+                      <div className="column">
+                        <div className="product-box">
+                          <a className="service" target="_blank"
+                            href="https://cbdamericanshaman.com/msterling-leach">
+                            <img src={product4} alt="Wellness products"></img>
                           </a>
                         </div>
                       </div>
@@ -220,7 +217,7 @@ export const IndexPageTemplate = ({
                         </ul>
                       </div>
                       <div className="column">
-                        <img src={productsImage}></img>
+                        <img src={productsImage} alt="Some American Shaman products "></img>
                       </div>
                     </div>
                     <p>
@@ -235,7 +232,7 @@ export const IndexPageTemplate = ({
                     <div className="column">
                       <div className="corporate-box">
                         <div className="image-container">
-                          <img src={quality} ></img>
+                          <img src={quality} alt="Quality"></img>
                         </div>
                         <div className="corporate-title">Quality</div>
                         <div className="corporate-desc">We select only top-grade hemp plants grown on sustainable small farms right here in the USA</div>
@@ -245,7 +242,7 @@ export const IndexPageTemplate = ({
                     <div className="column">
                       <div className="corporate-box">
                         <div className="image-container">
-                          <img src={hemp} ></img>
+                          <img src={hemp} alt="Safety" ></img>
                         </div>
                         <div className="corporate-title">Safety</div>
                         <div className="corporate-desc">
@@ -257,7 +254,7 @@ export const IndexPageTemplate = ({
                     <div className="column">
                       <div className="corporate-box">
                         <div className="image-container">
-                          <img src={rocket} ></img>
+                          <img src={rocket} alt="Mission"></img>
                         </div>
                         <div className="corporate-title">Mission</div>
                         <div className="corporate-desc">
@@ -269,7 +266,7 @@ export const IndexPageTemplate = ({
                     <div className="column">
                       <div className="corporate-box">
                         <div className="image-container">
-                          <img src={love} ></img>
+                          <img src={love} alt="Charity"></img>
                         </div>
                         <div className="corporate-title">Charity</div>
                         <div className="corporate-desc">
@@ -281,7 +278,7 @@ export const IndexPageTemplate = ({
                     <div className="column">
                       <div className="corporate-box">
                         <div className="image-container">
-                          <img src={idea} ></img>
+                          <img src={idea} alt="Innovation"></img>
                         </div>
                         <div className="corporate-title">Innovation</div>
                         <div className="corporate-desc">
