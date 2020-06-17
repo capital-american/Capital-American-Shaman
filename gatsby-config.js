@@ -6,6 +6,7 @@ module.exports = {
       'Capital CBD is a locally owned and operated franchise of American Shaman, The Most Powerful CBD Hemp Oil Available. Owned and operated by a lifetime Austinite, Michael Sterling.',
   },
   plugins: [
+    'gatsby-plugin-robots-txt',
     'gatsby-plugin-sitemap',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
