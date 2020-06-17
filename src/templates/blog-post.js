@@ -57,7 +57,7 @@ BlogPostTemplate.propTypes = {
 const BlogPost = ({ data, location }) => {
   const { markdownRemark: post } = data
   const featuredImageUrl = post.frontmatter.featuredimage ? post.frontmatter.featuredimage.childImageSharp.fluid.src : "";
-  console.log(location);
+  console.log(post);
   return (
     <Layout>
       <BlogPostTemplate
@@ -74,13 +74,15 @@ const BlogPost = ({ data, location }) => {
             {featuredImageUrl != "" &&
               <meta
                 property="og:image"
-                content={`${featuredImageUrl}`}
+                content={`https://capitalamericanshaman.com${featuredImageUrl}`}
               />
             }
-            <meta
-              property="og:url"
-              content={`${typeof location !== 'undefined' ? location.href : ''}`}
-            />
+            {location !== 'undefined' &&
+              <meta
+                property="og:url"
+                content={`${typeof location !== 'undefined' ? location.href : ''}`}
+              />
+            }
             <meta
               property="og:title"
               content={`${post.frontmatter.title} | Capital American Shaman`}
@@ -114,7 +116,7 @@ export const pageQuery = graphql`
         tags,
         featuredimage {
           childImageSharp {
-            fluid(maxWidth: 120, quality: 100) {
+            fluid(maxWidth: 1200, quality: 100) {
               ...GatsbyImageSharpFluid
             }
           }
