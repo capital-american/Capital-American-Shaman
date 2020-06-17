@@ -424,6 +424,116 @@ intro:
 
         </p>
       image: /img/cbd-store-coffee-austin.jpg
+    - text: >
+        <p>
+
+        <h3>CBD Krispy Marshmello treats</h3>
+
+        <p>
+
+        <b>MADE IN USA:</b> Treat yourself to a mid-afternoon snack or late night splurge. Our MarshMellow Treats are infused with love, containing 15mg of Hemp Extract in each serving (2 servings per package). A great way to consume all the benefits of CBD on the go!</p>
+
+        <p>
+
+        <b>Ingredients:</b>Rice Crispies, Fruity Cereal, Coconut Oil, Marshmallows, Hemp Extract (aerial parts), and Vanilla.
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+      image: /img/cbd_products_cereal-marshmallow-treat-austin.jpg
+    - text: >
+        <p>
+
+        <h3>CBD Cookies</h3>
+
+        <p>
+
+        <b>MADE IN USA:</b> Try a package of our CBD cookies in one of the delicious varieties we carry, including Pecan, Hermit (Raisin & Pecan), Cowboy (Chocolate Chip, Oatmeal & Pecan), and Chocolate Cowboy. These cookies are sure to satisfy any sweet tooth while providing the benefits of CBD with each serving.</p>
+
+        <p>
+
+        Each package contains six 10 mg servings of relaxation and wellness, making our cookies the perfect snack to satisfy your sweet tooth.</p>
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+      image: /img/cbd_cookies_austin_cbd_store.jpg
+    - image: /img/cbd-store-topical-cream-250ml.webp
+      text: >+
+        <p>
+
+        <h3>250 Topical Cream</h3>
+
+        <p>
+
+        <b>MADE IN USA:</b> Directions: Use a drop or two of our CBD Topical Cream. A small amount spreads like crazy! Pat onto affected area and see a difference in a matter of days. Nature’s secret is at your finger tips.</p>
+
+        <p>
+
+        <b>Ingredients:</b> Vegetable Glycerin, Lanolin, Aloe Vera Gel, DMSO, CBD and Terpene Rich Hemp Oil Concentrate, Vitamin A, D, & E Oil. Natural ingredients may cause color variations. Refrigerate for longer shelf life.</p>
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+
+    - text: >-
+        <p>
+
+        <h3>CBD Body Lotion</h3>
+
+        <p>
+
+        <b>MADE IN USA:</b>Non-greasy formula. Our hydrating body lotion is an amazing combination of Ultra Concentrated Hemp Oil and other powerful natural ingredients. Each of these ingredients alone promote unbelievable skin revitalization, but in our formula they work together to give you incredibly supple skin.</p>
+
+        <p>
+
+        <b>DIRECTIONS:</b> Use a quarter size drop of our Hydrating Body Lotion. A small amount spreads like crazy! Rub into your skin and see a difference in a matter of days. Dry yourself and apply body lotion after you bath for extra soft, supple skin. Silky, never greasy, this ultra performance lotion brings nature to your skin’s rescue!</p>
+
+        <p>
+
+        <b>Size:</b> 8 fl.oz. (240mL) — OR —Travel Size 2 fl.oz. (60mL)
+
+        Strength: 15mg CBD per ounce </p>
+
+        <b>INGREDIENTS:</b>  Cocoa Butter, Shea Butter, Cocoa Oil, Shea Oil, Apricot Oil, Aloe Vera, Soy Lecithin, Coconut Oil, Grape Oil, Sweet Almond Oil, MCT Oil, CBD & Terpene Rich Hemp Oil, Avocado Oil, Lavender Oil, Vitamin A, D, and E Oil.</p>
+
+        <p>
+
+        NOT TESTED ON ANIMALS</p>
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+      image: /img/cbd-store-hydrating-body-lotion.jpg
+    - text: >-
+        <p>
+
+        <h3>CBD American Shaman Kettle Popcorn</h3>
+
+        <p>
+
+        <b>MADE IN USA:</b>Your favorite guilt-free, whole grain snack, but now with extra benefits. Fluffy, crunchy, and delicious, your all-natural, gluten-free popcorn has no preservatives and no MSG. What it does have is protein, fiber, antioxidants, and iron. Now with 30 mg of high quality, full spectrum CBD in each 3 oz. bag, you have one more reason to reach for your favorite, bite-sized snack. 
+
+        <b>Flavors:</b> Kettle Corn or Kickin Queso
+
+        <b>Size:</b> 3 oz. (30mg CBD per bag)
+
+        Ingredients: Sugar, Pop-corn, Peanut Oil, Maltodextrin, Natural Flavors, CBD Hemp Oil and salt. 
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach/cbd-popcorn" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+      image: /img/cbd-store-popcorn-austin.png
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their

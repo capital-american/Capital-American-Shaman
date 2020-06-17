@@ -3,6 +3,8 @@ templateKey: faq-page
 path: /faq
 title: Frequently asked questions
 ---
+
+
 **What is the Growing Process?**
 
 We support organic farms that are growing Non-GMO crops and understand the sustainability of hemp as a crop.Hemp is naturally resistant to most pests.As a result, there is no need for pesticides, herbicides or toxic fertilizer.
@@ -25,7 +27,7 @@ Capital CBD American Shaman Hemp Oil is the highest quality hemp oil available a
 
 **What make Capital CBD American Shaman a more effective product?**
 
-Our proprietary Nano Technology. It provides the best absorption rate on the market for more detail information [click here](Revised/Nanotechnology.docx).
+Our proprietary Nano Technology. It provides the best absorption rate on the market for more detail information click here.
 
 **What is the ideal serving size?**
 
@@ -33,7 +35,7 @@ The ideal serving size of CBD varies from person to person depending on a wide r
 
 **Is there a dosage chart to follow for CBD use?**
 
-While we do not make dosage recommendations, it is generally recommended to adhere to the instructions on the outside of the container.People who are new to CBD should always start with a lower amount and gradually work their way up to a dosage that is ideal for them. [These CBD guidelines](CBD%20Dosage.docx) can be used as an educational tool to help understand how CBD might work for them.
+While we do not make dosage recommendations, it is generally recommended to adhere to the instructions on the outside of the container.People who are new to CBD should always start with a lower amount and gradually work their way up to a dosage that is ideal for them. [These CBD guidelines ](https://capitalamerican.netlify.app/blog/2020-06-05-cbd-dosage-vs-serving-size/)can be used as an educational tool to help understand how CBD might work for them.
 
 Between 5 and 50 milligrams per day are commonly reported for health maintenance and minor issues.
 
@@ -55,7 +57,7 @@ Full spectrum CBD oil refers to products that contain a combination of cannabino
 
 Broad spectrum CBD is similar to Full spectrum but the THC has been removed. 
 
-CBD isolate is CBD that is pure.It only contains CBD with no other cannabinoids present. It is CBD that has been isolated.
+CBD isolate is CBD that is pure.It only contains CBD with no other cannabinoids present. It is CBD that has been isolated.  Please see our blog on [types of CBD](https://capitalamericanshaman.com/blog/2020-06-13-full-spectrum-vs-broad-spectrum-vs-isolate/) for further details.
 
 **Will CBD oil show up on a drug test?** [](https://wholeorganix.com/education/)
 
