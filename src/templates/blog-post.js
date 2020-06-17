@@ -54,10 +54,10 @@ BlogPostTemplate.propTypes = {
   helmet: PropTypes.object,
 }
 
-const BlogPost = ({ data }) => {
+const BlogPost = ({ data, location }) => {
   const { markdownRemark: post } = data
   const featuredImageUrl = post.frontmatter.featuredimage ? post.frontmatter.featuredimage.childImageSharp.fluid.src : "";
-  console.log(post.frontmatter.featuredimage);
+  console.log(location);
   return (
     <Layout>
       <BlogPostTemplate
@@ -79,11 +79,11 @@ const BlogPost = ({ data }) => {
             }
             <meta
               property="og:url"
-              content={`${typeof window !== 'undefined' && window.location.href}`}
+              content={`${typeof location !== 'undefined' ? location.href : ''}`}
             />
             <meta
               property="og:title"
-              content={`${typeof document !== 'undefined' && document.title}`}
+              content={`${post.frontmatter.title} | Capital American Shaman`}
             />
           </Helmet>
         }
