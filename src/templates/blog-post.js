@@ -79,11 +79,11 @@ const BlogPost = ({ data }) => {
             }
             <meta
               property="og:url"
-              content={`${window.location.href}`}
+              content={`${typeof window !== 'undefined' && window.location.href}`}
             />
             <meta
               property="og:title"
-              content={`${document.title}`}
+              content={`${typeof document !== 'undefined' && document.title}`}
             />
           </Helmet>
         }
