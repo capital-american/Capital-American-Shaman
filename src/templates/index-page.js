@@ -87,24 +87,25 @@ export const IndexPageTemplate = ({
           </h3>
         </div>
       </div> */}
-
-      <Slider {...slideSettings}>
-        <div>
-          <img src={image1} alt="Capital American CBD store front" />
-        </div>
-        <div>
-          <img src={image2} alt="Capital American CBD store products preview" />
-        </div>
-        <div>
-          <img src={image3} alt="Capital American CBD store view" />
-        </div>
-        <div>
-          <img src={image4} alt="Capital American CBD store  front view" />
-        </div>
-        <div>
-          <img src={image5} alt="Capital American CBD store products " />
-        </div>
-      </Slider>
+      <div className="slider-container">
+        <Slider {...slideSettings}>
+          <div>
+            <img src={image1} alt="Capital American CBD store front" />
+          </div>
+          <div>
+            <img src={image2} alt="Capital American CBD store products preview" />
+          </div>
+          <div>
+            <img src={image3} alt="Capital American CBD store view" />
+          </div>
+          <div>
+            <img src={image4} alt="Capital American CBD store  front view" />
+          </div>
+          <div>
+            <img src={image5} alt="Capital American CBD store products " />
+          </div>
+        </Slider>
+      </div>
       <section className="section section--gradient">
         {/* <div className="container"> */}
         <div className="container">

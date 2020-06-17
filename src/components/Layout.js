@@ -20,6 +20,7 @@ const TemplateWrapper = ({ children }) => {
         hemp cbd oil, cbd gummies austin, best cbd gummies, cbd gummies near me, cbd
         flower austin, hemp flower austin, best cbd flower, cbd bud, cbd oil austin,
         cbd gummies for pain, cbd oil for pain, pain relief, Arthritis relief"></meta>
+        <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
         <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico" />
         <script src="https://kit.fontawesome.com/729aead759.js" crossorigin="anonymous"></script>
         <link
