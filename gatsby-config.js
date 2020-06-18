@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     siteUrl: `https://capitalamericanshaman.com/`,
-    title: 'Capital American Shaman | CBD Products in Austin, TX',
+    title: 'Capital American Shaman | Buy CBD Products in Austin',
     description:
       'Capital CBD is a locally owned and operated franchise of American Shaman, The Most Powerful CBD Hemp Oil Available. Owned and operated by a lifetime Austinite, Michael Sterling.',
   },

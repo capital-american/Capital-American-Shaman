@@ -27,6 +27,8 @@ $black: #2b2523
     padding: 0 2rem 1rem 0
     margin-bottom: 1.5rem
     margin-top: 0
+    a
+      color: $capital-plum !important;
 
 // Helper Classes
 .full-width-image-container
@@ -51,7 +53,7 @@ $black: #2b2523
   &:hover
     background: #FFF !important
     color: $capital-plum !important
-    border: 1px solid #8b2e6b;
+    border: 1px solid $capital-plum;
 
 .full-width-image
     width: 100vw
@@ -212,7 +214,7 @@ h1
 
 .section-headline
     &::after
-      border: 1px solid #8b2e6b;
+      border: 1px solid $capital-plum;
       content: "";
       left: 0;
       margin: 0 auto;
@@ -241,7 +243,7 @@ ul
 
 .product-list 
   a
-    color: #8b2e6b !important;
+    color: $capital-plum !important;
     font-weight: bold;
 
 .corporate-banner
@@ -275,7 +277,7 @@ ul
     margin-top: 40px;
     box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
     &:hover
-      background: #8b2e6b;
+      background: $capital-plum;
       transition: 0.5s;
       color: white !important;
       .title
@@ -296,7 +298,7 @@ ul
   padding: 40px 20px
   p
     span 
-      color: #8b2e6b;
+      color: $capital-plum;
       font-weight: 700;
     a
       color: #fff;
@@ -326,16 +328,16 @@ ul
       -webkit-border-radius: 3px;
       -moz-border-radius: 3px;
       border-radius: 3px;
-      border: 1px solid #8b2e6b;
+      border: 1px solid $capital-plum;
 
     .button
-      background-color: #8b2e6b;
+      background-color: $capital-plum;
       border: 0 none;
       color: white;
 
 
 ::selection
-    background: #8b2e6b;
+    background: $capital-plum;
     color: white;
     text-shadow: none;
 
@@ -344,7 +346,7 @@ ul
   padding: 25px 20px;
   .copyright
     a
-      color: #8b2e6b
+      color: $capital-plum
       
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px)
   .why-cbd-section .why-cbd-box
@@ -362,7 +364,7 @@ ul
   &:hover
     background: #FFF !important
     color: $capital-plum !important
-    border: 1px solid #8b2e6b;
+    border: 1px solid $capital-plum;
 
 .testimonaals
   margin-top: 40px;
@@ -374,3 +376,11 @@ ul
   max-width: 1800px;
   align-items: center;
   justify-content: center;
+
+.blogs-all-tags-link-container
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 30px;
+  a
+    color: $capital-plum;
