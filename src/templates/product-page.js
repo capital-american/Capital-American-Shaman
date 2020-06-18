@@ -27,7 +27,7 @@ export const ProductPageTemplate = ({
             })`,
         }}
       >
-        <h2
+        <h1
           className="has-text-weight-bold is-size-1"
           style={{
             boxShadow: '0.5rem 0 0 #8b2e6b, -0.5rem 0 0 #8b2e6b',
@@ -37,7 +37,7 @@ export const ProductPageTemplate = ({
           }}
         >
           {title}
-        </h2>
+        </h1>
       </div>
       <section className="section section--gradient">
         <div className="container">
