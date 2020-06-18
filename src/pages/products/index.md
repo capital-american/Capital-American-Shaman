@@ -534,6 +534,33 @@ intro:
 
         </p>
       image: /img/cbd-store-popcorn-austin.png
+    - image: /img/cbg-oil-austin-shaman-cbd-store.jpg
+      text: >+
+        <p>
+
+        <h3>CBG Oil</h3>
+
+        <p>
+
+        <b>MADE IN USA:</b>This is American Shaman’s next revolutionary blend of cannabinoids that focuses on more energy, alertness and focus. We are paving the way in minor cannabinoid research and combining this our proprietary nanotechnology. Often times when people use other products for energy they have jitters, sweat and all other kinds of side effects. With CBGo Water Soluble CBG Oil it’s using natures natural cannabinoids to give you a quick boost in energy and focus with the power of the hemp plant. You will also get a 5mg dose of nano-CBD in each serving size of CBGo.
+
+
+        <b>Weight: 0.06</b>
+
+        <b>Size:</b>5mL or 30mL
+
+        <b>Serving Size:</b> 1 Dropperful (30mL) or 2 Dropperfuls (5mL)
+
+        <b>Serving Per Container:</b> 30 (for 30mL) or 5 (for 5mL)
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach/cbg-oil" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+
+
+
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
