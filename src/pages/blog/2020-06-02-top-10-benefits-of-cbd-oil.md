@@ -54,7 +54,7 @@ Since the endocannabinoid system helps regulate many of our basic bodily functio
 
 **8. Supports Immune System Health**
 
-The endocannabinoid system helps to regulate immune system response.  CBD has been shown to help support and strengthen immune system health by improving ECS functions and fighting harmful chemicals. [ Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2828614/) shows that cannabinoids, including CBD, can decrease the release of cytokines in the body.  Cytokines are the chemicals our bodies releases when under stress. This chemical weakens the immune system lowering the bodies ability to protect itself.  CBD helps support the immune system by decreasing cytokine production and improving the functions of the ECS.
+The endocannabinoid system helps to regulate immune system response.  CBD has been shown to help support and strengthen immune system health by improving ECS functions and fighting harmful chemicals.  Research shows that cannabinoids, including CBD, can decrease the release of cytokines in the body.  Cytokines are the chemicals our bodies releases when under stress. This chemical weakens the immune system lowering the bodies ability to protect itself.  CBD helps support the immune system by decreasing cytokine production and improving the functions of the ECS.
 
 **9. Promotes Clearer Skin**
 
