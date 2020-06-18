@@ -558,6 +558,29 @@ intro:
 
         </p>
       image: /img/cbd-store-popcorn-austin.png
+    - image: /img/cbd-massage-oil-austin-shaman.jpg
+      text: >
+        <p>
+
+        <h3>CBD Massage Oil</h3>
+
+        <p>
+
+        <b>MADE IN USA:</b>MADE IN USA: An all-natural massage oil made from the finest ingredients available. Our unique blend of essential oils and terpene rich full-spectrum CBD Hemp Extract is helpful for achy muscles and joints while keeping your skin hydrated. Each 8oz bottle contains 120mg of CBD (15mg/oz). Intended to be used topically, not to be ingested.</p>
+
+        <p>
+
+        <b>Scents:</b> Lavender, Palo Santo, Tea Tree, and Natural</p>
+
+        <p>
+
+        <b>INGREDIENTS:</b>  Sweet Almond Oil, Hemp Extract, Apricot Oil, MCT, CBD Oil, Essential Oils.</p>
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach/cbd-popcorn" target="_blank" class="shop-link">Shop</a>
+
+        </p>
   heading: What we offer
   description: "High quality Cbd products from Austin's best CBD Store.  We are
     the \"Austin Shaman\" That's located on Burnet Rd. "
