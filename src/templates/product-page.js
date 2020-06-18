@@ -131,7 +131,7 @@ ProductPageTemplate.propTypes = {
 
 const ProductPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
-  console.log(data);
+
   return (
     <Layout>
       <Helmet titleTemplate="%s | Capital American Shaman CBD">
