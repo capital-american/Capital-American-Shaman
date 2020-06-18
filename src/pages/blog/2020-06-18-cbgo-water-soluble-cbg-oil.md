@@ -36,3 +36,7 @@ When viewed under a microscope, the cannabinoids in hemp oil are locked up in fa
 The health supporting properties of CBD are well known, and well documented.  These properties include, relief from everyday stress, mood support, enhanced focus and much more. The future of the cannabinoid industry is marketing scientific formulations of cannabinoids and terpenes for specific consumer needs. Cannabinoids play a vital role in many of our basic functions. With American Shaman leading the push into minor cannabinoids by marketing CBGo, the rest of the industry is sure to follow.
 
 Often times when people use other products for energy they experience jitters, sweat and other side effects. With CBGo Water Soluble CBG Oil it’s using natures natural cannabinoids to give you a quick boost in energy and focus with the power of the hemp plant. You will also get a 5mg dose of nano-CBD in each serving size of CBGo. In addition to all of that we have researched three specific terpenes that have properties that contribute to alertness, energy and focus too. We are confident that after you try CBGo you will feel the effects in your body in a very short amount of time and have the focus and energy you need for the day. This product is the next step in revolutionizing the CBD industry with isolated cannabinoid research and nanotechnology.
+
+<p>
+<a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">CBGo - Water Soluble CBG Oil / Shop</a>
+</p>
