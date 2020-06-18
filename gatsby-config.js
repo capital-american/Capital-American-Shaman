@@ -3,7 +3,7 @@ module.exports = {
     siteUrl: `https://capitalamericanshaman.com/`,
     title: 'Capital American Shaman | Buy CBD Products in Austin',
     description:
-      'Capital CBD is a locally owned and operated franchise of American Shaman, The Most Powerful CBD Hemp Oil Available. Owned and operated by a lifetime Austinite',
+      'Capital CBD is a locally owned and operated franchise of American Shaman, The Most Powerful CBD Hemp Oil Available. Owned by a lifetime Austinite, Michael.',
   },
   plugins: [
     'gatsby-plugin-robots-txt',
