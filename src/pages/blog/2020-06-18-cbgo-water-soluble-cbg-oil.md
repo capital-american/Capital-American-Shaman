@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: CBGo; Water soluble CBG Oil
+title: CBGo - Water Soluble CBG Oil
 date: 2020-06-18T20:15:10.580Z
-description: Introducing CBGo; Water soluble CBG Oil and it's benefits.
+description: Introducing CBGo - Water Soluble CBG Oil and it's benefits.
 featuredpost: true
 featuredimage: /img/cbg-water-sol.jpg
 tags:
