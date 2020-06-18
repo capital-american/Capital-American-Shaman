@@ -40,5 +40,5 @@ Often times when people use other products for energy they experience jitters, s
 <p></p><br>
 
 <p>
-<center><a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">CBGo - Water Soluble CBG Oil / Shop</a><center>
+<center><a href="https://cbdamericanshaman.com/msterling-leach/cbg-oil" target="_blank" class="shop-link">CBGo - Water Soluble CBG Oil / Shop</a><center>
 </p>
