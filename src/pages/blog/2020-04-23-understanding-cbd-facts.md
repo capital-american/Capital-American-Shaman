@@ -59,7 +59,7 @@ CBD is one of 113 cannabinoids found in cannabis plants.When CBD is extracted an
 
  **9. You Can legally Fly With CBD**
 
-According to the [Transportation Security Administration](https://www.tsa.gov/travel/security-screening/whatcanibring/items/medical-marijuana) (TSA), passengers are allowed to travel with hemp-derived CBD that contains no more than 0.3 percent THC and does not exceed the 3.4-ounce liquid limit. TSA agents are required to report any state or local violations that they may suspect.This especially pertains to states that still deem CBD with THC illegal.Make sure you are flying with CBD that is legal in the states you are flying to and from to avoid potential legal issues.
+According to the Transportation Security Administration (TSA), passengers are allowed to travel with hemp-derived CBD that contains no more than 0.3 percent THC and does not exceed the 3.4-ounce liquid limit. TSA agents are required to report any state or local violations that they may suspect.This especially pertains to states that still deem CBD with THC illegal.Make sure you are flying with CBD that is legal in the states you are flying to and from to avoid potential legal issues.
 
  **10. Technically CBD Is Psychoactive**
 
