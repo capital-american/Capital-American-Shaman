@@ -34,7 +34,7 @@ Joint health is incredibly important in staying active and mobile as you grow ol
 
 **3. Provides Positive Mental Support**
 
-CBD can help you cope with everyday stresses, provide positive mental support, and help improve your mood. [Research](https://link.springer.com/article/10.1007/s00213-012-2878-7) has shown that CBD may change the way the brain receptors respond to serotonin.  Serotonin is the chemical associated with emotional health and happiness.  Brain receptors are proteins that transmit chemical communication to other cells in the brain to invoke a response and stimuli.  When the brain encounters CBD, it affects the receptors in the brain to respond to serotonin in a more efficient way, which may result in a calming effect.  By improving the way the brain responds to serotonin, it can help support overall mental wellbeing.
+CBD can help you cope with everyday stresses, provide positive mental support, and help improve your mood. Research has shown that CBD may change the way the brain receptors respond to serotonin.  Serotonin is the chemical associated with emotional health and happiness.  Brain receptors are proteins that transmit chemical communication to other cells in the brain to invoke a response and stimuli.  When the brain encounters CBD, it affects the receptors in the brain to respond to serotonin in a more efficient way, which may result in a calming effect.  By improving the way the brain responds to serotonin, it can help support overall mental wellbeing.
 
 **4. Support of Cardiovascular Health**
 
