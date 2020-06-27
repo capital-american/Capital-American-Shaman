@@ -24,25 +24,25 @@ intro:
 
         <p>
 
-        MADE IN USA: Now, you can drink our Ultra Concentrated Hemp Oil Supplement. This fast acting delivery system is up to 10 times more bioavailable than oil. This may be added to any drink and there are four flavors to choose from.
+        <b>MADE IN USA:</b> Now, you can drink our Ultra Concentrated Hemp Oil Supplement. This fast acting delivery system is up to 10 times more bioavailable than oil. This may be added to any drink and there are four flavors to choose from.
 
         </p>
 
         <p>
 
-        Directions: 2X Daily. (mL measure is on dropper). Use 1/2 mL in 8oz of liquid. Stir and drink. 1 mL contains 10mg of CBD.
+        <b>Directions:</b> 2X Daily. (mL measure is on dropper). Use 1/2 mL in 8oz of liquid. Stir and drink. 1 mL contains 10mg of CBD.
 
         </p>
 
         <p>
 
-        Ingredients: Purified water by reverse osmosis, natural & artificial flavoring, concentrated cannabinoid & terpene rich hemp oil, citric acid. 
+        <b>Ingredients:</b> Purified water by reverse osmosis, natural & artificial flavoring, concentrated cannabinoid & terpene rich hemp oil, citric acid. 
 
         </p>
 
         <p>
 
-        *Daily Value: Not established. Cannabidiol is a natural constituent of Hemp Oil.
+        <b>*Daily Value: Not established.</b> Cannabidiol is a natural constituent of Hemp Oil.
 
         </p>
 
@@ -65,17 +65,76 @@ intro:
 
         <p>
 
-        MADE IN USA:  Now, you can drink our Ultra Concentrated Hemp Oil Supplement with Extra Strength. Containing high amounts of CBD (Cannabidiol). No Heavy Metals or Insecticides. Ultra Performance Convergence Chromatography. This fast acting delivery system is up to 10 times more bioavailable than oil. This may be added to any drink.
+        <b>MADE IN USA:</b>  Now, you can drink our Ultra Concentrated Hemp Oil Supplement with Extra Strength. Containing high amounts of CBD (Cannabidiol). No Heavy Metals or Insecticides. Ultra Performance Convergence Chromatography. This fast acting delivery system is up to 10 times more bioavailable than oil. This may be added to any drink.
 
         </p>
 
-        Ingredients: Purified Water by reverse osmosis, Concentrated Cannabinoid and Terpene Rich Hemp Oil, Berry Saponin Extract, and Citric Acid. Please note that natural ingredients may cause color variations.
+        <b>Ingredients:</b> Purified Water by reverse osmosis, Concentrated Cannabinoid and Terpene Rich Hemp Oil, Berry Saponin Extract, and Citric Acid. Please note that natural ingredients may cause color variations.
 
         </p>
 
         <p>
 
-        Serving size: 1/2 mL to 1mL (mL measure is on the dropper)
+        <b>Serving size:</b> 1/2 mL to 1mL (mL measure is on the dropper)
+
+        </p>
+
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+    - image: /img/cbg-oil-austin-shaman-cbd-store.jpg
+      text: >+
+        <p>
+
+        <h3>CBG Oil</h3>
+
+        <p>
+
+        <b>MADE IN USA:</b>This is American Shaman’s next revolutionary blend of cannabinoids that focuses on more energy, alertness and focus. We are paving the way in minor cannabinoid research and combining this our proprietary nanotechnology. Often times when people use other products for energy they have jitters, sweat and all other kinds of side effects. With CBGo Water Soluble CBG Oil it’s using natures natural cannabinoids to give you a quick boost in energy and focus with the power of the hemp plant. You will also get a 5mg dose of nano-CBD in each serving size of CBGo.</p>
+
+        <p><b>Size:</b>5mL or 30mL</p>
+
+        <p>
+
+        <b>Serving Size:</b> 1 Dropperful (30mL) or 2 Dropperfuls (5mL)</p>
+
+        <p><b>Serving Per Container:</b> 30 (for 30mL) or 5 (for 5mL)</p>
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach/cbg-oil" target="_blank" class="shop-link">Shop</a>
+
+        </p>
+
+
+
+    - image: /img/cbnight-austin-cbd-store-shaman.jpg
+      text: >+
+        <p>
+
+        <h3>CBNight Water Soluble CBN Oil </h3>
+
+
+        <b>MADE IN USA:</b>A new revolutionary blend of cannabinoids that focuses purely on one thing and one thing only, better sleep. Our proprietary blend of cannabinoids is  utilizes minor cannabinoids from a hemp extract to bring a new formula to the marketplace. Common sleep often produce side effects like grogginess, unusual dreams, dry mouth, dizziness and much more. With CBNight Water Soluble CBN Oil, you will not experience any side effects as you’re using nature’s cannabinoids and terpenes to softly encourage exactly what you’ve been looking for, better sleep. This product is the first of its kind and we’re excited to let the public buy CBN online after months of testing.</p>
+
+        <p>
+
+        <b>Size: 30mL or 5mL</b>
+
+        <p>
+
+        <b>Serving Size:</b> 1 Dropperful (30mL) or 2 Dropperfuls (5mL)</p>
+
+        <p>
+
+        <b>Serving Per Container:</b> 30 (for 30mL) or 5 (for 5mL)</p>
+
+        <p>
+
+        <b>Strength:</b> 4mg
 
         </p>
 
@@ -84,6 +143,8 @@ intro:
         <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
 
         </p>
+
+
     - image: /img/canine-cbd.jpg
       text: >-
         <p>
@@ -91,19 +152,19 @@ intro:
         <h3>Canine CBD Hemp Oil Tincture </h3>
 
 
-        MADE IN USA: Just as with our human line of products, we use the best of ingredients for our canine, feline or equine customers. After all, they’re family, too!
+        <b>MADE IN USA:</b> Just as with our human line of products, we use the best of ingredients for our canine, feline or equine customers. After all, they’re family, too!
 
         </p>
 
         <p>
 
-        Ingredients: CBD Terpene Rich Industrial Hemp Oil, Medium Chain Triglyceride Oil from Coconut Oil. Real Beef and Cheese Flavor. Successfully Tested on Humans.
+        <b>Ingredients:</b> CBD Terpene Rich Industrial Hemp Oil, Medium Chain Triglyceride Oil from Coconut Oil. Real Beef and Cheese Flavor. Successfully Tested on Humans.
 
         </p>
 
         <p>
 
-        Serving Size: (mL measure is on dropper)
+        <b>Serving Size:</b> (mL measure is on dropper)
 
 
         1 to 24lb. Dog = .25mL
@@ -131,54 +192,19 @@ intro:
 
         <p>
 
-        MADE IN USA: You get only the highest quality hemp oil (non-GMO hemp) containing high amounts of CBD (500 mg) in a convenient 2oz size. And, since we test each batch for purity and potency, you know you're getting the best of Nature enhanced by Science.
+        <b>MADE IN USA:</b> You get only the highest quality hemp oil (non-GMO hemp) containing high amounts of CBD (500 mg) in a convenient 2oz size. And, since we test each batch for purity and potency, you know you're getting the best of Nature enhanced by Science.
 
         </p>
 
         <p>
 
-        Directions: Use a drop or two of our CBD Topical Cream. A small amount spreads like crazy! Pat onto affected area and see a difference in a matter of days. Nature’s secret is at your finger tips.
+        <b>Directions:</b> Use a drop or two of our CBD Topical Cream. A small amount spreads like crazy! Pat onto affected area and see a difference in a matter of days. Nature’s secret is at your finger tips.
 
         </p>
 
         <p>
 
-        Ingredients: Vegetable Glycerin, Lanolin, Aloe Vera Gel, DMSO, CBD and Terpene Rich Hemp Oil Concentrate, Vitamin A, D, & E Oil. Natural ingredients may cause color variations. Refrigerate for longer shelf life. 
-
-        </p>
-
-        <p>
-
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
-
-        </p>
-    - image: /img/cbnight-austin-cbd-store-shaman.jpg
-      text: >+
-        <p>
-
-        <h3>CBNight Water Soluble CBN Oil </h3>
-
-
-        MADE IN USA:  A new revolutionary blend of cannabinoids that focuses purely on one thing and one thing only, better sleep. Our proprietary blend of cannabinoids is taking a step forward by utilizing minor cannabinoids from a hemp extract to bring a new formula to the marketplace. When people take common sleep aids they get side effects like grogginess, unusual dreams, dry mouth, dizziness and many more. With CBNight Water Soluble CBN Oil, you will not experience any side effects as you’re using nature’s cannabinoids and terpenes to softly encourage exactly what you’ve been looking for, better sleep. This product is the first of its kind and we’re excited to let the public buy CBN online after months of testing.</p>
-
-
-        <p>
-
-        Weight: 0.18
-
-        <p>
-
-        Size: 30mL or 5mL
-
-        <p>
-
-        Serving Size: 1 Dropperful (30mL) or 2 Dropperfuls (5mL)
-
-        Serving Per Container: 30 (for 30mL) or 5 (for 5mL)
-
-        <p>
-
-        Strength: 4mg
+        <b>Ingredients:</b> Vegetable Glycerin, Lanolin, Aloe Vera Gel, DMSO, CBD and Terpene Rich Hemp Oil Concentrate, Vitamin A, D, & E Oil. Natural ingredients may cause color variations. Refrigerate for longer shelf life. 
 
         </p>
 
@@ -187,8 +213,6 @@ intro:
         <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
 
         </p>
-
-
     - image: /img/austin-shaman-vg-cloud-tincture-cbd-terpene-rich-hemp-oil.jpg
       text: >+
         <p>
@@ -534,39 +558,32 @@ intro:
 
         </p>
       image: /img/cbd-store-popcorn-austin.png
-    - image: /img/cbg-oil-austin-shaman-cbd-store.jpg
-      text: >+
+    - image: /img/cbd-massage-oil-austin-shaman.jpg
+      text: >
         <p>
 
-        <h3>CBG Oil</h3>
-
-        <p>
-
-        <b>MADE IN USA:</b>This is American Shaman’s next revolutionary blend of cannabinoids that focuses on more energy, alertness and focus. We are paving the way in minor cannabinoid research and combining this our proprietary nanotechnology. Often times when people use other products for energy they have jitters, sweat and all other kinds of side effects. With CBGo Water Soluble CBG Oil it’s using natures natural cannabinoids to give you a quick boost in energy and focus with the power of the hemp plant. You will also get a 5mg dose of nano-CBD in each serving size of CBGo.
-
-
-        <b>Weight: 0.06</b>
-
-        <b>Size:</b>5mL or 30mL
-
-        <b>Serving Size:</b> 1 Dropperful (30mL) or 2 Dropperfuls (5mL)
-
-        <b>Serving Per Container:</b> 30 (for 30mL) or 5 (for 5mL)
+        <h3>CBD Massage Oil</h3>
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach/cbg-oil" target="_blank" class="shop-link">Shop</a>
+        <b>MADE IN USA:</b>MADE IN USA: An all-natural massage oil made from the finest ingredients available. Our unique blend of essential oils and terpene rich full-spectrum CBD Hemp Extract is helpful for achy muscles and joints while keeping your skin hydrated. Each 8oz bottle contains 120mg of CBD (15mg/oz). Intended to be used topically, not to be ingested.</p>
+
+        <p>
+
+        <b>Scents:</b> Lavender, Palo Santo, Tea Tree, and Natural</p>
+
+        <p>
+
+        <b>INGREDIENTS:</b>  Sweet Almond Oil, Hemp Extract, Apricot Oil, MCT, CBD Oil, Essential Oils.</p>
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach/cbd-popcorn" target="_blank" class="shop-link">Shop</a>
 
         </p>
-
-
-
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: "High quality Cbd products from Austin's best CBD Store.  We are
+    the \"Austin Shaman\" That's located on Burnet Rd. "
 main:
   heading: test main
   description: |-
