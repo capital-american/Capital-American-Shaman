@@ -12,7 +12,8 @@ mainpitch:
   title: MORE POWERFUL - MORE EFFECTIVE - IN THE HEART OF AUSTIN
   description: >
     Welcome to Capital CBD, where our proprietary nanotechnology makes our
-    products 9X more bioavailable than anything else on the market...
+    products 9X more bioavailable than anything else on the market...  Austin's
+    premier CBD store.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -83,14 +84,13 @@ description: >-
 
   <p>
 
-  We put our heart and soul into creating our store so that it would be a welcoming space for everyone. We want to break down the stigma of CBD in a comfortable environment surrounded with knowledge about the products we are selling. We are more than a CBD store. Not only does our staff have a broad understanding of CBD but we are backed by the best producer of CBD available. Not all CBD is equal and we can tell you why.
+  We put our heart and soul into creating our store so that it would be a welcoming space for everyone. We want to break down the stigma of CBD in a comfortable environment surrounded with knowledge about the products we are selling. Our spa-like store provides our customers with a calm, tranquil environment to sample products and learn about CBD. A feeling of well-being is felt the moment you walk through the door. We are more than a CBD store. Not only does our staff have a broad understanding of CBD but we are backed by the best producer of CBD oil available. Not all CBD is equal and we can tell you why.
 
   </p>
 
   <p>
 
-
-  By design our location definitely stands out and is uniquely Austin.  It’s hands down Austin’s #1 CBD store. If you are looking for the best cbd oil Austin has to offer and you’re searching for “Cbd near me” hopefully you are pointed in our direction. Stop by and explore our variety of products and let us help customize a regimen to get you on track to live your best life.
+  By design our location definitely stands out and is uniquely Austin. It’s hands down Austin’s #1 CBD store. If you are looking for the best CBD Austin has to offer and you’re searching for “Cbd near me” hopefully you are pointed in our direction. Stop by and explore our variety of products and let us help customize a regimen to get you on track to live your best life.
 
   </p>
 ---
