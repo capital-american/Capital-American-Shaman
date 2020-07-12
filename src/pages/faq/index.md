@@ -3,8 +3,6 @@ templateKey: faq-page
 path: /faq
 title: Frequently asked questions
 ---
-
-
 **What is the Growing Process?**
 
 We support organic farms that are growing Non-GMO crops and understand the sustainability of hemp as a crop.Hemp is naturally resistant to most pests.As a result, there is no need for pesticides, herbicides or toxic fertilizer.
@@ -15,7 +13,7 @@ CBD American Shaman Hemp Oil comes from industrial hemp and is completely legal 
 
 **How is your CBD extracted?**
 
-We use an automated extraction method known as Molecular Distillation.Our process purifies and separates the compounds by running them through a column containing both heated and cooled zones.Our extraction methods allows the terpenes to remain perfectly intact, assuring consistent high quality products.
+We use an automated extraction method known as Molecular Distillation. Our process purifies and separates the compounds by running them through a column containing both heated and cooled zones.Our extraction methods allows the terpenes to remain perfectly intact, assuring consistent high quality products.
 
 **Is the CBD psychotropic?**
 
