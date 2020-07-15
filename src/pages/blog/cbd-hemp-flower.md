@@ -12,13 +12,13 @@ tags:
 ---
 
 
+![CBD Flower Austin](/img/cbd-flower.jpg "CBD Hemp Flower Austin")
+
 By Capital CBD American Shaman
 
+Our hemp CBD flower is grown on small farms to bring you the highest quality hemp flower for sale anywhere.  These CBD flower buds are loaded with terpenes and phytocannabinoids to bring you the best nature has to offer.  All of our CBG and CBD flower products are grown here in the USA from non-GMO seeds, and are lab-tested to ensure purity and potency.  Each flower strain for sale contains less than 0.3% THC in compliance with the 2018 Farm Bill.  We are sure you will find the right hemp flower for you here at Capital CBD American Shaman, and we know you’ll love the effects! Right in the heart of Austin at 8315 Burnet Rd we have strains for every occasion.  Stop by and check out our current inventory of CBD flower.
 
-Our hemp CBD flower is grown on small farms to bring you the highest quality hemp flower for sale anywhere.  These CBD flower buds are loaded with terpenes and phytocannabinoids to bring you the best nature has to offer.  All of our CBG and CBD flower products are grown here in the USA from non-GMO seeds, and are lab-tested to ensure purity and potency.  Each flower strain for sale contains less than 0.3% THC in compliance with the 2018 Farm Bill.  We are sure you will find the right hemp flower for you here at Capital CBD American Shaman, and we know you’ll love the effects!
-Right in the heart of Austin at 8315 Burnet Rd we have strains for every occasion.  Stop by and check out our current inventory of CBD flower.
-
-## What is Hemp Flower? 
+## What is Hemp Flower?
 
 Hemp flower is produced by the female Cannabis plant when it reaches maturity. These flowers can contain a wide variety of phytocannabinoids including cannabidiol (CBD) and cannabigerol (CBG). The terpenes and flavonoids in the flower are responsible for the flower’s strong smell, and contribute to the effects produced by CBD and CBG.  For more detailed information on terpenes and how they are a factor look out for our blog on terpenes.
 
@@ -26,10 +26,8 @@ CBD hemp flower has many names, it is also referred to as Hemp buds and CBD buds
 
 ## Buds from Hemp Flower?
 
- Flowering hemp plants produce buds when their flower reaches full bloom.  These buds grow in clusters which are known as cola. The buds are the part of the hemp plant that contain the highest concentrations of cannabinoids and terpenes.  To the naked eye, hemp buds are identical to marijuana.
-CBD buds can be used in many ways.  CBD are most often smoked but can also be enjoyed by vaping in dry herb-compatible devices, and also in homemade products, such as edibles, creams and oils. 
+ Flowering hemp plants produce buds when their flower reaches full bloom.  These buds grow in clusters which are known as cola. The buds are the part of the hemp plant that contain the highest concentrations of cannabinoids and terpenes.  To the naked eye, hemp buds are identical to marijuana. CBD buds can be used in many ways.  CBD are most often smoked but can also be enjoyed by vaping in dry herb-compatible devices, and also in homemade products, such as edibles, creams and oils. 
 
-## 
 Smokable Hemp Flower?
 
 The effects of smoking hemp flower can vary from person to person and also depend on the strain you choose.  Even CBD Flower of the same strain can have different levels of potency depending on where it was grown, how it was grown and ultimately how it was harvested.  A strain high in CBD will support feelings of relaxation and mental clarity, while a strain high in CBG tends to support productive focus.  CBD flower is often described as a soothing, relaxing feeling that can make you more energized or sleepy, sometimes depending on the time of the day you are consume it. Smoking hemp flower does not result in getting high because of the low levels of tetrahydrocannabinol (THC), which is found in high concentrations in marijuana.
@@ -54,16 +52,12 @@ Strains of CBD flower fall into one of three categories.  Indica (night strains)
 
 <b>Indicas:</b> Calming and relaxing are the primary qualities of indica strains. The soothing terpenes are excellent at relieving pain, and reducing anxiety. Indica strains may promote a state of sleepiness, so they are often best utilized for evening/night consumption, when you can allow yours to kick back and relax.
 
-
 <b>Sativas:</b> Energizing, uplifting is the most popular perk of sativa strains, which are known for having positive mental effects. Increased mental clarity and concentration, perfect if you find your mind wandering off when trying to complete tasks. The extra energy is great for getting through a tough day or fighting off fatigue.
-
 
 <b>Hybrids:</b> Are a blend of Indicas and Sativas.  The effects of Hybrids fall in-between, which is ideal if you want a single CBD flower strain that works for every occasion.  Some Hybrids can calm you anxiety without making you sleepy.  Hybrids can lean to either side so choosing the ideal strain takes some experimentation.  
 
 ## The Legality of Hemp Flower.
 
- Hemp flower produced by industrial hemp is legal in all 50 states.  By federal law, hemp cannot contain more than 0.3% THC.  All strains of hemp flower sold by Capital CBD American Shaman contain THC levels below the legal threshold.  We send our out for 3rd party testing to ensure the legality of our buds.
-We carry cbd joints, hemp cigarettes and flower.  From the American Shaman fields, we bring you a natural Hemp Flower pre-rolled cone.  We carry a variety of high end, hand trimmed strains of hemp.  Come and check out our selection at our CBD store.  Capital CBD American Shaman.
-
+ Hemp flower produced by industrial hemp is legal in all 50 states.  By federal law, hemp cannot contain more than 0.3% THC.  All strains of hemp flower sold by Capital CBD American Shaman contain THC levels below the legal threshold.  We send our out for 3rd party testing to ensure the legality of our buds. We carry cbd joints, hemp cigarettes and flower.  From the American Shaman fields, we bring you a natural Hemp Flower pre-rolled cone.  We carry a variety of high end, hand trimmed strains of hemp.  Come and check out our selection at our CBD store.  Capital CBD American Shaman.
 
 Purple Suver, Capital Gelato, Jack Frost, Hawaiian Haze, Lifter, John Snow, Lemon Cream diesel, Frosted Lime, The Wife, Purple Kush, Honolulu Haze.  All quality strains of hemp.
