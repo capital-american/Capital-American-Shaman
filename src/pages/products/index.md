@@ -24,13 +24,13 @@ intro:
 
         <p>
 
-        <b>MADE IN USA:</b> Now, you can drink our Ultra Concentrated Hemp Oil Supplement. This fast acting delivery system is up to 10 times more bioavailable than oil. This may be added to any drink and there are four flavors to choose from.
+        <b>MADE IN USA:</b> You can drink our Ultra Concentrated Hemp Oil Supplement in your favorite beverage. This fast acting delivery system is up to 10 times more bio-available than CBD oil. This may be added to any drink and there are four flavors to choose from to to enhance consumption.
 
         </p>
 
         <p>
 
-        <b>Directions:</b> 2X Daily. (mL measure is on dropper). Use 1/2 mL in 8oz of liquid. Stir and drink. 1 mL contains 10mg of CBD.
+        <b>Directions:</b> 2X Daily. (mL measure is on dropper). Use 1/2 mL in up to 8oz of liquid. Stir and drink. 1 mL contains 10mg of CBD.
 
         </p>
 
@@ -65,7 +65,7 @@ intro:
 
         <p>
 
-        <b>MADE IN USA:</b>  Now, you can drink our Ultra Concentrated Hemp Oil Supplement with Extra Strength. Containing high amounts of CBD (Cannabidiol). No Heavy Metals or Insecticides. Ultra Performance Convergence Chromatography. This fast acting delivery system is up to 10 times more bioavailable than oil. This may be added to any drink.
+        <b>MADE IN USA:</b>  You can drink our Ultra Concentrated Hemp Oil Supplement with Extra Strength in your favorite beverage. This product contains high amounts of CBD (Cannabidiol). No Heavy Metals or Insecticides. Ultra Performance Convergence Chromatography. This fast acting delivery system is up to 10 times more bioavailable than oil. This may be added to any drink.
 
         </p>
 
@@ -79,6 +79,7 @@ intro:
 
         </p>
 
+        <br>
 
         <p>
 
@@ -93,7 +94,9 @@ intro:
 
         <p>
 
-        <b>MADE IN USA:</b>This is American Shaman’s next revolutionary blend of cannabinoids that focuses on more energy, alertness and focus. We are paving the way in minor cannabinoid research and combining this our proprietary nanotechnology. Often times when people use other products for energy they have jitters, sweat and all other kinds of side effects. With CBGo Water Soluble CBG Oil it’s using natures natural cannabinoids to give you a quick boost in energy and focus with the power of the hemp plant. You will also get a 5mg dose of nano-CBD in each serving size of CBGo.</p>
+        <b>MADE IN USA:</b> This revolutionary blend of cannabinoids focuses on more energy, alertness and focus. We are paving the way in minor cannabinoid research and combining this our proprietary nanotechnology. Often times when people use other products for energy they experience jitters, sweat and a variety of other side effects.  CBGo Water Soluble CBG Oil utilizes natures natural cannabinoids to give you a quick boost in energy and focus with the power of the hemp plant. CBGo provides the benefits minus the side effects.  In addition to CBG you will also get a 5mg dose of nano-CBD in each serving size of CBGo.</p>
+
+        <br>
 
         <p><b>Size:</b>5mL or 30mL</p>
 
@@ -118,11 +121,11 @@ intro:
         <h3>CBNight Water Soluble CBN Oil </h3>
 
 
-        <b>MADE IN USA:</b>A new revolutionary blend of cannabinoids that focuses purely on one thing and one thing only, better sleep. Our proprietary blend of cannabinoids is  utilizes minor cannabinoids from a hemp extract to bring a new formula to the marketplace. Common sleep often produce side effects like grogginess, unusual dreams, dry mouth, dizziness and much more. With CBNight Water Soluble CBN Oil, you will not experience any side effects as you’re using nature’s cannabinoids and terpenes to softly encourage exactly what you’ve been looking for, better sleep. This product is the first of its kind and we’re excited to let the public buy CBN online after months of testing.</p>
+        <b>MADE IN USA:</b>This new revolutionary blend of cannabinoids focuses solely on one thing and one thing only, better sleep. Our proprietary blend of cannabinoids utilizes minor cannabinoids from a hemp extract to bring a new formula to the marketplace. Common sleep aids often produce side effects like grogginess, unusual dreams, dry mouth, dizziness and much more. With CBNight Water Soluble CBN Oil, you can experience great sleep without any side effects as you’re using nature’s cannabinoids and terpenes to encourage exactly what you’ve been looking for, better sleep. This product is the first of its kind and we’re excited to let the public buy CBN online after months of testing.</p>
 
         <p>
 
-        <b>Size: 30mL or 5mL</b>
+        <b>Size:</b> 30mL or 5mL
 
         <p>
 
