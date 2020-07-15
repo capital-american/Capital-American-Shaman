@@ -13,6 +13,6 @@ Within my career, which has always centered around Real Estate I have always fel
 
 In the time it took Capital CBD American Shaman to come to fruition other CBD stores also popped up all around.  The process of opening the store took longer than expected but premise of opening a "Wellness Center" never lost it's luster.
 
-The store is a welcoming space for everyone, it's definitely more than a CBD store. We are a wellness center. It's a comfortable environment surrounded with knowledge about the products we are selling. We are backed by the best producer of CBD availible. Not all CBD is equal and we can tell you why.
+The store is a welcoming space for everyone, it's definitely more than a CBD store. We are a wellness center. It's a comfortable environment surrounded with knowledge about the products we are selling. We are backed by the best producer of CBD available. Not all CBD is equal and we can tell you why.
 
 By design our location definitely stands out and is uniquely Austin. It’s hands down Austin’s #1 CBD store.  Stop by and explore our variety of products and let us help customize a regimen to get you on track to live your best life.
