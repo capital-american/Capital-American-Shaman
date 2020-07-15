@@ -10,11 +10,11 @@ featuredimage: /img/cbd-flower.jpg
 tags:
   - CBD Flower
 ---
-
-
 ![CBD Flower Austin](/img/cbd-flower.jpg "CBD Hemp Flower Austin")
 
-By Capital CBD American Shaman
+<br><br>By Capital CBD American Shaman
+
+<br>
 
 Our hemp CBD flower is grown on small farms to bring you the highest quality hemp flower for sale anywhere.  These CBD flower buds are loaded with terpenes and phytocannabinoids to bring you the best nature has to offer.  All of our CBG and CBD flower products are grown here in the USA from non-GMO seeds, and are lab-tested to ensure purity and potency.  Each flower strain for sale contains less than 0.3% THC in compliance with the 2018 Farm Bill.  We are sure you will find the right hemp flower for you here at Capital CBD American Shaman, and we know you’ll love the effects! Right in the heart of Austin at 8315 Burnet Rd we have strains for every occasion.  Stop by and check out our current inventory of CBD flower.
 
@@ -28,7 +28,7 @@ CBD hemp flower has many names, it is also referred to as Hemp buds and CBD buds
 
  Flowering hemp plants produce buds when their flower reaches full bloom.  These buds grow in clusters which are known as cola. The buds are the part of the hemp plant that contain the highest concentrations of cannabinoids and terpenes.  To the naked eye, hemp buds are identical to marijuana. CBD buds can be used in many ways.  CBD are most often smoked but can also be enjoyed by vaping in dry herb-compatible devices, and also in homemade products, such as edibles, creams and oils. 
 
-Smokable Hemp Flower?
+## Smokable Hemp Flower?
 
 The effects of smoking hemp flower can vary from person to person and also depend on the strain you choose.  Even CBD Flower of the same strain can have different levels of potency depending on where it was grown, how it was grown and ultimately how it was harvested.  A strain high in CBD will support feelings of relaxation and mental clarity, while a strain high in CBG tends to support productive focus.  CBD flower is often described as a soothing, relaxing feeling that can make you more energized or sleepy, sometimes depending on the time of the day you are consume it. Smoking hemp flower does not result in getting high because of the low levels of tetrahydrocannabinol (THC), which is found in high concentrations in marijuana.
 
