@@ -41,4 +41,12 @@ VG Cloud will soon come in an even greater variety of strengths.  It currently c
 
 Come right on down to 8315 Burned Rd Ste C.  Austin Tx.  We are in the heart of Austin on Burnet between Anderson Lane and 183.  If by chance you are looking to stay hunkered down and would prefer to order online, don’t worry, we have got you covered.  You can order and have our Vg Cloud Tincture shipped directly to your home.
 
-If you would like to browse our products you can take a look at our products page.  If you follow the link to shop you can look at our products on our section of the corporate American Shaman website.  Look up top for Michael Sterling/Capital CBD.
+If you would like to browse our products you can take a look at our [products page.](https://capitalamericanshaman.com/products)  If you follow the link to shop you can look at our products on our section of the corporate American Shaman website.  Look up top for Michael Sterling/Capital CBD.
+
+![](/img/vg-cloud-tincture-cbd-terpene-rich-hemp-oil.jpg)
+
+<p></p><br>
+
+<p>
+<center><a href="https://cbdamericanshaman.com/msterling-leach/vg-cloud-terpene-rich-cbd-oil-tincture" target="_blank" class="shop-link">VG Cloud Tincture / Shop</a><center>
+</p>
