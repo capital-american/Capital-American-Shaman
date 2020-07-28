@@ -15,11 +15,11 @@ tags:
 
  Over the years, medical marijuana users have paid more attention to CBD and THC (the two most prominent cannabinoids in cannabis) due to the benefits they offer. However, in recent times, terpenes are slowly growing in popularity not just because of their euphoric effects, but a lot of people have also realized that they offer relief to various types of disorders. 
 
-What are Terpenes?
+### What are Terpenes?
 
 Used widely in perfumes, fragrances, and other medical purposes, terpenes are scented oil secreted from the cannabis plant that also produces THC and CBD. Terpenes come from the secretory cell of the Cannabis trichomes. They are mostly found in unfertilized female cannabis flowers. Terpenes play an incredible role in providing the plant with natural protection from bacteria's, insect and environmental stress.   Like other cannabinoids, terpenes work with receptors in the human body to give an array of effects that boost energy and enhance mood. At present, there are over 100 terpenes that provide unique flavors ranging from herbal, sweet, fruity, sour, pine, and many more. The awesomeness of terpenes doesn't stop here; research has also proven that they provide relief to people suffering from disorders like cancer, depression, nausea, muscle strain, stress, and other forms of ailment. 
 
-Molecules in Terpenes.
+### Molecules in Terpenes.
 
 Terpenes are used to describe a large class of chemical compounds that affects smell and flavor. Their molecules can be subdivided into two, which are:
 
@@ -27,7 +27,7 @@ Terpenes are used to describe a large class of chemical compounds that affects s
 
 •	**Sesquiterpenes:** These are heavyweight terpenes like humulene and caryophyllene, which are responsible for the stronger scents that the cannabis plant produces. 
 
-Effects and Benefits of Terpenes
+### Effects and Benefits of Terpenes.
 
 In looking at the benefits and effects of terpenes, it is vital to take a look at the different types of terpenes, the effect they offer, and their medical benefits.
 
