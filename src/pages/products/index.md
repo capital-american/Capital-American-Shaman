@@ -223,23 +223,23 @@ intro:
         <h3>VG Cloud Tincture - CBD & Terpene Rich Hemp Oil </h3>
 
 
-        MADE IN USA: Welcome to VG Cloud Tincture dietary supplement with infused CBD Hemp Oil. Our CBD is infused through a Proprietary Nanotechnology process. Research has shown nano-technology to have faster absorption, last longer in the body, and to be more bioavailable than oil.</p>
+        <b>MADE IN USA:</b> Welcome to VG Cloud Tincture dietary supplement with infused CBD Hemp Oil. Our CBD is infused through a Proprietary Nanotechnology process. Research has shown nano-technology to have faster absorption, last longer in the body, and to be more bioavailable than oil.</p>
 
         <p>
 
-        Flavors: Apple, Blueberry Moon, Cool Berry, Cherry Limeade, Grape, Lemon, Natural, Strawberry-Banana, Tropical Punch, Tutti-Frutti, Watermelon</p>
+        <b>Flavors:</b> Apple, Blueberry Moon, Cool Berry, Cherry Limeade, Grape, Lemon, Natural, Strawberry-Banana, Tropical Punch, Tutti-Frutti, Watermelon</p>
 
         <p>
 
-        Size: 15mL or 30mL</p>
+        <b>Size/Strength:</b> 15mL/150mg or 30mL/300 or 600mg</p>
 
         <p>
 
-        Usage: As an oral tincture or put into a liquid. 0.5mL (1/2 dropper) 2X daily or as needed. CBD oil tinctures are best if placed under your tongue for 30-90 seconds or until it is dissolved.</p>
+        <b>Usage:</b> As an oral tincture or dissolved in a liquid. 0.5mL (1/2 dropper) Twice daily or as needed. CBD oil tinctures are best if placed under your tongue for 30-90 seconds or until it is dissolved.</p>
 
         <p>
 
-        Ingredients: Our VG Cloud Tinctures consist of Cannabidiol (CBD), Vegetable Glycerin, Propylene Glycol, Natural and/or artificial flavoring.
+        <b>Ingredients:</b> Our VG Cloud Tinctures consist of Cannabidiol (CBD), Vegetable Glycerin, Propylene Glycol, Natural and/or artificial flavoring.
 
         <p>
 
@@ -256,23 +256,23 @@ intro:
         <h3>Terpene Rich Hemp Oil Tincture</h3>
 
 
-        MADE IN USA: This is an all natural, CBD Hemp Oil dietary supplement. It comes in a 15mL bottle with a dropper. It is a tincture (to be taken orally-usually under the tongue).</p>
+        <b>MADE IN USA:</b> This is an all natural, CBD Hemp Oil dietary supplement. It comes in a 15mL bottle with a dropper. It is a tincture (to be taken orally-usually under the tongue).</p>
 
         <p>
 
-        Flavors: Blueberry Moon, Cinnamon, Grape, and Natural.
+        <b>Flavors:</b> Blueberry Moon, Cinnamon, Grape, and Natural.
 
-        Each flavor comes in 150mg, 300mg, 450mg or 750mg – per each bottle. Choose your strength and amount of CBD & Terpene Rich Hemp Oil Tincture according to your personal needs.
+        Each flavor comes in 150mg, 300mg, 450mg or 750mg – per bottle. Choose your strength and amount of CBD & Terpene Rich Hemp Oil Tincture according to your personal needs.
 
         </p>
 
         <p>
 
-        Usage: We suggest 1/2 dropper twice a day (approx. 0.5mL). Each bottle has approximately 30 servings.</p>
+        <b>Usage:</b> We suggest 1/2 dropper twice a day (approx. 0.5mL). Each bottle has approximately 30 servings.</p>
 
         <p>
 
-        Ingredients: Our VG Cloud Tinctures consist of Cannabidiol (CBD), Vegetable Glycerin, Propylene Glycol, Natural and/or artificial flavoring.</p>
+        <b>Ingredients:</b> Our VG Cloud Tinctures consist of Cannabidiol (CBD), Vegetable Glycerin, Propylene Glycol, Natural and/or artificial flavoring.</p>
 
         <p>
 
