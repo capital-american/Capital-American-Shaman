@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: Meet the Owner
 ---
-![](/img/about-cbd-store-owner.jpg)
+![American Shaman Owner -Austin](/img/about-cbd-store-owner.jpg "Austin Shaman Owner")
 
 <p><p><p>
 
