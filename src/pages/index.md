@@ -90,9 +90,13 @@ description: >-
 
   <p>
 
-  By design our location definitely stands out and is uniquely Austin. It’s hands down Austin’s #1 source for CBD products. If you are looking for the best CBD Austin has to offer and you’re searching for “Cbd near me” hopefully you are pointed in our direction. Stop by and explore our variety of products and let us help customize a regimen to get you on track to live your best life.
+  By design our location definitely stands out and is uniquely Austin. It’s hands down Austin’s #1 source for CBD products. If you are looking for the best CBD Austin has to offer and you’re searching for “Cbd near me” hopefully you are pointed in our direction. Stop by and explore our variety of products and let us help customize a regimen to get you on track to live your best life.</p>
 
-  </p>
+  <p>
 
-  As we are in the mist of difficult times we want to assure you that we go above and beyond in sanitizing or store regularly throughout our hours of operation.  We try to keep the interior of our store the safest environment possible to look over and purchase CBD products.  We also provide curbside delivery as well for those who interested.  We strive to provide the best service and CBD products possible.
+  As we are in the mist of difficult times we want to assure you that we go above and beyond in sanitizing or store regularly throughout our hours of operation.  We try to keep the interior of our store the safest environment possible to look over and purchase CBD products.  We also provide curbside delivery as well for those who interested.  We strive to provide the best service and CBD products possible.<p/>
+
+  <p>
+
+  If you are interested in shopping online you can follow the link to our products page which will take you to the point where you can shop online and have products shipped directly to you.  Not all products in store are listed on the site.
 ---
