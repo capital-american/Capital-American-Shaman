@@ -11,7 +11,7 @@ tags:
 ---
 ![](/img/cbd-dosage.jpg)
 
-**CBD Dosage: How Much Should You Take?**
+### **CBD Dosage: How Much Should You Take?**
 
 By Capital CBD American Shaman | June 1, 2020
 
@@ -33,23 +33,23 @@ While we refrain from making dosage recommendations, we have compiled some of th
 
 Start with a reliable, safe, and accurate CBD product. Purchasing CBD from a well-known, reputable CBD brand can make a huge difference in how it affects you and your health. Purchasing from a reliable brand means you are receiving high-quality CBD that is compliant with laws and regulations. High-quality CBD will ensure you are accurately getting the amount/number of milligrams listed on the product. This alone helps with measuring the amount you take. Unreliable companies may claim their products contain more milligrams of CBD than what the product contains and may also use harmful ingredients. Buying CBD you can count on benefits you physically and from an economic standpoint.
 
-Pick a Method 
+##### Pick a Method 
 
 The method in which you take CBD will also help you determine the right amount to take. Generally CBD is taken through sublingual use, eating or drinking, inhaling, or applying to the skin. Sublingual is when CBD oils or tinctures are placed under the tongue. This method takes effect fairly quickly and requires less CBD compared to edible CBD because of the absorption rate. CBD can take up to two hours to take effect in the form of edibles because it is absorbed in the digestive tract. Water soluble products are the fastest way to absorb CBD, a water soluble product can be added to water or another beverage and drank. Topical CBD products absorb through the skin where applied. The amount of CBD required for use is hinged on the desired effect and severity of discomfort it is taken for. Once you decide on the method you would like to take your CBD, then you can start to determine how much is right for you.
 
-Start Small
+##### Start Small
 
 When you first start to take CBD, it’s recommended that you start with a small serving size and gradually increase as needed until you determine what works for you. Product packaging will provide a suggestion for a reasonable amount to start with. After taking a small amount for a few days, you can increase by 5mg and see how you are affected. If you are an experienced CBD user you may be able to start at a higher amount with new CBD products. The amount you need to take is also influenced by the frequency you are looking to take CBD. If are looking to take it once per day you will need a higher amount than if you are taking it multiple times throughout the day.
 
-Measure and Track Your Serving Size 
+##### Measure and Track Your Serving Size 
 
-Be sure to keep track of how much CBD you take as well as how often you take it. This underscores the importance of purchasing CBD products with an accurate milligram amount listed. It allows you to keep an accurate account of how much of CBD you are actually taking.
+Be sure to keep track of how much CBD you take as well as how often you take it. Be sure to also note other foods or drinks you you have had as well.  This underscores the importance of purchasing CBD products with an accurate milligram amount listed. It allows you to keep an accurate account of how much of CBD you are actually taking.  With this method you will be able to pinpoint and/or recognize differencence in how you feel while also taking into account other variables.
 
-Keep Track of How You Feel 
+##### Keep Track of How You Feel.
 
 In determining the right amount of CBD for you, keep track of how you feel each day you take CBD, and also note how you feel on the days you don’t. If you are taking CBD with a specific health goal in mind, keep track of how you feel before and after taking CBD.
 
-Keeping track of how your body feels, helps you determine how your body responds to the serving size of CBD. Since CBD has the ability to help regulate a broad range of functions in the body, there are things you may experience right away or after taking CBD over time.
+Monitoring how your body feels helps you determine how your body responds to the serving size of CBD. Since CBD has the ability to help regulate a broad range of functions in the body, there are some things you may experience right away  and some things things that can only be experienced over time.
 
 **What influences the ideal CBD Serving Size?**
 
