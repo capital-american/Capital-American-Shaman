@@ -33,7 +33,7 @@ While we refrain from making dosage recommendations, we have compiled some of th
 
 Start with a reliable, safe, and accurate CBD product. Purchasing CBD from a well-known, reputable CBD brand can make a huge difference in how it affects you and your health. Purchasing from a reliable brand means you are receiving high-quality CBD that is compliant with laws and regulations. High-quality CBD will ensure you are accurately getting the amount/number of milligrams listed on the product. This alone helps with measuring the amount you take. Unreliable companies may claim their products contain more milligrams of CBD than what the product contains and may also use harmful ingredients. Buying CBD you can count on benefits you physically and from an economic standpoint.
 
-##### Pick a Method 
+##### Pick a Method
 
 The method in which you take CBD will also help you determine the right amount to take. Generally CBD is taken through sublingual use, eating or drinking, inhaling, or applying to the skin. Sublingual is when CBD oils or tinctures are placed under the tongue. This method takes effect fairly quickly and requires less CBD compared to edible CBD because of the absorption rate. CBD can take up to two hours to take effect in the form of edibles because it is absorbed in the digestive tract. Water soluble products are the fastest way to absorb CBD, a water soluble product can be added to water or another beverage and drank. Topical CBD products absorb through the skin where applied. The amount of CBD required for use is hinged on the desired effect and severity of discomfort it is taken for. Once you decide on the method you would like to take your CBD, then you can start to determine how much is right for you.
 
@@ -41,7 +41,7 @@ The method in which you take CBD will also help you determine the right amount t
 
 When you first start to take CBD, it’s recommended that you start with a small serving size and gradually increase as needed until you determine what works for you. Product packaging will provide a suggestion for a reasonable amount to start with. After taking a small amount for a few days, you can increase by 5mg and see how you are affected. If you are an experienced CBD user you may be able to start at a higher amount with new CBD products. The amount you need to take is also influenced by the frequency you are looking to take CBD. If are looking to take it once per day you will need a higher amount than if you are taking it multiple times throughout the day.
 
-##### Measure and Track Your Serving Size 
+##### Measure and Track Your Serving Size
 
 Be sure to keep track of how much CBD you take as well as how often you take it. Be sure to also note other foods or drinks you you have had as well.  This underscores the importance of purchasing CBD products with an accurate milligram amount listed. It allows you to keep an accurate account of how much of CBD you are actually taking.  With this method you will be able to pinpoint and/or recognize differencence in how you feel while also taking into account other variables.
 
@@ -58,6 +58,12 @@ Finding the right CBD serving size isn’t always cut and dry since so many vari
 In addition to the individual factors of each person, potency, type and quality of the CBD used will also impact the amount of CBD you should take. The potency of a product refers to the concentration and strength of CBD in a product. Potency is measured is milligrams. The product must contain the[ CBD milligrams](https://cbdamericanshaman.com/blog/time-to-increase-your-milligrams-knowledge) listed on the packaging for legal distribution in the United States. Some single-serve CBD products, like CBD teas and gummies, will provide the CBD milligrams per serving on the front of the package. Other products, like CBD oils, tinctures, and water solubles, will have the total CBD milligrams for the entire product/container listed on the front of the product. Most CBD manufactures list the CBD per serving on the back of the product to make it easier to determine what amount to take. Potency in CBD products varies; one full dropper of one CBD oil may contain a different amount of CBD than a full dropper of another oil. Be sure to observe the serving size label and not just total amount listed on the front of the container.
 
 As with anything, the ideal amount of CBD varies from person to person because their bodies and endocannabinoid systems are different. Not everyone will experience the effects of CBD the same way. Some people may need a small amount of CBD per day to provide a positive mental state while others may use a larger amount for pain relief.Exercise patience when trying to determine what CBD amount works best for you, sometimes it takes a while to get it just right.
+
+##### Talk to your Doctor.
+
+When it comes to determining which "dosage" of CBD you should use, talking to your doctor is going to be your best bet. While not all doctors will be able to provide information on CBD — depending on the laws in your state — some may be of great benefit in helping to recommend dosages/servings of high-quality brands. Consult with with your doctor prior to trying CBD, especially if you’re currently taking any medications.  
+
+
 
 **CBD Dosage Takeaways**
 
