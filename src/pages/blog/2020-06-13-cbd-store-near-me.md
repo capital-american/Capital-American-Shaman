@@ -12,7 +12,7 @@ tags:
 
 ## How to find the right CBD Store for you.
 
-It's the end of your stressful workday and you turn to Google in search of a “CBD Store Near Me”.  Google rewards you with a list of CBD stores in Austin.  You search through reviews and websites but still don’t know where you should start on your journey for the best CBD store with an excellent line of products.
+It's the end of your stressful workday and you turn to Google in search of a “CBD Store Near Me”.  Google rewards you with a list of stores in Austin.  You search through reviews and websites but still don’t know where you should start on your journey for the best CBD store with an excellent line of products.
 
 We have compiled a few things to consider to assist you in your quest for Austin’s #1 CBD store.  Most people go to the top of the search list, but sometimes the top of a Google search only indicates the company that’s been in that particular area the longest or who has put more money and effort into digital marketing over time.
 
@@ -22,8 +22,8 @@ The goal here is to center the search around CBD.  One of the first things to lo
 
 ## Going the extra mile.
 
-Aside from the U.S. Hemp Authority designation, a pleasant environment with an educated staff that really knows CBD is incredibly important.  At Capital American Shaman we pride ourselves on not only having the best products but also being a source of knowledge for our seasoned customers and those looking to explore ways CBD can help them "live their best life".  We look forward to helping you find the right product for you.  A warm, friendly productive experience for customers is always top priority.
+Aside from the U.S. Hemp Authority designation, a pleasant environment with an educated staff that really knows CBD is incredibly important.  At Capital American Shaman we pride ourselves on not only having the best products but also being a source of knowledge for our seasoned customers and those looking to explore ways CBD can help them "live their best life".  We look forward to helping you find the right product for you.  A warm, friendly productive experience for customers is always top priority.  We are are more interested in helping you find what works versus selling you products.
 
 ## If your in central Austin check us out.
 
-Come and see us…  We are located at 8315 Burnet Rd Ste C, in Austin.  We have a wide variety of products.  We carry Water Soluble Products, Tinctures, Topicals, Edibles, CBD Flower, we hve products for pets you name it.  We are alway looking to assist in any way possible and we enjoy being and resource and providing the best service we can.
+Come and see us…  We are located at 8315 Burnet Rd Ste. C, in Austin 78757.  We have a wide variety of products.  We are a one stop shop.  We carry Water Soluble Products, Tinctures, Topicals, Edibles, CBD Flower, we have products for pets you name it.  We are always looking to assist in any way possible and we enjoy being and resource and providing the best service we can.
