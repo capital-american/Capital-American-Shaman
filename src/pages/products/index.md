@@ -584,6 +584,21 @@ intro:
         <a href="https://cbdamericanshaman.com/msterling-leach/cbd-popcorn" target="_blank" class="shop-link">Shop</a>
 
         </p>
+    - image: /img/cbd-joints.jpg
+      text: >
+        <p>
+
+        <h3>CBD Joints</h3>
+
+        <p>
+
+        <b>MADE IN USA:</b>MADE IN USA:  From the American Shaman fields, we bring you  natural organic Hemp Flower pre-rolled cone. Available in Cherry strain or lemon berry stain, each cone contains up to 1 gram of Full-Spectrum industrial hemp. You’ll be surprised how smooth this cbd joint smokes!  This product  can be ordered online using the shop button or pickup in store.  We have a variety on pre-rolled cones to choose from in store.</p>
+
+        <p>
+
+        <a href="https://cbdamericanshaman.com/msterling-leach/cbd-joints" target="_blank" class="shop-link">Shop</a>
+
+        </p>
   heading: What we offer
   description: "High quality Cbd products from Austin's best CBD Store.  We are
     the \"Austin Shaman\" That's located on Burnet Rd. "
