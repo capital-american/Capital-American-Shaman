@@ -53,7 +53,7 @@ const Navbar = class extends React.Component {
                     <div className="header-icon">
                       <i className="fas fa-store-alt"></i>
                     </div>
-                    <span className="info-simple capital-location-info">8315 Burnet Rd Austin Ste. C, TX 78757</span>
+                    <span className="info-simple capital-location-info">8315 Burnet Rd Ste. C Austin, TX 78757</span>
 
                   </div></div>
                 <div className="column">  <div className="contact-info">

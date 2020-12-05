@@ -24,7 +24,7 @@ const Footer = class extends React.Component {
 
                   <p> <span>Email: </span> <a href="mailto:info@capitalamericanshaman.com"
                     target="_top">info@capitalamericanshaman.com</a> </p>
-                  <p> <span>Location: </span>8315 Burnet Rd Ste. C, Austin, TX 78757</p>
+                  <p> <span>Location: </span>8315 Burnet Rd Ste. C Austin, TX 78757</p>
 
                 </div>
               </div>
