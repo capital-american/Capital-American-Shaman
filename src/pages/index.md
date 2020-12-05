@@ -13,7 +13,7 @@ mainpitch:
   description: >
     Welcome to Capital CBD, where our proprietary nanotechnology makes our
     products 9X more bioavailable than anything else on the market...  More
-    powerful, more effective - Austin's premier CBD store.
+    powerful, most effective - Best CBD oil in Austin.
 intro:
   blurbs:
     - image: /img/coffee.png
