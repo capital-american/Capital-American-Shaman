@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Delta 8
-date: 2021-01-15T20:29:36.914Z
+date: 2021-01-20T20:29:36.914Z
 description: What is Delta 8 THC and is it legal?
 featuredpost: true
 featuredimage: /img/delta-8-thc.png
