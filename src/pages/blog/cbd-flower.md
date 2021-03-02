@@ -22,8 +22,7 @@ Smoking hemp flower would be less desirable if it weren’t for the unique terpe
 
 ## Entourage effect
 
-Feel the Effects of CBD Hemp Flower Immediately\
-CBD hemp flower is fast-acting. In fact, it works within seconds of your first hit, you should experience the calming effects of CBD. Since there is less that 0.3 percent THC in our hemp flowers, there are no psychoactive effects experienced. Most products like CBD oils and edibles and must be processed by your liver. This process takes a longer time and decreases the amount of CBD that makes its way into your bloodstream. By smoking CBD flower, the Cannabidiol goes directly into your system, smoking hemp flower and vaping are the fastest ways of getting CBd into your system.
+Feel the Effects of CBD Hemp Flower immediately. CBD hemp flower is fast-acting, it works within seconds of your first hit, you should experience the calming effects of CBD. Since there is less that 0.3 percent THC in our hemp flowers, there are no psychoactive effects experienced. Most products like CBD oils and edibles and must be processed by your liver. This process takes a longer time and decreases the amount of CBD that makes its way into your bloodstream. By smoking CBD flower, the Cannabidiol goes directly into your system, smoking hemp flower and vaping are the fastest ways of getting CBd into your system.
 
 ## The “Entourage Effect” can be felt.
 
@@ -58,7 +57,7 @@ While there are advantages vaping there are also some advantages to smoking.  Yo
 
 Sometimes hemp can be like wine.  It can be an acquired taste that is subject to change as you experience more and start to appreciate hemp’s unique flavor.If it’s your first time purchasing CBD hemp flower, it is recommended to try and soak up as much information as you can about the strains and their descriptions. Each strain is unique and there are even differences in in in the same strain grown by a different growers.  No two hemp strains are identical so it can take a bit of searching to find the ideal strain for you.
 
-## Can You Make Your Own Edibles? 
+## Can You Make Your Own Edibles?
 
 You can mix hemp flower into baked goods and food products. It has been done with brownies for many years.  Infusing edibles with hemp is not as simple as measuring a dose and mixing it in. You must adequately heat your hemp buds in an oven before adding them to the edible you wish to infuse.. The cannabinoids naturally present in a hemp plant exist in an acidic state that our bodies have a difficulty absorbing. Once the buds have been heated(a process called decarboxylation) that CBD-A gets converted into the CBD we are familiar with.
 
@@ -71,12 +70,9 @@ Even though our hemp has less than 0.3 percent THC content, that doesn’t mean 
 
 For your safety, please refrain from hemp smoking a few days before you know there will be a drug screening. If your company has surprise drug screenings, then you might want to reserve smokable hemp for vacations or look into THC-free CBD products like CBD isolate.
 
-## 
 Are There Side Effects To Taking CBD?
 
-
-Like any other supplement, there’s always a chance you could experience side effects when taking CBD. In most cases, however, the people who experience adverse reactions tend to take higher-than-average CBD dosages.
-A few of the most common side effects related to CBD include:
+Like any other supplement, there’s always a chance you could experience side effects when taking CBD. In most cases, however, the people who experience adverse reactions tend to take higher-than-average CBD dosages. A few of the most common side effects related to CBD include:
 •	Headaches
 •	Digestive upset
 •	Fatigue
@@ -84,9 +80,7 @@ A few of the most common side effects related to CBD include:
 
 If you experience severe side effects, please stop taking CBD and contact your doctor immediately.
 
-## 
-Is Smokable Hemp Flower Legal?
-
+## Is Smokable Hemp Flower Legal?
 
 Smokable hemp is legal at the federal level. The 2018 Farm Bill legalized the cultivation and sale of hemp products as long as they contain no more than 0.3 percent THC.
 
@@ -105,8 +99,7 @@ If you are new to smokable hemp, picking out a strain from a catalog could prese
 If you would like more information on Terpenes, this article will give you a bit more information.(Terpenes)  For  a really quick run down please see below for a brief description of some of the most common terpenes found in CBD Flower.
 
 \
-Myrcene: This mango-like terpene that tends produce a sedative effect. Linalool: Found in lavender, linalool generally has a relaxing effect on users. Limonene: Citrusy, limonene is associated with energizing it’s user.  Beta-caryophyllene: Spicy & peppery, this terpene might have anti-inflammatory effects.
-Humulene: Also found in hops, humulene typically enhances the anti-inflammatory effects of beta-caryophyllene.
+Myrcene: This mango-like terpene that tends produce a sedative effect. Linalool: Found in lavender, linalool generally has a relaxing effect on users. Limonene: Citrusy, limonene is associated with energizing it’s user.  Beta-caryophyllene: Spicy & peppery, this terpene might have anti-inflammatory effects. Humulene: Also found in hops, humulene typically enhances the anti-inflammatory effects of beta-caryophyllene.
 Alpha-pinene: This distinctly woodsy terpene might improve cognition and help with respiratory issues. 
 Eucalyptol: The defining aroma in eucalyptus trees, eucalyptol might have anti-bacterial and antioxidant properties.
 
