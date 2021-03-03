@@ -360,6 +360,9 @@ export const IndexPageTemplate = ({
                     </Link>
                     </div>
                   </div>
+                  <div className="column is-12">
+                  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1v6uMBLY7gH_RK69iA_jPqhIPVeDVZaro" width="640" height="480"></iframe>
+                  </div>
                 </div>
               </div>
             </div>
