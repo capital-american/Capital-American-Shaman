@@ -215,6 +215,9 @@ export const IndexPageTemplate = ({
                           <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">Hemp
                                                 Flower</a>
                           </li>
+                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">Delta 8
+                                                </a>
+                          </li>
                         </ul>
                       </div>
                       <div className="column">
