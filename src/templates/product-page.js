@@ -134,7 +134,7 @@ const ProductPage = ({ data }) => {
 
   return (
     <Layout>
-      <Helmet titleTemplate="%s | Capital American Shaman CBD">
+      <Helmet titleTemplate="%s | Capital American Shaman CBD - Buy CBD prouducts in Austin,TX">
         <title>{frontmatter.title}</title>
         <meta name="description" content="Checkout our CBD products and learn how it can help you and your pets " />
       </Helmet>

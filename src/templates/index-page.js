@@ -136,7 +136,7 @@ export const IndexPageTemplate = ({
                   <span className="color"> CBD PRODUCTS </span></h2>
                     </div>
                     <div className="has-text-centered section">
-                      Capital American Shaman CBD products are not cookie cutter, one-size-fits-all.
+                      Capital American Shaman CBD products in Austin, TX are not cookie cutter, one-size-fits-all.
                       There are many different ways you can use CBD.
                   </div>
 

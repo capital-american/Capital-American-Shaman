@@ -8,7 +8,7 @@ export default class BlogIndexPage extends React.Component {
   render() {
     return (
       <Layout>
-        <Helmet titleTemplate="%s | Capital American Shaman CBD">
+        <Helmet titleTemplate="%s | Capital American Shaman - Buy CBD prouducts in Austin,TX">
           <title>Blogs</title>
           <meta name="description" content="Facts, latest news, deals about CBD and American Shaman CBD products." />
         </Helmet>
