@@ -37,7 +37,7 @@ const FaqPage = ({ data }) => {
 
   return (
     <Layout>
-      <Helmet titleTemplate="%s | Capital American Shaman CBD - Buy CBD prouducts in Austin,TX">
+      <Helmet titleTemplate="%s | Capital American Shaman CBD - Buy CBD products in Austin">
         <title>{post.frontmatter.title}</title>
         <meta name="description" content="Answers to FAQ about manufacturing, legality, working, safety and usage of CBD." />
       </Helmet>
