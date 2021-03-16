@@ -52,7 +52,7 @@ intro:
     knowledge to anyone. This is an edit via identity...
 maincaption: MORE POWERFUL - MORE EFFECTIVE - IN THE HEART OF AUSTIN
 maincaptionsub: test
-title: Capital CBD American Shaman
+title: Capital American Shaman
 main:
   heading: Great coffee with no compromises
   description: >
