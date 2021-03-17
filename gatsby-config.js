@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     siteUrl: `https://capitalamericanshaman.com/`,
-    title: 'Capital American Shaman | Buy CBD Products in Austin,TX',
+    title: 'Capital American Shaman |  Austin’s #1 source for CBD products',
     description:
       'Capital CBD Store is a locally owned and operated franchise of American Shaman in Austin,TX.  We carry CBD oil, edibles, topicals, hemp flower and more.',
   },
