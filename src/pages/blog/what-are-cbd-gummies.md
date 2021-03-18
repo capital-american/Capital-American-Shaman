@@ -8,7 +8,7 @@ featuredimage: /img/cbd-gummy-rings.jpg
 tags:
   - CBD Edibles
 ---
-![CBD Gummies in Austin Tx](/img/cbd-gummy-rings.jpg "CBD Gummies")
+![Interested in CBD Gummies in Austin Tx?](/img/cbd-gummy-rings.jpg)
 
 # CBD GUMMIES
 
