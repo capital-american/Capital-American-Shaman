@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: What are CBD Gummies?
-date: 2021-03-18T11:22:50.098Z
+date: 2021-03-01T12:22:50.098Z
 description: CBD gummies are an effective way to experience the benefits of CBD Oil.
 featuredpost: true
 featuredimage: /img/cbd-gummy-rings.jpg
