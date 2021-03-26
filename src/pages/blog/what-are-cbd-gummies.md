@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: What are CBD Gummies?
+title: CBD Gummies
 date: 2021-03-01T12:22:50.098Z
 description: CBD gummies are an effective way to experience the benefits of CBD Oil.
 featuredpost: true
