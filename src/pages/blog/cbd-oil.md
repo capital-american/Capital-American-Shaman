@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: CBD Oil
 date: 2021-03-05T21:44:11.258Z
-description: Seaching from CBD in Ausint Tx
+description: Seaching for CBD in Ausin Tx?
 featuredpost: true
 featuredimage: /img/cbd-oil-austin.jpg
 tags:
