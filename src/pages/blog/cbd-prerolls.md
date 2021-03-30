@@ -9,8 +9,6 @@ featuredimage: /img/pre-rolls2-.jpg
 tags:
   - CBD Flower
 ---
-
-
 ![](/img/pre-rolls2-.jpg)
 
 # What are CBD Pre-Rolls?
@@ -23,7 +21,7 @@ CBD pre-rolls are a way for you to consume CBD by smoking. In comparison to othe
 
 CBD Pre-rolls offer you a unique smoking experience, without making you high. Pre-rolls have in them the same benefits as any other form of CBD products – be it edibles, oils or tinctures. CBD pre-rolls present a faster way to deliver beneficial compounds to your body, as they are inhaled directly into your lungs when you smoke. Pre-rolls thus work much faster than all other CBD products. 
 
-### What are the benefits of CBD Pre-rolls? 
+### What are the benefits of CBD Pre-rolls?
 
 CBD Pre-rolls are one of the most efficient ways to consume CBD. When smoking CBD pre-rolls, cannabinoids and terpenes join the bloodstream through the lungs' oxygen exchange and associate with our endocannabinoid system (ECS).
 
@@ -33,12 +31,9 @@ It also works against anxiety and stress and helps your mind to relax. The less 
 
 Pre-rolls are also found to be an extremely effective way to quit cigarette smoking. When a smoker's craving hits, hemp flower CBD cigarettes provide an alternative. CBD was found to minimise the salience of cigarette craving signals in a report.  CBD is not physically addictive so replacing an addictive substance with a non-addictive substance take a step towards breaking addiction.
 
-### 
-Shop CBD Pre-Rolls at Capital CBD.
+### Shop CBD Pre-Rolls at Capital CBD.
 
-
-At Capital CBD, you can shop the best CBD pre-rolls in town in the ambience of an open and welcoming physical space. The store is more than any ordinary CBD store and has been designed as a wellness center to help you gain more knowledge on CBD while shopping an array of safe and pure CBD products. 
-Each CBD joint contains a gram of hemp flower. We offer you a variety of pre-roll strains including Cherry Wine, Lemon Berry and Wild-Root.
+At Capital CBD, you can shop the best CBD pre-rolls in town in the ambience of an open and welcoming physical space. The store is more than any ordinary CBD store and has been designed as a wellness center to help you gain more knowledge on CBD while shopping an array of safe and pure CBD products.  Each CBD joint contains a gram of hemp flower. We offer you a variety of pre-roll strains including Cherry Wine, Lemon Berry and Wild-Root.
 
 All our products are made with premium, CBD rich hemp buds. CBD products at Capital CBD are third party tested for safety and quality. 
 
