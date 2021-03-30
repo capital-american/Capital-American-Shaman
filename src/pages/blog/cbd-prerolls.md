@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: CBD Prerolls
-date: 2021-03-30T18:53:51.405Z
+date: 2021-03-08T19:53:51.405Z
 description: Interested in information CBD Prerolls and want to know where to
   purchase in Austin Texas?
 featuredpost: true
