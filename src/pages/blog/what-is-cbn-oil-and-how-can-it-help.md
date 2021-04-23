@@ -25,7 +25,7 @@ On the other hand, CBN is produced by the breakdown of THC and the content of CB
 
 Though both originate from cannabis or hemp, there is much less information on CBN currently. There is not enough research on the variety of benefits that CBN has to offer when compared to CBD. As a result, CBN is less widely available than CBD.
 
-Benefits of CBN 
+## Benefits of CBN 
 
 CBN is widely known as a sleep aid or a sedative. It is also shown to have anti-inflammatory properties and helps in pain relief.
 
