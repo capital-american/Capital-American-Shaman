@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: What is CBN oil and how can it help?
-date: 2021-04-23T21:48:32.997Z
+date: 2021-03-15T21:48:32.997Z
 description: CBN has many benefits.  It is known for it's calming effects and
   it's ability to help us get better sleep.
 featuredpost: true
