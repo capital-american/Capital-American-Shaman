@@ -12,6 +12,8 @@ tags:
 
 <br><br>
 
+# Delta 8 THC in Texas?
+
 You may have heard about Delta 8 THC and wondered what exactly is it?  Delta 8 Tetrahydrocannabinol goes by many names, D8 being one of its popular references. Delta 8 is a minor cannabinoid that naturally occurs in cannabis plants at very small concentrations. It is not directly produced by cannabinoid synthesizing enzymes within the plant.  When THC is stored for a period of time it can degrade into delta 8 THC.  Selective breeding and molecular isolation can be utilized to access greater quantities of delta 8 THC.  Delta 8 is distinct from the THC that is often mentioned in conversation when referring to THC which is usually a reference to delta 9 THC.  In comparison, delta 8 THC is an analogue of the delta 9 THC molecule with a similar structure but some notable differences. While both substances share similar properties such as reducing nausea, stimulating the appetite and soothing pain, delta 8 tends to exhibit a lower psychotropic potency than delta 9 THC. Δ8THC can alter and elevate your mood, it is much more functional than Δ9THC and far less intoxicating. It can provide “buzz” without the levels of paranoia, intoxication or anxieties delta-9 THC is known to provide.
 
 Delta 8 was not widely available outside of the medical marijuana industry until after the [2018 Farm Bill](https://www.congress.gov/bill/115th-congress/house-bill/2) allowed for cannabinoids like Δ8THC to be legalized at the federal level.  This has given CBD and THC companies all around the world a green light to produce delta 8 Vapes, Gummies, Tinctures and delta 8 Flower that demonstrates these properties.  Just in case you were wondering, Delta-8 THC is a federally legal substance available for sale in the United States.
@@ -46,7 +48,7 @@ Note, the FDA strongly advises that during pregnancy and while breastfeeding, yo
 
 ### Where Can I Buy Delta 8 In Austin TX?
 
-If you’re looking for the best place in Austin Texas to buy Delta 8 then look no further. At Capital CBD American Shaman located at 8315 Burnet Rd Ste. C Austin Tx 75757, we are dedicated to carrying only the highest quality products available.  All of our delta 8 products are loaded with terpenes and phytocannabinoids, are non-GMO, pesticide free, and grown in the USA.  Our products are all 3rd party lab tested for purity and contains less than .3% delta 9 THC, which complies with all regulations listed in the 2018 United States Farm bill.  
+If you’re looking for "delta 8 near me" or the best place in [Austin Texas](https://en.wikipedia.org/wiki/Austin,_Texas) to buy Delta 8 THC then look no further. At Capital CBD American Shaman located at 8315 Burnet Rd Ste. C Austin Tx 75757, we are dedicated to carrying only the highest quality Delta 8 THC available.  All of our delta 8 products are loaded with terpenes and phytocannabinoids, are non-GMO, pesticide free, and grown in the USA.  Our products are all 3rd party lab tested for purity and contains less than .3% delta 9 THC, which complies with all regulations listed in the 2018 United States Farm bill.  
 
 We carry delta-8 edibles, tinctures, water soluble and delta-8 Gummies.  When it comes to inhalation we carry delta-8 cartridges for vaping, prerolls and delta Δ8THC flower.
 
