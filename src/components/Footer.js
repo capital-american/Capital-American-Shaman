@@ -61,6 +61,8 @@ const Footer = class extends React.Component {
             <div className="columns">
               <div className="column">
                 <div className="copyright">
+                  <p><strong>Disclaimer</strong>:  Representations regarding the efficacy of CBD statements have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease.</p>
+                  <br/>
                   <p>
                     Copyright © 2020
                                 <a href="#"> CBD American Shaman</a> All Rights Reserved
