@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Delta 8 gummies
-date: 2021-08-30T21:36:14.651Z
+date: 2021-06-06T21:36:14.651Z
 description: "Interested in Delta 8 gummies?  Lets explore some of the possible
   effects of delta 8 THC.  "
 featuredpost: true
