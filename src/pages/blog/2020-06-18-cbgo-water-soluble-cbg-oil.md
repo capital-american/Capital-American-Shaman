@@ -37,6 +37,20 @@ The health supporting properties of CBD are well known, and well documented.  Th
 
  This product is the next step in revolutionizing the CBD industry with isolated cannabinoid research and nanotechnology.<p/>
 
+<!--StartFragment-->
+
+#### Shop CBG Oil at Capital American Shaman in Austin
+
+Visit the best CBD store in Austin, and browse a range of CBG products including gummies at Capital CBD. Our store in Austin is designed as a wellness center and is more than an ordinary CBD store. It’s hands down Austin’s #1 source for CBG products. If you're looking for the best CBG Austin has to offer and you're looking for "Cbg near me," you've probably found us. Come in and browse our products in stock and let us help you create a regimen that will help you live your best life.
+
+Capital CBD also offers you the choice of online shopping.  Choose the best CBG or CBD product for you, check out, and we'll ship it to your address. The relaxing gummy bears from Capital CBD are delicious and calming.
+
+So what are you waiting for? Shop your favorite CBG gummies at the Best CBD Store in Austin!
+
+<!--EndFragment-->
+
+
+
 <p></p><br>
 
 <p>
