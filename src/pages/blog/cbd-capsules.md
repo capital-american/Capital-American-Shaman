@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: CBD Capsules
 date: 2021-06-28T22:17:02.480Z
-description: Have ever thought about CBD in form of a Capsule?
+description: Have you ever thought about CBD in form of a Capsule?
 featuredpost: true
 featuredimage: /img/cbd-capsules.jpg
 tags:
