@@ -10,7 +10,7 @@ subheading: >-
 templateKey: index-page
 mainpitch:
   title: AMERICAN SHAMAN CBD STORE IN AUSTIN - CBD OIL, TINCTURES, EDIBLES, CBD
-    FLOWER AND MORE
+    FLOWER DELTA 8 AND MORE
   description: >
     Welcome to Capital CBD, where our proprietary nanotechnology makes our
     products 9X more bioavailable than anything else on the market...  More
