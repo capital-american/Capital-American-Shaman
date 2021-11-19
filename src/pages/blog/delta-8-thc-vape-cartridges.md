@@ -43,7 +43,7 @@ Delta-8 cartridges are legal as long your state has not outlawed delta 8.  Feder
 
 ### Differences in Terpene Strains
 
-There are two different types of terpenes: botanical derived and cannabis-derived.  For a little more detail on "Terpenes" take a look at blog on terpenes[ here](https://capitalamericanshaman.com/blog/terpenes/).  <---
+There are two different types of terpenes: botanical derived and cannabis-derived.  For a little more detail on "Terpenes" take a look at blog on terpenes[ here](https://capitalamericanshaman.com/blog/terpenes/).  
 
 #### Botanical Derived Terpenes
 
