@@ -9,7 +9,7 @@ featuredimage: /img/delta-8-vape.jpg
 tags:
   - Delta 8
 ---
-![Delta 8 Carts](/img/delta-8-vape.jpg "Delta 8 Vape Cartridges")
+![](/img/delta-8-vape.jpg "Delta 8 Vape Cartridges")
 
 ## What is Delta 8?
 
