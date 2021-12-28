@@ -9,7 +9,7 @@ featuredimage: /img/pre-rolls2-.jpg
 tags:
   - CBD Flower
 ---
-![](/img/pre-rolls2-.jpg)
+![](/img/pre-rolls2-.jpg "Buy CBD Prerolls in Austin, TX | CBD Flower | Capital American Shaman")
 
 # What are CBD Pre-Rolls?
 
