@@ -12,20 +12,17 @@ tags:
 ---
 ![](/img/kratom.jpg)
 
-# What Is Kratom? 
+# What Is Kratom?
 
 Kratom is an herbal extract that comes from the leaves of an evergreen tree (Mitragyna speciosa) grown in Southeast Asia. It is in the family of the coffee plant.  Its leaves are dried and used in many forms.  It can be used to make tea, ground to powder, encapsulated and sold as a supplement. Kratom leaves can also be smoked like tobacco.  Kratom has been used for hundreds of years in Asia as a natural home remedy.
 
-
 You can find kratom leaves, powder, and capsules in some health food stores, online specialty stores and vape shops.  It is commonly used to relieve pain, depression, and opioid addiction. The two most active compounds found in kratom are mitragynine and 7-hydroxymitragynine, which work on opioid receptors.  There is anecdotal evidence that these two alkaloids can have analgesic (pain relieving), anti-inflammatory, or muscle relaxing effects.
-
 
 It is most often taken in the form of a powder that can be mixed in a drink, made into tea, put into capsules or taken dry and washed down with a drink. You can find fortified kratom powders, usually green or light brown in color. These powders also contain extracts from other plants. Consumers commonly report the effects of kratom as energizing, relaxing, pain relief, anxiety relief and euphoric.  These effects vary depending on the strain of Kratom being used. Because of these properties, it is becoming popular in the US as a natural alternative to prescription painkillers and is used by people coming off opiates to reduce withdrawal symptoms.
 
 ## Kratom Strains
 
 There are only 3 kratom strains but there are a lot of different kratom powders.  Each kratom powder has something unique to offer.
-
 
 **Red Vein Kratom** – This is the most common strain of Kratom. It has red-colored veins in the leaves as well as red stems. These kratom strains are often the most popular and many people buy this strain of kratom. In low doses, it is a great relaxer as it produces tranquil effect. It can provide a sense of well-being and is known for helping with sleep.
 
@@ -53,4 +50,4 @@ Results from one Animal Study suggested that mitragynine, the major psychoactive
 
 ## Where Can I Buy Kratom In Austin TX?
 
-If you’re looking for the best place in Austin TX to buy high quality Kratom then you have found the right store. At Capital CBD American Shaman located at 8315 Burnet Rd Ste. C Austin, Tx 78757 we are dedicated to carrying only the highest quality product available.  Instead of searching for "Kratom near me" just head on over to our store front.  All of our Kratom is sourced from farmers with decades of experience growing and harvesting the plant. Our kratom is 3rd party lab tested for purity and contain no pesticides or heavy metals.  As with any supplement we recommend you do diligent research yourself prior to implementing take any new supplements.  After you have done your research feel free to stop by and get started on a new and improved you!  Our hours are Monday through Friday 11am to 7pm and 11-6pm on Saturday. If you have any questions regarding Kratom or our CBD products, please give us a call at (512) 386-1873.
+If you’re looking for the best place in Austin, TX to buy high quality Kratom then you have found the right store. At Capital CBD American Shaman located at 8315 Burnet Rd Ste. C Austin, Tx 78757 we are dedicated to carrying only the highest quality product available.  Instead of searching for "Kratom near me" just head on over to our store front.  All of our Kratom is sourced from farmers with decades of experience growing and harvesting the plant. Our kratom is 3rd party lab tested for purity and contain no pesticides or heavy metals.  As with any supplement we recommend you do diligent research yourself prior to implementing take any new supplements.  After you have done your research feel free to stop by and get started on a new and improved you!  Our hours are Monday through Friday 11am to 7pm and 11-6pm on Saturday. If you have any questions regarding Kratom or our CBD products, please give us a call at (512) 386-1873.
