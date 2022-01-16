@@ -47,13 +47,17 @@ const TemplateWrapper = ({ children }) => {
           color="#ff4400"
         />
         <meta name="theme-color" content="#fff" />
-        <meta property="og:description" content="Capital CBD is a locally owned and operated franchise of American Shaman in Austin,TX, The Most Powerful CBD Hemp Oil Available" />
-        <meta property="og:type" content="business.business" />
+        <meta property="og:description" content="Capital CBD Store is a locally owned and operated
+franchise of American Shaman in Austin, TX. We carry CBD oil, edibles, topicals, hemp flower, and
+more." />
+        <meta property="og:type" content="website" />
         <meta property="og:title" content={title} />
+        <meta property="og:site_name" content="Capital CBD American Shaman" />
         <meta property="og:url" content="https://capitalamericanshaman.com/" />
+        
         <meta
           property="og:image"
-          content={`https://capitalamericanshaman.com/img/og-image.jpg`}
+          content={`https://capitalamericanshaman.com/img/capital-logo.png`}
         />
       </Helmet>
       <Navbar />

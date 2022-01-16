@@ -73,7 +73,7 @@ const Navbar = class extends React.Component {
 
                 href="https://www.facebook.com/CapitalCBDAustin/"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer nofollow"
               >
                 <span className="icon">
                   <img src={facebook} alt="Facebook" />

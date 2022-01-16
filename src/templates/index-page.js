@@ -143,7 +143,7 @@ export const IndexPageTemplate = ({
                     <div className="columns ">
                       <div className="column">
                         <div className="product-box">
-                          <a className="service" target="_blank"
+                          <a className="service" rel="nofollow" target="_blank"
                             href="https://cbdamericanshaman.com/msterling-leach">
                             <img src={product1} alt="Beauty products"></img>
                           </a>

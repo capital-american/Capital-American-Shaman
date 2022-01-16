@@ -50,5 +50,5 @@ If you would like to browse our products you can take a look at our [products pa
 <p></p><br>
 
 <p>
-<center><a href="https://cbdamericanshaman.com/msterling-leach/vg-cloud-terpene-rich-cbd-oil-tincture" target="_blank" class="shop-link">VG Cloud Tincture / Shop</a><center>
+<center><a href="https://cbdamericanshaman.com/msterling-leach/vg-cloud-terpene-rich-cbd-oil-tincture" rel="nofollow" target="_blank" class="shop-link">VG Cloud Tincture / Shop</a><center>
 </p>
