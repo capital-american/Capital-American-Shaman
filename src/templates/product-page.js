@@ -52,7 +52,7 @@ export const ProductPageTemplate = ({
               <div className="column is-10 is-offset-1">
                 <Features gridItems={intro.blurbs} />
                 <div>
-                  <a className="link-view-more-products" target="_blank" href="https://cbdamericanshaman.com/msterling-leach">View More Products</a>
+                  <a className="link-view-more-products" target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">View More Products</a>
                 </div>
                 {/* <div className="columns">
                   <div className="column is-7">

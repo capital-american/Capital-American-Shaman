@@ -48,7 +48,7 @@ intro:
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p>
     - image: /img/cbd-extra-strength-water-soluble_900-450.jpg
@@ -83,7 +83,7 @@ intro:
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p>
     - image: /img/cbg-oil-austin-shaman-cbd-store.jpg
@@ -143,7 +143,7 @@ intro:
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p>
 
@@ -184,7 +184,7 @@ intro:
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p>
     - image: /img/500-topical-cream.jpg
@@ -213,7 +213,7 @@ intro:
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p>
     - image: /img/austin-shaman-vg-cloud-tincture-cbd-terpene-rich-hemp-oil.jpg
@@ -243,7 +243,7 @@ intro:
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p>
 
@@ -276,7 +276,7 @@ intro:
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p>
     - image: /img/cbd-gummies-austin-shaman.jpg
@@ -308,7 +308,7 @@ intro:
 
         Ingredients: Glucose Syrup (from Wheat or Corn), CBD from Hemp Oil Concentrate, Sugar, Gelatin, Dextrose, Citric Acid, Corn Starch, Artificial and Natural Flavors, Palm Kernel Oil, Carnauba Wax, White Beeswax, Yellow Beeswax, Yellow 5, Red 40, Blue 1</p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p>
     - text: >
@@ -330,7 +330,7 @@ intro:
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p>
       image: /img/cbd-honey_austin_store.jpg
@@ -363,7 +363,7 @@ intro:
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p> 
       image: /img/austin-cbd-store-gourmet-gummies-full-spectrum.jpg
@@ -379,7 +379,7 @@ intro:
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p>
     - text: >-
@@ -393,7 +393,7 @@ intro:
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p>
       image: /img/cbd_products_browneis_austin_cbd-store.jpg
@@ -432,7 +432,7 @@ intro:
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p>
       image: /img/cbd-hard-candy-austin.jpg
@@ -447,7 +447,7 @@ intro:
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p>
       image: /img/cbd-store-coffee-austin.jpg
@@ -466,7 +466,7 @@ intro:
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p>
       image: /img/cbd_products_cereal-marshmallow-treat-austin.jpg
@@ -485,7 +485,7 @@ intro:
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p>
       image: /img/cbd_cookies_austin_cbd_store.jpg
@@ -505,7 +505,7 @@ intro:
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p>
 
@@ -536,7 +536,7 @@ intro:
 
         <p>
 
-        <a href="https://cbdamericanshaman.com/msterling-leach" target="_blank" class="shop-link">Shop</a>
+        <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
         </p>
       image: /img/cbd-store-hydrating-body-lotion.jpg

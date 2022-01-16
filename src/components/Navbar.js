@@ -73,7 +73,7 @@ const Navbar = class extends React.Component {
 
                 href="https://www.facebook.com/CapitalCBDAustin/"
                 target="_blank"
-                rel="noopener noreferrer nofollow"
+                href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noopener noreferrer"
               >
                 <span className="icon">
                   <img src={facebook} alt="Facebook" />
@@ -83,7 +83,7 @@ const Navbar = class extends React.Component {
 
                 href="https://www.instagram.com/capitalcbdatx/"
                 target="_blank"
-                rel="noopener noreferrer"
+                href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noopener noreferrer"
               >
                 <span className="icon">
                   <img src={instagram} alt="Instagram" />

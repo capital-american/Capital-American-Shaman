@@ -143,8 +143,8 @@ export const IndexPageTemplate = ({
                     <div className="columns ">
                       <div className="column">
                         <div className="product-box">
-                          <a className="service" rel="nofollow" target="_blank"
-                            href="https://cbdamericanshaman.com/msterling-leach">
+                          <a className="service" target="_blank"
+                            href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" >
                             <img src={product1} alt="Beauty products"></img>
                           </a>
                         </div>
@@ -152,7 +152,7 @@ export const IndexPageTemplate = ({
                       <div className="column">
                         <div className="product-box">
                           <a className="service" target="_blank"
-                            href="https://cbdamericanshaman.com/msterling-leach">
+                            href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">
                             <img src={product2} alt="Pet products"></img>
                           </a>
                         </div>
@@ -161,7 +161,7 @@ export const IndexPageTemplate = ({
                       <div className="column">
                         <div className="product-box">
                           <a className="service" target="_blank"
-                            href="https://cbdamericanshaman.com/msterling-leach">
+                            href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">
                             <img src={product3} alt="Relief products"></img>
                           </a>
                         </div>
@@ -170,7 +170,7 @@ export const IndexPageTemplate = ({
                       <div className="column">
                         <div className="product-box">
                           <a className="service" target="_blank"
-                            href="https://cbdamericanshaman.com/msterling-leach">
+                            href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">
                             <img src={product4} alt="Wellness products"></img>
                           </a>
                         </div>
@@ -183,39 +183,39 @@ export const IndexPageTemplate = ({
                     <div className="columns">
                       <div className="column">
                         <ul className="product-list">
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">CBD
+                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">CBD
                           Water
                           Soluble
                                                 Products</a>
                           </li>
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">CBD
+                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">CBD
                                                 Tinctures</a>
                           </li>
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">CBD
+                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">CBD
                                                 Edibles</a>
                           </li>
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">CBD
+                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">CBD
                           Lotions,
                           Creams and
                                                 Topicals</a>
                           </li>
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">CBD
+                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">CBD
                           Soaps
                                                 and Bath Bombs</a>
                           </li>
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">CBD
+                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">CBD
                           Dog, Cat
                           and Equine
                                                 Products</a>
                           </li>
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">CBD
+                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">CBD
                           Skin
                                                 Care</a>
                           </li>
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">Hemp
+                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">Hemp
                                                 Flower</a>
                           </li>
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach">Delta 8
+                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">Delta 8
                                                 </a>
                           </li>
                         </ul>
