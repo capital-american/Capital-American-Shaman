@@ -2,14 +2,15 @@
 templateKey: blog-post
 title: CBD Prerolls
 date: 2021-03-08T19:53:51.405Z
-description: Interested in information CBD Prerolls and want to know where to
-  purchase in Austin Texas?
+description: Interested in CBD Prerolls in Austin, Texas? Capital American
+  Shaman is one of the best shops to purchase CBD Prerolls & Flower from in
+  town.
 featuredpost: true
 featuredimage: /img/pre-rolls2-.jpg
 tags:
   - CBD Flower
 ---
-![](/img/pre-rolls2-.jpg)
+![](/img/pre-rolls2-.jpg "Buy CBD Prerolls in Austin, TX | CBD Flower | Capital American Shaman")
 
 # What are CBD Pre-Rolls?
 
