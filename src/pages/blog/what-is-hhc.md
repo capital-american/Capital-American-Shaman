@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: What is HHC
-date: 2022-02-04T15:44:37.684Z
+date: 2022-01-03T15:44:37.684Z
 description: "You may have heard about HHC and wondered what is it? HHC is
   cannabiniod with similarities to THC. "
 featuredpost: true
