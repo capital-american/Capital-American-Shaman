@@ -3,6 +3,8 @@ templateKey: article-post
 title: Blanton Museum of Art
 date: 2022-10-06T15:04:47.643Z
 featuredpost: false
+tags:
+  - GeoArticle
 ---
 If you are looking for an art museum in Austin TX, you've come to the right place. The Blanton Museum of Art is a renowned institution with a permanent collection of over 17,000 pieces of art and a number of exhibitions and special events. You can enjoy the museum's collection for free by purchasing admission to one of its many programs or by visiting the Blanton Cafe, located in the Edgar A. Smith Building. This museum serves gourmet pizzas, sandwiches, coffee, and other tasty refreshments. The museum is open daily (except national holidays). It is located at 200 E Martin Luther King Jr Blvd, Austin, TX 78712.
 
