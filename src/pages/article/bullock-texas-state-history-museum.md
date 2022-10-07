@@ -3,6 +3,8 @@ templateKey: article-post
 title: Bullock Texas State History Museum
 date: 2022-10-06T15:06:01.812Z
 featuredpost: false
+tags:
+  - Geo Article
 ---
 <!--StartFragment-->
 
