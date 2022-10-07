@@ -3,6 +3,8 @@ templateKey: article-post
 title: Congress Avenue Bridge
 date: 2022-10-06T16:31:38.524Z
 featuredpost: false
+tags:
+  - Geo Article
 ---
 <!--StartFragment-->
 
