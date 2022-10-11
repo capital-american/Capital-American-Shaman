@@ -3,8 +3,10 @@ templateKey: product-post
 title: Water Soluble, Full Spectrum Hemp Oil (30mL)
 date: 2022-10-10T17:04:48.343Z
 product-category: CBD Water Soluble Products
-image: http://localhost:8000/static/9fba9a63150e86b87eb9f9affe0891f0/d1e9b/water-soluble-full-spectrum-hemp-oil.jpg
+image: /img/water-soluble-full-spectrum-hemp-oil.jpg
 price: 30
+tags:
+  - Product
 ---
 <!--StartFragment-->
 
