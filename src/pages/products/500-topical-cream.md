@@ -4,7 +4,7 @@ title: 500 Topical Cream
 date: 2022-10-11T10:37:31.303Z
 product-category: CBD Lotions, Creams and Topicals
 image: /img/500-topical-cream.jpg
-price: 30
+price: "109.99"
 tags:
   - Product
 ---
