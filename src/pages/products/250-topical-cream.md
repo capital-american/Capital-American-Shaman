@@ -2,11 +2,15 @@
 templateKey: product-post
 title: 250 Topical Cream
 date: 2022-10-11T11:08:42.328Z
-product-category: CBD Lotions, Creams and Topicals
+category:
+  - CBD Lotions
+  - Creams and Topicals
+  - CBD Edibles
 image: /img/cbd-store-topical-cream-250ml.webp
 price: 30
 tags:
   - Product
+product-category: CBD Lotions, Creams and Topicals
 ---
 
 
