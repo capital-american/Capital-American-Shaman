@@ -329,7 +329,7 @@ export const IndexPageTemplate = ({
 
                   <div style={{ height: '600px', width: '100%', marginTop: '100px' }}>
                     <GoogleMapReact
-                      bootstrapURLKeys={{ key: 'AIzaSyDqosBMLBB7A4S4VGrKFl8UWPmJILjtDls' }}
+                      bootstrapURLKeys={{ key: 'AIzaSyDflqHM3xI7LEAerp4Fbyat8GNjpsuSX5s' }}
                       defaultCenter={{
                         lat: 30.363920,
                         lng: -97.728370
