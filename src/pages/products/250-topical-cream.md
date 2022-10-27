@@ -9,7 +9,8 @@ amount: 59.99
 tags:
   - Product
 ---
+**Brand: American Shaman**
 
-**MADE IN USA:** Directions: Use a drop or two of our CBD Topical Cream. A small amount spreads like crazy! Pat onto affected area and see a difference in a matter of days. Nature’s secret is at your finger tips.
+**MADE IN USA:** Directions: Use a drop or two of our CBD Topical Cream.  A small amount spreads like crazy! Pat onto affected area and see a difference in a matter of days. Nature’s secret is at your finger tips.
 
-**Ingredients:** Vegetable Glycerin, Lanolin, Aloe Vera Gel, DMSO, CBD and Terpene Rich Hemp Oil Concentrate, Vitamin A, D, & E Oil. Natural ingredients may cause color variations. Refrigerate for longer shelf life.
+**Ingredients:** Water, DMSO, Mineral Oil, Isopropyl Myristate, Cetyl Alcohol, Glycerol Monostearate, Glycerin, Alkyl Polyglycol Ether, Propylene Glycol, Stearic Acid, Hemp Extract (Aerial Parts), Cannabidiol, Medium Chain Triglyceride Oil (Coconut), Polysorbate 60, Olive Oil, Sorbitan Monostearate, Ascorbic Acid (Preservative), Cannabigerol, α-Bisabolol, Terpineol, α-Pinene, Limonene, β-Caryophyllene, Linalool, Humulene.
