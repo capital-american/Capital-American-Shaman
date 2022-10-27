@@ -5,7 +5,7 @@ date: 2022-10-11T10:08:57.024Z
 category:
   - CBD Water Soluble Products
 image: /img/cbd-extra-strength-water-soluble_900-450.jpg
-amount: 30
+amount: 179
 tags:
   - Product
 ---
