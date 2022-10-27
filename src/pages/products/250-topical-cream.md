@@ -5,7 +5,7 @@ date: 2022-10-11T11:08:42.328Z
 category:
   - CBD Lotions, Creams and Topicals
 image: /img/cbd-store-topical-cream-250ml.webp
-amount: 30
+amount: 59.99
 tags:
   - Product
 ---
