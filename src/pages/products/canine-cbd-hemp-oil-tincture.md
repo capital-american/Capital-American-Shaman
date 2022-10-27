@@ -2,13 +2,13 @@
 templateKey: product-post
 title: Canine CBD Hemp Oil Tincture
 date: 2022-10-11T10:35:05.271Z
-product-category: CBD Tinctures
+category:
+  - CBD Tinctures
 image: /img/canine-cbd.jpg
-price: 30
+amount: 30
 tags:
   - Product
 ---
-
 
 **MADE IN USA:** Just as with our human line of products, we use the best of ingredients for our canine, feline or equine customers. After all, they’re family, too!
 

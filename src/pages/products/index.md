@@ -3,6 +3,7 @@ heading: Buy with confidence
 path: /products
 templateKey: product-page
 title: Our Products
+amount: 30
 image: /img/product-page-main.jpg
 description: Taking or using a CBD enriched product can enhance your body’s
   ability to maintain balance and manage occasional stress. It is also known to
@@ -365,7 +366,7 @@ intro:
 
         <a href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" target="_blank" class="shop-link">Shop</a>
 
-        </p> 
+        </p>
       image: /img/austin-cbd-store-gourmet-gummies-full-spectrum.jpg
     - image: /img/cbd-store-lemon-cake-edible-austin.jpg
       text: >-
@@ -600,12 +601,12 @@ intro:
 
         </p>
   heading: What we offer
-  description: "High quality Cbd products from Austin's best CBD Store.  We are
-    the \"Austin Shaman\" That's located on Burnet Rd. "
+  description: 'High quality Cbd products from Austin''s best CBD Store.  We are
+    the "Austin Shaman" That''s located on Burnet Rd. '
 main:
   heading: test main
   description: |-
-    
+
     test
   image1:
     alt: A close-up of a paper filter filled with ground coffee
@@ -623,13 +624,15 @@ testimonials:
       about all the products and his customer service if great! If you’re
       thinking about trying CBD, this is definitely where you should go.
   - author: Booker Gilbert
-    quote: Great experience while visiting Capital CBD American Shaman. Very clean
+    quote:
+      Great experience while visiting Capital CBD American Shaman. Very clean
       environment and was greeted as if we were long time friends. Michael was
       very knowledgeable and respectful of the fact that I didn’t really know
       what I was looking for. He simply asked a few questions about my needs,
       explained the benefits of their products, which eventually allowed me to
       make confident selection.
-  - quote: I would definitely recommend Capital CBD to anyone looking to get into
+  - quote:
+      I would definitely recommend Capital CBD to anyone looking to get into
       using CBD or anyone who just wants quality products. We talked to Kelley
       when we went in and she was so welcoming and kind. She definitely creates
       an awesome environment for learning and growth! We purchased the 25mg
@@ -639,7 +642,8 @@ testimonials:
       really tell Capital CBD is a business that will continue to grow because
       of their awesome staff and amazing products.
     author: Annie Olivarez
-  - quote: Capital CBD has been my favorite place to shop for all of my cbd needs.
+  - quote:
+      Capital CBD has been my favorite place to shop for all of my cbd needs.
       They have gummies, water solubles, pre-rolls, flower and more all in an
       upscale environment. Quality products made here in the U.S.!  If you're
       new to the CBD scene these folks know everything about nature's gift. CBD
@@ -651,9 +655,9 @@ pricing:
   heading: test
   description: test
   plans:
-    - plan: "1"
-      price: "2"
-      description: "3"
+    - plan: '1'
+      price: '2'
+      description: '3'
       items:
-        - "4"
+        - '4'
 ---

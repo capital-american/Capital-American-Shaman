@@ -2,13 +2,13 @@
 templateKey: product-post
 title: American Shaman Extra Strength Water Soluble
 date: 2022-10-11T10:08:57.024Z
-product-category: CBD Water Soluble Products
+category:
+  - CBD Water Soluble Products
 image: /img/cbd-extra-strength-water-soluble_900-450.jpg
-price: 30
+amount: 30
 tags:
   - Product
 ---
-
 
 **MADE IN USA:** You can drink our Ultra Concentrated Hemp Oil Supplement with Extra Strength in your favorite beverage. This product contains high amounts of CBD (Cannabidiol). No Heavy Metals or Insecticides. Ultra Performance Convergence Chromatography. This fast acting delivery system is up to 10 times more bioavailable than oil. This may be added to any drink.
 

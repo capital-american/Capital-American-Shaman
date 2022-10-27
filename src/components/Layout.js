@@ -28,7 +28,6 @@ const TemplateWrapper = ({ children }) => {
           content="width=device-width, initial-scale=1"
         ></meta>
         <link
-          href="https://cbdamericanshaman.com/msterling-leach"
           rel="nofollow shortcut icon"
           type="image/x-icon"
           href="/img/favicon.ico"
@@ -38,20 +37,17 @@ const TemplateWrapper = ({ children }) => {
           crossorigin="anonymous"
         ></script>
         <link
-          href="https://cbdamericanshaman.com/msterling-leach"
           rel="nofollow apple-touch-icon"
           sizes="180x180"
           href={`${withPrefix("/")}img/apple-touch-icon.png`}
         />
         <link
-          href="https://cbdamericanshaman.com/msterling-leach"
           rel="nofollow icon"
           type="image/png"
           href={`${withPrefix("/")}img/favicon.ico`}
           sizes="32x32"
         />
         <link
-          href="https://cbdamericanshaman.com/msterling-leach"
           rel="nofollow icon"
           type="image/png"
           href={`${withPrefix("/")}img/favicon-16x16.png`}
@@ -59,7 +55,6 @@ const TemplateWrapper = ({ children }) => {
         />
 
         <link
-          href="https://cbdamericanshaman.com/msterling-leach"
           rel="nofollow mask-icon"
           href={`${withPrefix("/")}img/capital-logo.png`}
           color="#ff4400"

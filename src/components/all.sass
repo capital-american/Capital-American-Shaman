@@ -1,4 +1,4 @@
-@import "~bulma/sass/utilities/initial-variables"
+@import "~bulma/sass/utilities/initial-variables";
 
 // Config vars
 // Kaldi logo brand color: #FD461E
@@ -11,7 +11,7 @@ $body-color: #333
 $black: #2b2523
 
 body
-  overflow-x: hidden;
+  overflow-x: hidden
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -113,7 +113,7 @@ body
 .navbar-brand .navbar-item.logo
   padding: 0 1rem
 footer.footer
-  padding: 3rem 0rem 0rem
+  padding: 0rem 0rem 0rem
   background-color: transparent
 
 //Menu overrides
@@ -397,3 +397,137 @@ ul
   text-align: center;
   p
     margin-top: 30px;
+
+.geo-article-links
+  position: absolute
+  left: 100000px
+  top: 0
+
+.product-roll
+  min-width: 24%;
+  max-width: 24%;
+  margin: 5px;
+  .align
+    justify-content: center !important;
+    text-align: center !important;
+    padding: 4px;
+  .product-image
+    height: 200px;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  .name
+    font-size: .72em;
+    text-align: center;
+    margin-top: 5px;
+  .number
+    font-size: .857em;
+    margin-left: 88px;
+  .title.has-text-primary.is-size-5 
+    font-size: 1.1em !important;
+    text-align: center;
+    font-family: "Fjalla One";
+  .display
+    display: none !important;
+
+.product-section
+  display: flex;
+  .p-links
+    flex: 1
+    border-right: solid 1px #ccc;
+    min-height: 300px;
+    .category-links
+      a
+        display: block;
+        line-height: 35px;
+        color: #000;
+  .p-roll
+    flex: 4
+.product-info-section
+  display: flex;
+  .p-image
+    padding: 16px;
+    flex: 2
+  .p-details
+    flex: 3
+
+.columns.is-multiline
+  .flex
+   display: flex;
+   margin: 5px;
+   padding-left: 12px;
+  .imageheight
+    border: solid 1px white;
+    padding: 5px;
+    margin-right: 10px !important;
+    height: 36px;
+    &.bdr
+      border-color: black;
+    img
+      width: 24px;
+      height: 24px;
+  .float
+    margin-left: auto;
+    margin-right: 1em;
+    font-size: .72em;
+    padding-top: 10px;
+  .ordering
+    .orderby
+      padding: 0 2em 0 15px;
+      border: 1px solid #eaecee;
+      border-radius: 0;
+      position: relative;
+      height: 2.3em;
+      font-size: .95em;
+
+.product-grid
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  .excerpt
+    display: none;
+
+.product-container
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+
+.product-list
+  img
+    display: none;
+  .product-roll
+    text-align: left;
+    min-width: 100%;
+    max-width: 100%;
+    .product-image
+      display: none;
+    .name, .align, .number
+       text-align: left !important;
+       margin-left: 0;
+       padding-left: 0;
+
+.alignm
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  .nav-links
+    display: inline-block;
+    align-text: center;
+  
+  a 
+   color: black;
+   float: left;
+   padding: 8px 16px;
+   text-decoration: none;
+   &.current
+    background-color: black;
+    color: white;
+
+.product-list-button
+  border: none;
+  background: transparent;
+  padding: 0;
+  margin: 0;
+  

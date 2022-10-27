@@ -2,17 +2,15 @@
 templateKey: product-post
 title: CBG Oil
 date: 2022-10-11T10:21:37.061Z
-product-category: CBD Water Soluble Products
+category:
+  - CBD Water Soluble Products
 image: /img/cbg-oil-austin-shaman-cbd-store.jpg
-price: 30
+amount: 30
 tags:
   - Product
 ---
 
-
 **MADE IN USA:** This revolutionary blend of cannabinoids focuses on more energy, alertness and focus. We are paving the way in minor cannabinoid research and combining this our proprietary nanotechnology. Often times when people use other products for energy they experience jitters, sweat and a variety of other side effects. CBGo Water Soluble CBG Oil utilizes natures natural cannabinoids to give you a quick boost in energy and focus with the power of the hemp plant. CBGo provides the benefits minus the side effects. In addition to CBG you will also get a 5mg dose of nano-CBD in each serving size of CBGo.
-
-
 
 **Size:**5mL or 30mL
 

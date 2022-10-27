@@ -2,10 +2,12 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import Features from '../components/Features'
-import Testimonials from '../components/Testimonials'
-import Pricing from '../components/Pricing'
+// import Features from '../components/Features'
+// import Testimonials from '../components/Testimonials'
+// import Pricing from '../components/Pricing'
 import { Helmet } from 'react-helmet'
+import ProductCategoryLinks from '../components/ProductCategoryLinks'
+import ProductRoll from '../components/ProductRoll'
 
 export const ProductPageTemplate = ({
   image,
@@ -18,43 +20,33 @@ export const ProductPageTemplate = ({
   fullImage,
   pricing,
 }) => (
-    <div className="content">
-      <div
-        className="full-width-image-container margin-top-0"
-        style={{
-          backgroundImage: `url(${
-            !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-            })`,
-        }}
-      >
-        <h1
-          className="has-text-weight-bold is-size-1"
-          style={{
-            boxShadow: '0.5rem 0 0 #8b2e6b, -0.5rem 0 0 #8b2e6b',
-            backgroundColor: '#8b2e6b',
-            color: 'white',
-            padding: '1rem',
-          }}
-        >
-          {title}
-        </h1>
-      </div>
-      <section className="section section--gradient">
-        <div className="container">
-          <div className="section">
-            <div className="columns">
-              <div className="column is-offset-1">
-                <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
-                <p>{description}</p>
-              </div>
-            </div>
-            <div className="columns">
-              <div className="column is-10 is-offset-1">
-                <Features gridItems={intro.blurbs} />
-                <div>
-                  <a className="link-view-more-products" target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">View More Products</a>
+  <div className="content">
+    <section className="section section--gradient">
+      <div className="container">
+        <div className="product-section">
+          <div className='p-links'>
+            <ProductCategoryLinks />
+          </div>
+          <div className='p-roll'>
+            <ProductRoll />
+          </div>
+        </div>
+        <section className="section section--gradient">
+          <div className="container">
+            <div className="section">
+              <div className="columns">
+                <div className="column is-offset-1">
+                  <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
+                  <p>{description}</p>
                 </div>
-                {/* <div className="columns">
+              </div>
+              <div className="columns">
+                <div className="column is-10 is-offset-1">
+                  {/* <Features gridItems={intro.blurbs} /> */}
+                  <div>
+                    <a className="link-view-more-products" target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">View More Products</a>
+                  </div>
+                  {/* <div className="columns">
                   <div className="column is-7">
                     <h3 className="has-text-weight-semibold is-size-3">
                       {main.heading}
@@ -63,7 +55,7 @@ export const ProductPageTemplate = ({
                   </div>
                 </div> */}
 
-                {/* <div className="tile is-ancestor">
+                  {/* <div className="tile is-ancestor">
                   <div className="tile is-vertical">
                     <div className="tile">
                       <div className="tile is-parent is-vertical">
@@ -84,26 +76,27 @@ export const ProductPageTemplate = ({
                     </div>
                   </div>
                 </div> */}
-                <div className="testimonaals">
-                  <Testimonials testimonials={testimonials} />
-                </div>
-                <div
+                  <div className="testimonaals">
+                    {/* <Testimonials testimonials={testimonials} /> */}
+                  </div>
+                  <div
 
 
-                />
-                {/* <h2 className="has-text-weight-semibold is-size-2">
+                  />
+                  {/* <h2 className="has-text-weight-semibold is-size-2">
                   {pricing.heading}
                 </h2>
                 <p className="is-size-5">{pricing.description}</p>
                 <Pricing data={pricing.plans} /> */}
+                </div>
               </div>
             </div>
           </div>
-        </div>
-      </section>
-      <a style={{ display: 'none' }} className="shop-link" ></a>
-    </div>
-  )
+        </section>
+      </div>
+    </section>
+  </div>
+)
 
 ProductPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -229,13 +222,7 @@ export const productPageQuery = graphql`
           author
           quote
         }
-        full_image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
+        
         pricing {
           heading
           description

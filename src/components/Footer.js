@@ -1,10 +1,11 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import logo from '../img/capital-logo.png'
-import facebook from '../img/social/facebook.svg'
-import instagram from '../img/social/instagram.svg'
-import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
+import ArticleLinks from './ArticleLinks'
+// import { Link } from 'gatsby'
+// import facebook from '../img/social/facebook.svg'
+// import instagram from '../img/social/instagram.svg'
+// import twitter from '../img/social/twitter.svg'
+// import vimeo from '../img/social/vimeo.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -61,17 +62,16 @@ const Footer = class extends React.Component {
               <div className="column">
                 <div className="copyright">
                   <p><strong>Disclaimer</strong>:  Representations regarding the efficacy of CBD statements have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease.</p>
-                  <br/>
+                  <br />
                   <p>
-                    Copyright © 2020
-                                <a href="#"> CBD American Shaman</a> All Rights Reserved
-                            </p>
+                    Copyright © 2020 CBD American Shaman All Rights Reserved
+                  </p>
                 </div>
               </div>
             </div>
           </div>
         </div>
-
+        <ArticleLinks />
       </footer>
     )
   }

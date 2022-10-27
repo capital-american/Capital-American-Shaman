@@ -2,13 +2,13 @@
 templateKey: product-post
 title: CBD & Terpene Rich Candy
 date: 2022-10-11T11:01:36.030Z
-product-category: CBD Water Soluble Products
+category:
+  - CBD Water Soluble Products
 image: /img/cbd-hard-candy-austin.jpg
-price: 30
+amount: 30
 tags:
   - Product
 ---
-
 
 **MADE IN USA:**A high quality, all-natural, cannabidiol infused treat.
 

@@ -2,13 +2,13 @@
 templateKey: product-post
 title: 500 Topical Cream
 date: 2022-10-11T10:37:31.303Z
-product-category: CBD Lotions, Creams and Topicals
+category:
+  - CBD Lotions, Creams and Topicals
 image: /img/500-topical-cream.jpg
-price: "109.99"
+amount: 109.99
 tags:
   - Product
 ---
-
 
 **MADE IN USA:** You get only the highest quality hemp oil (non-GMO hemp) containing high amounts of CBD (500 mg) in a convenient 2oz size. And, since we test each batch for purity and potency, you know you're getting the best of Nature enhanced by Science.
 

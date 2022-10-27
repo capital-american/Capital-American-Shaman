@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import Features from '../components/Features'
+// import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -38,8 +38,8 @@ export const IndexPageTemplate = ({
   slideSettings,
   whyCBDContent
 }) => (
-    <div>
-      {/* <div
+  <div>
+    {/* <div
         className="full-width-image margin-top-0"
         style={{
           backgroundImage: `url(${
@@ -87,261 +87,261 @@ export const IndexPageTemplate = ({
           </h3>
         </div>
       </div> */}
-      <div className="slider-container">
-        <Slider {...slideSettings}>
-          <div>
-            <img src={image1} alt="Capital American CBD store front" />
-          </div>
-          <div>
-            <img src={image2} alt="Capital American CBD store products preview" />
-          </div>
-          <div>
-            <img src={image3} alt="Capital American CBD store view" />
-          </div>
-          <div>
-            <img src={image4} alt="Capital American CBD store  front view" />
-          </div>
-          <div>
-            <img src={image5} alt="Capital American CBD store products " />
-          </div>
-        </Slider>
-      </div>
-      <section className="section section--gradient">
-        {/* <div className="container"> */}
-        <div className="container">
-          <div className="section">
-            <div className="columns">
-              <div className="column ">
-                <div className="content">
-                  <div className="content section-headline main-headline">
-                    <div className="tile ">
-                      <h1 className="title">{mainpitch.title}</h1>
+    <div className="slider-container">
+      <Slider {...slideSettings}>
+        <div>
+          <img src={image1} alt="Capital American CBD store front" />
+        </div>
+        <div>
+          <img src={image2} alt="Capital American CBD store products preview" />
+        </div>
+        <div>
+          <img src={image3} alt="Capital American CBD store view" />
+        </div>
+        <div>
+          <img src={image4} alt="Capital American CBD store  front view" />
+        </div>
+        <div>
+          <img src={image5} alt="Capital American CBD store products " />
+        </div>
+      </Slider>
+    </div>
+    <section className="section section--gradient">
+      {/* <div className="container"> */}
+      <div className="container">
+        <div className="section">
+          <div className="columns">
+            <div className="column ">
+              <div className="content">
+                <div className="content section-headline main-headline">
+                  <div className="tile ">
+                    <h1 className="title">{mainpitch.title}</h1>
+                  </div>
+                  <div className="tile">
+                    <div className="main-caption-description">{mainpitch.description}</div>
+                  </div>
+                </div>
+                <div className="columns">
+                  <div className="column is-12">
+                    <h2 className="has-text-weight-semibold is-size-2">
+                      {heading}
+                    </h2>
+                    <div dangerouslySetInnerHTML={{ __html: description }} />
+
+                  </div>
+                </div>
+                <div className="cbd-products-section app-section">
+                  <div className="has-text-centered section-headline">
+                    <h2 className="is-size-2 bold-900">OUR
+                      <span className="color"> CBD PRODUCTS </span></h2>
+                  </div>
+                  <div className="has-text-centered section">
+                    Capital American Shaman CBD products in Austin, TX are not cookie cutter, one-size-fits-all.
+                    There are many different ways you can use CBD.
+                  </div>
+
+                  <div className="columns ">
+                    <div className="column">
+                      <div className="product-box">
+                        <a className="service" target="_blank"
+                          href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer" >
+                          <img src={product1} alt="Beauty products"></img>
+                        </a>
+                      </div>
                     </div>
-                    <div className="tile">
-                      <div className="main-caption-description">{mainpitch.description}</div>
+                    <div className="column">
+                      <div className="product-box">
+                        <a className="service" target="_blank"
+                          href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">
+                          <img src={product2} alt="Pet products"></img>
+                        </a>
+                      </div>
+                    </div>
+
+                    <div className="column">
+                      <div className="product-box">
+                        <a className="service" target="_blank"
+                          href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">
+                          <img src={product3} alt="Relief products"></img>
+                        </a>
+                      </div>
+                    </div>
+
+                    <div className="column">
+                      <div className="product-box">
+                        <a className="service" target="_blank"
+                          href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">
+                          <img src={product4} alt="Wellness products"></img>
+                        </a>
+                      </div>
                     </div>
                   </div>
+
+                  <div className="section">We offer a wide range of products,
+                    including…</div>
+
                   <div className="columns">
-                    <div className="column is-12">
-                      <h2 className="has-text-weight-semibold is-size-2">
-                        {heading}
-                      </h2>
-                      <div dangerouslySetInnerHTML={{ __html: description }} />
-
-                    </div>
-                  </div>
-                  <div className="cbd-products-section app-section">
-                    <div className="has-text-centered section-headline">
-                      <h2 className="is-size-2 bold-900">OUR
-                  <span className="color"> CBD PRODUCTS </span></h2>
-                    </div>
-                    <div className="has-text-centered section">
-                      Capital American Shaman CBD products in Austin, TX are not cookie cutter, one-size-fits-all.
-                      There are many different ways you can use CBD.
-                  </div>
-
-                    <div className="columns ">
-                      <div className="column">
-                        <div className="product-box">
-                          <a className="service" target="_blank"
-                            href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow" >
-                            <img src={product1} alt="Beauty products"></img>
-                          </a>
-                        </div>
-                      </div>
-                      <div className="column">
-                        <div className="product-box">
-                          <a className="service" target="_blank"
-                            href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">
-                            <img src={product2} alt="Pet products"></img>
-                          </a>
-                        </div>
-                      </div>
-
-                      <div className="column">
-                        <div className="product-box">
-                          <a className="service" target="_blank"
-                            href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">
-                            <img src={product3} alt="Relief products"></img>
-                          </a>
-                        </div>
-                      </div>
-
-                      <div className="column">
-                        <div className="product-box">
-                          <a className="service" target="_blank"
-                            href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">
-                            <img src={product4} alt="Wellness products"></img>
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="section">We offer a wide range of products,
-                  including…</div>
-
-                    <div className="columns">
-                      <div className="column">
-                        <ul className="product-list">
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">CBD
+                    <div className="column">
+                      <ul className="product-list">
+                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">CBD
                           Water
                           Soluble
-                                                Products</a>
-                          </li>
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">CBD
-                                                Tinctures</a>
-                          </li>
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">CBD
-                                                Edibles</a>
-                          </li>
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">CBD
+                          Products</a>
+                        </li>
+                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">CBD
+                          Tinctures</a>
+                        </li>
+                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">CBD
+                          Edibles</a>
+                        </li>
+                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">CBD
                           Lotions,
                           Creams and
-                                                Topicals</a>
-                          </li>
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">CBD
+                          Topicals</a>
+                        </li>
+                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">CBD
                           Soaps
-                                                and Bath Bombs</a>
-                          </li>
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">CBD
+                          and Bath Bombs</a>
+                        </li>
+                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">CBD
                           Dog, Cat
                           and Equine
-                                                Products</a>
-                          </li>
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">CBD
+                          Products</a>
+                        </li>
+                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">CBD
                           Skin
-                                                Care</a>
-                          </li>
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">Hemp
-                                                Flower</a>
-                          </li>
-                          <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow">Delta 8
-                                                </a>
-                          </li>
-                        </ul>
-                      </div>
-                      <div className="column">
-                        <img src={productsImage} alt="Some American Shaman products "></img>
-                      </div>
+                          Care</a>
+                        </li>
+                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">Hemp
+                          Flower</a>
+                        </li>
+                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">Delta 8
+                        </a>
+                        </li>
+                      </ul>
                     </div>
-                    <p>
-                      What type of CBD oil products are you looking for? Ask about our current options now by
-                            calling <a href="tel:512-386-1873">512-386-1873</a> or coming down to the “Austin Shaman” on
-                            Burnet Rd.
+                    <div className="column">
+                      <img src={productsImage} alt="Some American Shaman products "></img>
+                    </div>
+                  </div>
+                  <p>
+                    What type of CBD oil products are you looking for? Ask about our current options now by
+                    calling <a href="tel:512-386-1873">512-386-1873</a> or coming down to the “Austin Shaman” on
+                    Burnet Rd.
                   </p>
+                </div>
+
+                {/* <!--corportate--> */}
+                <div className="columns corporate-banner">
+                  <div className="column">
+                    <div className="corporate-box">
+                      <div className="image-container">
+                        <img src={quality} alt="Quality"></img>
+                      </div>
+                      <div className="corporate-title">Quality</div>
+                      <div className="corporate-desc">We select only top-grade hemp plants grown on sustainable small farms right here in the USA</div>
+
+                    </div>
+                  </div>
+                  <div className="column">
+                    <div className="corporate-box">
+                      <div className="image-container">
+                        <img src={hemp} alt="Safety" ></img>
+                      </div>
+                      <div className="corporate-title">Safety</div>
+                      <div className="corporate-desc">
+                        The US Hemp Authority certifies our industry-leading standards in product safety and quality
+                      </div>
+                    </div>
                   </div>
 
-                  {/* <!--corportate--> */}
-                  <div className="columns corporate-banner">
-                    <div className="column">
-                      <div className="corporate-box">
-                        <div className="image-container">
-                          <img src={quality} alt="Quality"></img>
-                        </div>
-                        <div className="corporate-title">Quality</div>
-                        <div className="corporate-desc">We select only top-grade hemp plants grown on sustainable small farms right here in the USA</div>
-
+                  <div className="column">
+                    <div className="corporate-box">
+                      <div className="image-container">
+                        <img src={rocket} alt="Mission"></img>
+                      </div>
+                      <div className="corporate-title">Mission</div>
+                      <div className="corporate-desc">
+                        We bring wellness to humans and the Earth by producing the highest quality CBD on the market
                       </div>
                     </div>
-                    <div className="column">
-                      <div className="corporate-box">
-                        <div className="image-container">
-                          <img src={hemp} alt="Safety" ></img>
-                        </div>
-                        <div className="corporate-title">Safety</div>
-                        <div className="corporate-desc">
-                          The US Hemp Authority certifies our industry-leading standards in product safety and quality
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="column">
-                      <div className="corporate-box">
-                        <div className="image-container">
-                          <img src={rocket} alt="Mission"></img>
-                        </div>
-                        <div className="corporate-title">Mission</div>
-                        <div className="corporate-desc">
-                          We bring wellness to humans and the Earth by producing the highest quality CBD on the market
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="column">
-                      <div className="corporate-box">
-                        <div className="image-container">
-                          <img src={love} alt="Charity"></img>
-                        </div>
-                        <div className="corporate-title">Charity</div>
-                        <div className="corporate-desc">
-                          We partner with veterans, artists and more to help them bring wellness to their communities
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="column">
-                      <div className="corporate-box">
-                        <div className="image-container">
-                          <img src={idea} alt="Innovation"></img>
-                        </div>
-                        <div className="corporate-title">Innovation</div>
-                        <div className="corporate-desc">
-                          Our products are absorbed faster thanks to our nanotechnology that shrinks CBD particle size
-                        </div>
-                      </div>
-                    </div>
-
-
                   </div>
 
-                  {/* WHY CBD */}
-
-                  <div className="why-cbd-section app-section" id="why-cbd">
-                    <div className="has-text-centered section-headline">
-                      <h2 className="is-size-2 bold-900">WHY
-                       <span className="color"> CBD  </span></h2>
+                  <div className="column">
+                    <div className="corporate-box">
+                      <div className="image-container">
+                        <img src={love} alt="Charity"></img>
+                      </div>
+                      <div className="corporate-title">Charity</div>
+                      <div className="corporate-desc">
+                        We partner with veterans, artists and more to help them bring wellness to their communities
+                      </div>
                     </div>
-                    <div className=" why-cbd-boxes-container">
-                      <div className="columns is-multiline is-centered">
-                        {whyCBDContent && whyCBDContent.map((item, index) => (
-                          <div key={item.title} className="column" >
-                            <div className="why-cbd-box">
-                              <div className="title">
-                                {item.title}
-                              </div>
-                              <div className="text">
-                                {item.text}
-                              </div>
+                  </div>
 
+                  <div className="column">
+                    <div className="corporate-box">
+                      <div className="image-container">
+                        <img src={idea} alt="Innovation"></img>
+                      </div>
+                      <div className="corporate-title">Innovation</div>
+                      <div className="corporate-desc">
+                        Our products are absorbed faster thanks to our nanotechnology that shrinks CBD particle size
+                      </div>
+                    </div>
+                  </div>
+
+
+                </div>
+
+                {/* WHY CBD */}
+
+                <div className="why-cbd-section app-section" id="why-cbd">
+                  <div className="has-text-centered section-headline">
+                    <h2 className="is-size-2 bold-900">WHY
+                      <span className="color"> CBD  </span></h2>
+                  </div>
+                  <div className=" why-cbd-boxes-container">
+                    <div className="columns is-multiline is-centered">
+                      {whyCBDContent && whyCBDContent.map((item, index) => (
+                        <div key={item.title} className="column" >
+                          <div className="why-cbd-box">
+                            <div className="title">
+                              {item.title}
                             </div>
+                            <div className="text">
+                              {item.text}
+                            </div>
+
                           </div>
+                        </div>
 
-                        ))}
-                      </div>
-                    </div >
+                      ))}
+                    </div>
+                  </div >
+                </div>
+
+                <div className="contact-us-section app-section" id="contact-us">
+                  <div className="has-text-centered section-headline">
+                    <h2 className="is-size-2 bold-900">CONTACT
+                      <span className="color"> US  </span></h2>
                   </div>
 
-                  <div className="contact-us-section app-section" id="contact-us">
-                    <div className="has-text-centered section-headline">
-                      <h2 className="is-size-2 bold-900">CONTACT
-                       <span className="color"> US  </span></h2>
-                    </div>
-
-                    <div style={{ height: '600px', width: '100%', marginTop: '100px' }}>
-                      <GoogleMapReact
-                        bootstrapURLKeys={{ key: 'AIzaSyCvbU-0wv8MT7xfXxpHN1dFUQ_XAxEJYjw' }}
-                        defaultCenter={{
-                          lat: 30.363920,
-                          lng: -97.728370
-                        }}
-                        defaultZoom={14}
-                      >
-                        <MapMarker />
-                      </GoogleMapReact>
-                    </div>
+                  <div style={{ height: '600px', width: '100%', marginTop: '100px' }}>
+                    <GoogleMapReact
+                      bootstrapURLKeys={{ key: 'AIzaSyDqosBMLBB7A4S4VGrKFl8UWPmJILjtDls' }}
+                      defaultCenter={{
+                        lat: 30.363920,
+                        lng: -97.728370
+                      }}
+                      defaultZoom={14}
+                    >
+                      <MapMarker />
+                    </GoogleMapReact>
                   </div>
+                </div>
 
-                  {/* <Features gridItems={intro.blurbs} />
+                {/* <Features gridItems={intro.blurbs} />
                   <div className="columns">
                     <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/products">
@@ -349,31 +349,31 @@ export const IndexPageTemplate = ({
                     </Link>
                     </div>
                   </div> */}
-                  <div className="column is-12">
-                    <div className="has-text-centered section-headline ">
-                      <h2 className="is-size-2 bold-900">LATEST
-                       <span className="color"> BLOGS  </span></h2>
-                    </div>
-                    <div style={{ margin: '100px 0 50px 0' }}>
-                      <BlogRoll />
-                    </div>
-                    <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/blog">
-                        Read more
-                    </Link>
-                    </div>
+                <div className="column is-12">
+                  <div className="has-text-centered section-headline ">
+                    <h2 className="is-size-2 bold-900">LATEST
+                      <span className="color"> BLOGS  </span></h2>
                   </div>
-                  <div className="column is-12">
-                  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1v6uMBLY7gH_RK69iA_jPqhIPVeDVZaro" width="640" height="480"></iframe>
+                  <div style={{ margin: '100px 0 50px 0' }}>
+                    <BlogRoll />
+                  </div>
+                  <div className="column is-12 has-text-centered">
+                    <Link className="btn" to="/blog">
+                      Read more
+                    </Link>
                   </div>
                 </div>
+                {/* <div className="column is-12">
+                  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1v6uMBLY7gH_RK69iA_jPqhIPVeDVZaro" width="640" height="480"></iframe>
+                  </div> */}
               </div>
             </div>
           </div>
         </div>
-      </section>
-    </div >
-  )
+      </div>
+    </section>
+  </div >
+)
 
 const whyCBDContent = [{
   title: "PAIN MANAGEMENT",

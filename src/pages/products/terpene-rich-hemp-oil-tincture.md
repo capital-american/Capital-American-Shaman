@@ -2,13 +2,13 @@
 templateKey: product-post
 title: Terpene Rich Hemp Oil Tincture
 date: 2022-10-11T10:44:35.883Z
-product-category: CBD Tinctures
+category:
+  - CBD Tinctures
 image: /img/austin_shaman_cbd-terpene-rich-hemp-oil-tincture-capital.jpg
-price: 30
+amount: 30
 tags:
   - Product
 ---
-
 
 **MADE IN USA:** This is an all natural, CBD Hemp Oil dietary supplement. It comes in a 15mL bottle with a dropper. It is a tincture (to be taken orally-usually under the tongue).
 

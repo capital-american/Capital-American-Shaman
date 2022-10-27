@@ -2,13 +2,13 @@
 templateKey: product-post
 title: VG Cloud Tincture - CBD & Terpene Rich Hemp Oil
 date: 2022-10-11T10:41:17.948Z
-product-category: CBD Tinctures
+category:
+  - CBD Tinctures
 image: /img/austin-shaman-vg-cloud-tincture-cbd-terpene-rich-hemp-oil.jpg
-price: 30
+amount: 30
 tags:
   - Product
 ---
-
 
 **MADE IN USA:** Welcome to VG Cloud Tincture dietary supplement with infused CBD Hemp Oil. Our CBD is infused through a Proprietary Nanotechnology process. Research has shown nano-technology to have faster absorption, last longer in the body, and to be more bioavailable than oil.
 

@@ -1,44 +1,51 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
 import { Helmet } from 'react-helmet'
-import { graphql, Link } from 'gatsby'
+import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
+import { HTMLContent } from '../components/Content'
+import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
-export const BlogPostTemplate = ({
+export const LabPostTemplate = ({
   content,
   contentComponent,
-  description,
-  tags,
   title,
   helmet,
+  image,
+  pdf,
+  category,
 }) => {
-  const PostContent = contentComponent || Content
-
   return (
     <section className="section">
       {helmet || ''}
       <div className="container content">
         <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
-            <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map((tag) => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
+
+          <div className="product-section">
+            <div className=''>
+              <div className="column product-info-section">
+                <div className='p-image'>
+                  {image ? (
+                    <PreviewCompatibleImage
+                      imageInfo={{
+                        image: image,
+                        alt: `featured image thumbnail for post ${title}`,
+                      }}
+                    />) : null}
+                </div>
+                <div className='p-details'>
+
+                  <h1 className="title has-text-weight-bold is-bold-light">
+                    {title}
+                  </h1>
+                  <div>{pdf}</div>
+                  {category ? (
+                    <div>{category.join(' ')}</div>
+                  ) : null}
+                </div>
               </div>
-            ) : null}
+
+            </div>
           </div>
         </div>
       </div>
@@ -46,21 +53,22 @@ export const BlogPostTemplate = ({
   )
 }
 
-BlogPostTemplate.propTypes = {
+LabPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
+  amount: PropTypes.number,
 }
 
-const BlogPost = ({ data, location }) => {
+const LabPost = ({ data, location }) => {
   const { markdownRemark: post } = data
-  const featuredImageUrl = post.frontmatter.featuredimage ? post.frontmatter.featuredimage.childImageSharp.fluid.src : "";
+  const imageUrl = post.frontmatter.image ? post.frontmatter.image.childImageSharp.fluid.src : "";
 
   return (
     <Layout>
-      <BlogPostTemplate
+      <LabPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
@@ -71,10 +79,10 @@ const BlogPost = ({ data, location }) => {
               name="description"
               content={`${post.frontmatter.description}`}
             />
-            {featuredImageUrl !== "" &&
+            {imageUrl !== "" &&
               <meta
                 property="og:image"
-                content={`https://capitalamericanshaman.com${featuredImageUrl}`}
+                content={`https://capitalamericanshaman.com${imageUrl}`}
               />
             }
             {location !== 'undefined' &&
@@ -89,32 +97,36 @@ const BlogPost = ({ data, location }) => {
             />
           </Helmet>
         }
-        tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        file={post.frontmatter.file}
+        image={post.frontmatter.image}
+        category={post.frontmatter.category}
       />
     </Layout>
   )
 }
 
-BlogPost.propTypes = {
+LabPost.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
   }),
 }
 
-export default BlogPost
+export default LabPost
 
 export const pageQuery = graphql`
-  query BlogPostByID($id: String!) {
+  query LabPostByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
-        description
-        tags,
-        featuredimage {
+        category
+        pdf {
+          publicURL
+        }
+        image {
           childImageSharp {
             fluid(maxWidth: 1200, quality: 100) {
               ...GatsbyImageSharpFluid

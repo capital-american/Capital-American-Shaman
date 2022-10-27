@@ -2,13 +2,13 @@
 templateKey: product-post
 title: CBD Gourmet Gummies
 date: 2022-10-11T10:53:35.546Z
-product-category: CBD Edibles
+category:
+  - CBD Edibles
 image: /img/austin-cbd-store-gourmet-gummies-full-spectrum.jpg
-price: 30
+amount: 30
 tags:
   - Product
 ---
-
 
 **MADE IN USA** Flavors: Sweet Watermelon, Sour Watermelon, Sweet Blue Raspberry, Sour Blue Raspberry, Sweet Blackberry, Sour Blackberry, Sweet Tropical, Sour Tropical
 
