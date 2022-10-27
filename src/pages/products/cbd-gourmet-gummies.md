@@ -1,14 +1,15 @@
 ---
 templateKey: product-post
-title: CBD Gourmet Gummies
+title: CBD Gourmet Gummies - 25mg
 date: 2022-10-11T10:53:35.546Z
 category:
   - CBD Edibles
 image: /img/austin-cbd-store-gourmet-gummies-full-spectrum.jpg
-amount: 30
+amount: 34.95
 tags:
   - Product
 ---
+**Brand: American Shaman**
 
 **MADE IN USA** Flavors: Sweet Watermelon, Sour Watermelon, Sweet Blue Raspberry, Sour Blue Raspberry, Sweet Blackberry, Sour Blackberry, Sweet Tropical, Sour Tropical
 
