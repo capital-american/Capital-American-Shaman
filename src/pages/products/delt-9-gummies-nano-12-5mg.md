@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Delt 9 Gummies(Nano) - 12.5mg
+title: Delta 9 Gummies(Nano) - 12.5mg
 date: 2022-10-28T05:36:15.344Z
 category:
   - Delta 9
