@@ -5,10 +5,11 @@ date: 2022-10-11T11:12:18.186Z
 category:
   - CBD Lotions, Creams and Topicals
 image: /img/cbd-massage-oil-austin-shaman.jpg
-amount: 30
+amount: 40
 tags:
   - Product
 ---
+**Brand: American Shaman**
 
 **MADE IN USA:**MADE IN USA: An all-natural massage oil made from the finest ingredients available. Our unique blend of essential oils and terpene rich full-spectrum CBD Hemp Extract is helpful for achy muscles and joints while keeping your skin hydrated. Each 8oz bottle contains 120mg of CBD (15mg/oz). Intended to be used topically, not to be ingested.
 
