@@ -75,6 +75,7 @@ more."
           property="og:image"
           content={`https://capitalamericanshaman.com/img/capital-logo.png`}
         />
+        <link rel="stylesheet" id="customify-google-font-css" href="//fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C200i%2C300%2C300i%2C400%2C400i%2C600%2C600i%2C700%2C700i%2C900%2C900i%7CFjalla+One%3A400&amp;display=swap&amp;ver=0.3.9" type="text/css" media="all"></link>
       </Helmet>
       <Navbar />
       <div>{children}</div>

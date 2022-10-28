@@ -24,7 +24,8 @@ import idea from '../img/corporate/idea.png';
 import love from '../img/corporate/love.png';
 import rocket from '../img/corporate/rocket.png';
 import GoogleMapReact from 'google-map-react';
-import MapMarker from '../components/MapMarker'
+import MapMarker from '../components/MapMarker';
+import ProductCategoryLinks from '../components/ProductCategoryLinks';
 
 
 export const IndexPageTemplate = ({
@@ -181,8 +182,9 @@ export const IndexPageTemplate = ({
                     including…</div>
 
                   <div className="columns">
-                    <div className="column">
-                      <ul className="product-list">
+                    <div className="column home-product-links">
+                      <ProductCategoryLinks noCount={true} />
+                      {/* <ul className="product-list">
                         <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">CBD
                           Water
                           Soluble
@@ -218,7 +220,7 @@ export const IndexPageTemplate = ({
                         <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">Delta 8
                         </a>
                         </li>
-                      </ul>
+                      </ul> */}
                     </div>
                     <div className="column">
                       <img src={productsImage} alt="Some American Shaman products "></img>

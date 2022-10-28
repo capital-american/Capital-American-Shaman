@@ -14,7 +14,7 @@ class ProductCategoryLinks extends React.Component {
           group.map((category, i) => (
             <Link to={`/product-category/${kebabCase(category.fieldValue)}/`} key={i}>
               {category.fieldValue} ({category.totalCount})
-            </Link>    
+            </Link>
           ))}
       </div>
     )

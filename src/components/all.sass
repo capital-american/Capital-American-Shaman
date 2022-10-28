@@ -12,6 +12,8 @@ $black: #2b2523
 
 body
   overflow-x: hidden
+.product-container, .category-links
+  font-family: "Source Sans Pro"
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -422,13 +424,21 @@ ul
     font-size: .72em;
     text-align: center;
     margin-top: 5px;
-  .number
-    font-size: .857em;
-    margin-left: 88px;
-  .title.has-text-primary.is-size-5 
+    letter-spacing: .5px;
+    text-transform: uppercase;
+  .number-flex
+    display: flex;
+    justify-content: center;
+    .number
+      font-size: .857em;
+      margin: 0;
+  .title.is-size-5 
     font-size: 1.1em !important;
     text-align: center;
     font-family: "Fjalla One";
+    font-weight: 400;
+    &:hover
+      color: #006400;
   .display
     display: none !important;
 
@@ -496,17 +506,23 @@ ul
 
 .product-list
   img
-    display: none;
+    display: inline;
   .product-roll
     text-align: left;
     min-width: 100%;
     max-width: 100%;
     .product-image
-      display: none;
+      min-width: 200px;
+      width: 200px;
+      padding: 0 10px;
+    .number-flex
+      display: block;
     .name, .align, .number
        text-align: left !important;
        margin-left: 0;
        padding-left: 0;
+  .flex-p-data
+    display: flex;
 
 .alignm
   display: flex;
@@ -531,3 +547,29 @@ ul
   padding: 0;
   margin: 0;
   
+.home-product-links
+  .category-links
+    display: flex;
+    flex-direction: column;
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px)
+  .product-container
+    .flex
+      display: none !important;
+  .product-section
+    display: block;
+    .p-links
+      border: none;
+    .columns.is-multiline
+      margin-right: 0;
+  .product-grid
+    display: block;
+    .product-roll
+      min-width: 100%;
+      max-width: 100%;
+      border: solid 1px #ccc;
+      border-radius: 10px;
+      margin: 15px 0;
+      padding: 12px 6px;
+  .product-info-section
+    display: block;
