@@ -5,10 +5,11 @@ date: 2022-10-11T08:44:59.937Z
 category:
   - CBD Skin Care
 image: /img/cbd-store-hydrating-body-lotion.jpg
-amount: 100
+amount: 40
 tags:
   - Product
 ---
+**Brand: American Shaman**
 
 **MADE IN USA:**Non-greasy formula. Our hydrating body lotion is an amazing combination of Ultra Concentrated Hemp Oil and other powerful natural ingredients. Each of these ingredients alone promote unbelievable skin revitalization, but in our formula they work together to give you incredibly supple skin.
 
