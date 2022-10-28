@@ -8,16 +8,10 @@ import BlogRoll from '../components/BlogRoll'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
-import image1 from '../img/slider/1.jpg';
-import image2 from '../img/slider/2.jpg';
-import image3 from '../img/slider/3.jpg';
-import image4 from '../img/slider/4.jpg';
-import image5 from '../img/slider/5.jpg';
 import product1 from '../img/products/CBD-Beauty.jpg';
 import product2 from '../img/products/CBD-PETS.jpg';
 import product3 from '../img/products/CBD-Relief.jpg';
 import product4 from '../img/products/CBD-Wellness.jpg';
-import productsImage from '../img/capital_american_shaman_of-_midlothian_product_group-600x448.jpg';
 import quality from '../img/corporate/quality.png';
 import hemp from '../img/corporate/hemp.png';
 import idea from '../img/corporate/idea.png';
@@ -26,6 +20,7 @@ import rocket from '../img/corporate/rocket.png';
 import GoogleMapReact from 'google-map-react';
 import MapMarker from '../components/MapMarker';
 import ProductCategoryLinks from '../components/ProductCategoryLinks';
+import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 
 export const IndexPageTemplate = ({
@@ -37,7 +32,9 @@ export const IndexPageTemplate = ({
   description,
   intro,
   slideSettings,
-  whyCBDContent
+  whyCBDContent,
+  slides,
+  productImage,
 }) => (
   <div>
     {/* <div
@@ -90,21 +87,14 @@ export const IndexPageTemplate = ({
       </div> */}
     <div className="slider-container">
       <Slider {...slideSettings}>
-        <div>
-          <img src={image1} alt="Capital American CBD store front" />
-        </div>
-        <div>
-          <img src={image2} alt="Capital American CBD store products preview" />
-        </div>
-        <div>
-          <img src={image3} alt="Capital American CBD store view" />
-        </div>
-        <div>
-          <img src={image4} alt="Capital American CBD store  front view" />
-        </div>
-        <div>
-          <img src={image5} alt="Capital American CBD store products " />
-        </div>
+        {slides && slides.map((s, ix) => <div key={'slide' + ix}>
+          <PreviewCompatibleImage
+            imageInfo={{
+              image: s.image,
+              alt: s.alt,
+            }}
+          />
+        </div>)}
       </Slider>
     </div>
     <section className="section section--gradient">
@@ -184,46 +174,14 @@ export const IndexPageTemplate = ({
                   <div className="columns">
                     <div className="column home-product-links">
                       <ProductCategoryLinks noCount={true} />
-                      {/* <ul className="product-list">
-                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">CBD
-                          Water
-                          Soluble
-                          Products</a>
-                        </li>
-                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">CBD
-                          Tinctures</a>
-                        </li>
-                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">CBD
-                          Edibles</a>
-                        </li>
-                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">CBD
-                          Lotions,
-                          Creams and
-                          Topicals</a>
-                        </li>
-                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">CBD
-                          Soaps
-                          and Bath Bombs</a>
-                        </li>
-                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">CBD
-                          Dog, Cat
-                          and Equine
-                          Products</a>
-                        </li>
-                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">CBD
-                          Skin
-                          Care</a>
-                        </li>
-                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">Hemp
-                          Flower</a>
-                        </li>
-                        <li><a target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">Delta 8
-                        </a>
-                        </li>
-                      </ul> */}
                     </div>
                     <div className="column">
-                      <img src={productsImage} alt="Some American Shaman products "></img>
+                      {productImage && <PreviewCompatibleImage
+                        imageInfo={{
+                          image: productImage,
+                          alt: "Some American Shaman products",
+                        }}
+                      />}
                     </div>
                   </div>
                   <p>
@@ -404,7 +362,9 @@ IndexPageTemplate.propTypes = {
     blurbs: PropTypes.array,
   }),
   slideSettings: PropTypes.object,
-  whyCBDContent: PropTypes.array
+  whyCBDContent: PropTypes.array,
+  slides: PropTypes.array,
+  productImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
 }
 
 const IndexPage = ({ data }) => {
@@ -429,6 +389,8 @@ const IndexPage = ({ data }) => {
         intro={frontmatter.intro}
         slideSettings={settings}
         whyCBDContent={whyCBDContent}
+        slides={frontmatter.slides}
+        productImage={frontmatter.productImage}
       />
     </Layout>
   )
@@ -461,6 +423,22 @@ export const pageQuery = graphql`
         mainpitch {
           title
           description
+        }
+        slides {
+          image {
+            childImageSharp {
+              fluid(maxWidth: 2048, quality: 100) {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
+        }
+        productImage {
+          childImageSharp {
+            fluid(maxWidth: 500, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
         }
         description
         intro {

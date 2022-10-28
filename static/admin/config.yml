@@ -57,7 +57,18 @@ collections:
                   { label: Description, name: description, widget: text },
                 ],
             }
+          - {
+              label: Slides,
+              name: slides,
+              widget: list,
+              fields:
+                [
+                  { label: Image, name: image, widget: image },
+                  { label: Alt, name: alt, widget: string },
+                ],
+            }
           - { label: Description, name: description, widget: text }
+          - { label: 'Product Image', name: productImage, widget: image }
           - {
               label: Intro,
               name: intro,

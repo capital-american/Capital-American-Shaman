@@ -49,42 +49,42 @@ class ProductRoll extends React.Component {
             {posts &&
               posts.filter(p => !category || p.node.frontmatter.category.indexOf(category) !== -1).map(({ node: post }) => (
                 <div className="is-parent column product-roll" key={post.id}>
-                  <article
-                    className={`tile is-child`}
-                  >
-                    <div className='flex-p-data'>
-                      {post.frontmatter.image ? (
-                        <div className="featured-thumbnail product-image">
-                          <Link
-                            className="title is-size-5"
-                            to={post.fields.slug}
-                          >
-                            <PreviewCompatibleImage
-                              imageInfo={{
-                                image: post.frontmatter.image,
-                                alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                              }}
-                            />
-                          </Link>
+                  <Link to={post.fields.slug}>
+                    <article
+                      className={`tile is-child`}
+                    >
+                      <div className='flex-p-data'>
+                        {post.frontmatter.image ? (
+                          <div className="featured-thumbnail product-image">
+                            <div
+                              className="title is-size-5"
+                            >
+                              <PreviewCompatibleImage
+                                imageInfo={{
+                                  image: post.frontmatter.image,
+                                  alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                                }}
+                              />
+                            </div>
+                          </div>
+                        ) : null}
+                        <div>
+                          <div className='name'>{post.frontmatter.category}</div>
+                          <div className='align'>
+                            <div
+                              className="title is-size-5"
+                            >
+                              {post.frontmatter.title}
+                            </div>
+                          </div>
+                          <div className='number-flex'>
+                            <div className='number' >${Number(post.frontmatter.amount).toFixed(2)}</div>
+                          </div>
+                          <div className='excerpt'>{post.excerpt}</div>
                         </div>
-                      ) : null}
-                      <div>
-                        <div className='name'>{post.frontmatter.category}</div>
-                        <div className='align'>
-                          <Link
-                            className="title is-size-5"
-                            to={post.fields.slug}
-                          >
-                            {post.frontmatter.title}
-                          </Link>
-                        </div>
-                        <div className='number-flex'>
-                          <div className='number' >${Number(post.frontmatter.amount).toFixed(2)}</div>
-                        </div>
-                        <div className='excerpt'>{post.excerpt}</div>
                       </div>
-                    </div>
-                  </article>
+                    </article>
+                  </Link>
                 </div>
               ))}
           </div>
@@ -100,7 +100,7 @@ class ProductRoll extends React.Component {
             <a className="next page-numbers" href="#">Next</a>
           </div>
         </div> */}
-      </div>
+      </div >
     )
   }
 }

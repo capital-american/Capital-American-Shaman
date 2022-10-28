@@ -5,7 +5,7 @@ import { kebabCase } from 'lodash'
 
 class ProductCategoryLinks extends React.Component {
   render() {
-    const { data } = this.props
+    const { data, noCount } = this.props
     const { group } = data.allMarkdownRemark
 
     return (
@@ -13,7 +13,7 @@ class ProductCategoryLinks extends React.Component {
         {group &&
           group.map((category, i) => (
             <Link to={`/product-category/${kebabCase(category.fieldValue)}/`} key={i}>
-              {category.fieldValue} ({category.totalCount})
+              {category.fieldValue} {noCount || <>({category.totalCount})</>}
             </Link>
           ))}
       </div>
@@ -29,7 +29,7 @@ ProductCategoryLinks.propTypes = {
   }),
 }
 
-export default () => (
+export default ({ noCount }) => (
   <StaticQuery
     query={graphql`
       query ProductCategoryGroupQuery {
@@ -41,6 +41,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <ProductCategoryLinks data={data} count={count} />}
+    render={(data, count) => <ProductCategoryLinks data={data} count={count} noCount={noCount} />}
   />
 )
