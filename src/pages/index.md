@@ -1,4 +1,9 @@
 ---
+slides:
+  - image: /img/front-left.jpg.jpg
+  - image: /img/front-middle2.jpg
+  - image: /img/side-view.jpg
+  - image: /img/side-view2.jpg
 heading: We are more than a CBD store...
 subheading: >-
   Capital CBD is a locally owned and operated franchise of American Shaman, The
@@ -15,6 +20,7 @@ mainpitch:
     Welcome to Capital CBD, where our proprietary nanotechnology makes our
     products 9X more bioavailable than anything else on the market...  More
     powerful, most effective - Best CBD oil in Austin.
+productImage: /img/cbd-products.jpg
 intro:
   blurbs:
     - image: /img/coffee.png
