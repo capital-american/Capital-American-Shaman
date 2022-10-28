@@ -50,13 +50,13 @@ class ProductRoll extends React.Component {
               posts.filter(p => !category || p.node.frontmatter.category.indexOf(category) !== -1).map(({ node: post }) => (
                 <div className="is-parent column product-roll" key={post.id}>
                   <article
-                    className={`blog-list-item tile is-child`}
+                    className={`tile is-child`}
                   >
-                    <div>
+                    <div className='flex-p-data'>
                       {post.frontmatter.image ? (
                         <div className="featured-thumbnail product-image">
                           <Link
-                            className="title has-text-primary is-size-5"
+                            className="title is-size-5"
                             to={post.fields.slug}
                           >
                             <PreviewCompatibleImage
@@ -68,19 +68,22 @@ class ProductRoll extends React.Component {
                           </Link>
                         </div>
                       ) : null}
-                      <div className='name'>{post.frontmatter.category}</div>
-                      <div className='align'>
-                        <Link
-                          className="title has-text-primary is-size-5"
-                          to={post.fields.slug}
-                        >
-                          {post.frontmatter.title}
-                        </Link>
+                      <div>
+                        <div className='name'>{post.frontmatter.category}</div>
+                        <div className='align'>
+                          <Link
+                            className="title is-size-5"
+                            to={post.fields.slug}
+                          >
+                            {post.frontmatter.title}
+                          </Link>
+                        </div>
+                        <div className='number-flex'>
+                          <div className='number' >${Number(post.frontmatter.amount).toFixed(2)}</div>
+                        </div>
+                        <div className='excerpt'>{post.excerpt}</div>
                       </div>
-                      <div className='number' >${Number(post.frontmatter.amount).toFixed(2)}</div>
-
                     </div>
-                    <div className='excerpt'>{post.excerpt}</div>
                   </article>
                 </div>
               ))}
