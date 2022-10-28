@@ -1,9 +1,13 @@
 ---
 slides:
   - image: /img/front-left.jpg.jpg
+    alt: Capital American CBD store front
   - image: /img/front-middle2.jpg
+    alt: Capital American CBD store front view
   - image: /img/side-view.jpg
+    alt: Capital American CBD store side view
   - image: /img/side-view2.jpg
+    alt: Capital American CBD store side view
 heading: We are more than a CBD store...
 subheading: >-
   Capital CBD is a locally owned and operated franchise of American Shaman, The
