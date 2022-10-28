@@ -1,14 +1,15 @@
 ---
 templateKey: product-post
-title: CBD Gummies
+title: CBD Gummies -10mg (30ct)
 date: 2022-10-11T10:47:27.082Z
 category:
-  - CBD Tinctures
+  - CBD Edibles
 image: /img/cbd-gummies-austin-shaman.jpg
 amount: 30
 tags:
   - Product
 ---
+**Brand: American Shaman**
 
 MADE IN USA: Colorful and tasty ADULT Gummies. Candy is infused with 10mg of CBD. That means this container of 30 Gummie pieces offers you a total of 300mg of infused CBD! As a dietary supplement, it’s a delightful way to consume terpene rich, high quality CBD Hemp Oil. Each piece is a measured dose and is easy to eat. Flavors: Misc. Fruit Flavors Weight: 0.24
 
