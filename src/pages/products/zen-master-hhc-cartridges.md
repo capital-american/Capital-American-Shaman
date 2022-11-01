@@ -3,7 +3,7 @@ templateKey: product-post
 title: Zen Master HHC Cartridges
 date: 2022-10-31T20:10:15.199Z
 category:
-  - HHC
+  - HHC Products
 image: /img/zen-hhc-carts.jpg
 amount: 39.99
 tags:
