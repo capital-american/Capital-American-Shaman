@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Science and Technology: Leading the CBD Industry into a New Decade "
 date: 2020-02-15T22:58:52.073Z
 description: How Science and  Technology has influenced the CBD Industry.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/science-containers.jpg
 tags:
   - Science
