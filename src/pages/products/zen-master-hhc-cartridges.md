@@ -19,8 +19,7 @@ adeep body relaxationfor everyday stress.
 
 Primary Terpenes:Myrcene, Pinene, Ocimene
 
-**Pineapple Express:** Sativa-dominant strain that found fame in 2008 due to the movie “Pineapple Express”. This popular strain produces
-long-lasting energetic effects along with alert and creative feelings. Some say that this is packed with citrus notes and earthy pine.
+**Pineapple Express:** Sativa-dominant strain that found fame in 2008 due to the movie “Pineapple Express”. This popular strain produces long-lasting energetic effects along with alert and creative feelings. Some say that this is packed with citrus notes and earthy pine.
 
 Primary Terpenes: Caryophyllene, Limonene, Pinene
 
@@ -32,10 +31,6 @@ Limonene, Myrcene
 **FRUIT PUNCH:** Hybrid strain that can uplift you, overall making you happier. Fruit Punch should give you a mellow high characterized by improved mood and relaxation.  
 
 Primary Terpenes: Limonene, Caryophyllene, Myrcene
-
-**BONG POP:** Hybrid strain that is known to give the giggly and euphoric feelings. Some say that they become more mindful after using this strain. 
-
-Primary Terpenes: Pinene, Mycrene, Ocimene
 
 **BONG POP:** Hybrid strain that is known to give the giggly and euphoric feelings. Some say that they become more mindful after using this strain. 
 
