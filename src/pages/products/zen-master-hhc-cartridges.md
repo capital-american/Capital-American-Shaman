@@ -13,9 +13,7 @@ This smooth experience of a cartridge will knock your socks off when you try the
 
 This cartridge comes in 8 different stains and each strain brings a different experience to the table.
 
-**Lifter:**  Potent sativa-dominant strain with\
-upliftingeffects. Perfect strain for daytime users who want aclear mindand\
-adeep body relaxationfor everyday stress.
+**Lifter:**  Potent sativa-dominant strain with uplifting effects. Perfect strain for daytime users who want aclear mindand a deep body relaxationfor everyday stress.
 
 Primary Terpenes:Myrcene, Pinene, Ocimene
 
