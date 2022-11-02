@@ -9,14 +9,11 @@ amount: 39.99
 tags:
   - Products
 ---
-
-
 This is the same smooth experience as our original cartridge but with a battery pre-charged. This rig is ready to perform right out the box.  This disposable pen is branded white with Zen Master printed branding on the pen. This vape is filled with 1 mL of pure HHC (Hexahydrocannabinol) that will knock your socks off when you try this formulation. It is a gram cartridge and will give a lasting experience for this unique psychoactive experience.
 
 As with the orginal cartridges the strain availible tend to have the following effects:
 
-**Lifter:** Potent sativa-dominant strain with\
-upliftingeffects. Perfect strain for daytime users who want aclear mindand\
+**Lifter:** Potent sativa-dominant strain with uplifting effects. Perfect strain for daytime users who want aclear mindand\
 adeep body relaxationfor everyday stress.
 
 Primary Terpenes:Myrcene, Pinene, Ocimene
