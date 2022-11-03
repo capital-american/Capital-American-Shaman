@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Delta 8 THC Flower
+title: Delta 8 THC Flower (3.5g)
 date: 2022-11-03T22:32:22.246Z
 category:
   - Delta 8
