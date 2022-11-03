@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
@@ -19,34 +19,40 @@ export const ProductPageTemplate = ({
   testimonials,
   fullImage,
   pricing,
-}) => (
-  <div className="content">
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="product-section">
-          <div className='p-links'>
-            <ProductCategoryLinks />
-          </div>
-          <div className='p-roll'>
-            <ProductRoll />
-          </div>
-        </div>
-        <section className="section section--gradient">
-          <div className="container">
-            <div className="section">
-              <div className="columns">
-                <div className="column is-offset-1">
-                  <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
-                  <p>{description}</p>
-                </div>
+}) => {
+  const [searchString, setSearchString] = useState('');
+  return (
+    <div className="content">
+      <section className="section section--gradient">
+        <div className="container">
+          <div className="product-section">
+
+            <div className='p-links'>
+              <div className='search'>
+                <input className='query-box' type="text" value={searchString} onChange={(e) => setSearchString(e.target.value)} />
               </div>
-              <div className="columns">
-                <div className="column is-10 is-offset-1">
-                  {/* <Features gridItems={intro.blurbs} /> */}
-                  <div>
-                    <a className="link-view-more-products" target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">View More Products</a>
+              <ProductCategoryLinks />
+            </div>
+            <div className='p-roll'>
+              <ProductRoll query={searchString} />
+            </div>
+          </div>
+          <section className="section section--gradient">
+            <div className="container">
+              <div className="section">
+                <div className="columns">
+                  <div className="column is-offset-1">
+                    <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
+                    <p>{description}</p>
                   </div>
-                  {/* <div className="columns">
+                </div>
+                <div className="columns">
+                  <div className="column is-10 is-offset-1">
+                    {/* <Features gridItems={intro.blurbs} /> */}
+                    <div>
+                      <a className="link-view-more-products" target="_blank" href="https://cbdamericanshaman.com/msterling-leach" rel="nofollow noreferrer">View More Products</a>
+                    </div>
+                    {/* <div className="columns">
                   <div className="column is-7">
                     <h3 className="has-text-weight-semibold is-size-3">
                       {main.heading}
@@ -55,7 +61,7 @@ export const ProductPageTemplate = ({
                   </div>
                 </div> */}
 
-                  {/* <div className="tile is-ancestor">
+                    {/* <div className="tile is-ancestor">
                   <div className="tile is-vertical">
                     <div className="tile">
                       <div className="tile is-parent is-vertical">
@@ -76,27 +82,28 @@ export const ProductPageTemplate = ({
                     </div>
                   </div>
                 </div> */}
-                  <div className="testimonaals">
-                    {/* <Testimonials testimonials={testimonials} /> */}
-                  </div>
-                  <div
+                    <div className="testimonaals">
+                      {/* <Testimonials testimonials={testimonials} /> */}
+                    </div>
+                    <div
 
 
-                  />
-                  {/* <h2 className="has-text-weight-semibold is-size-2">
+                    />
+                    {/* <h2 className="has-text-weight-semibold is-size-2">
                   {pricing.heading}
                 </h2>
                 <p className="is-size-5">{pricing.description}</p>
                 <Pricing data={pricing.plans} /> */}
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-        </section>
-      </div>
-    </section>
-  </div>
-)
+          </section>
+        </div>
+      </section>
+    </div>
+  )
+};
 
 ProductPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),

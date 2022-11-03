@@ -14,7 +14,7 @@ class ProductRoll extends React.Component {
     }
   }
   render() {
-    const { data, category } = this.props
+    const { data, category, query } = this.props
     const { edges: posts } = data.allMarkdownRemark
 
     return (
@@ -47,46 +47,48 @@ class ProductRoll extends React.Component {
           </div>
           <div className={this.state.listType}>
             {posts &&
-              posts.filter(p => !category || p.node.frontmatter.category.indexOf(category) !== -1).map(({ node: post }) => (
-                <div className="is-parent column product-roll" key={post.id}>
-                  <Link to={post.fields.slug}>
-                    <article
-                      className={`tile is-child`}
-                    >
-                      <div className='flex-p-data'>
-                        {post.frontmatter.image ? (
-                          <div className="featured-thumbnail product-image">
-                            <div
-                              className="title is-size-5"
-                            >
-                              <PreviewCompatibleImage
-                                imageInfo={{
-                                  image: post.frontmatter.image,
-                                  alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                                }}
-                              />
+              posts
+                .filter(p => (!category || p.node.frontmatter.category.indexOf(category) !== -1) && (!query || (p.node.frontmatter.title.toLowerCase().indexOf(query.toLowerCase()) !== -1)))
+                .map(({ node: post }) => (
+                  <div className="is-parent column product-roll" key={post.id}>
+                    <Link to={post.fields.slug}>
+                      <article
+                        className={`tile is-child`}
+                      >
+                        <div className='flex-p-data'>
+                          {post.frontmatter.image ? (
+                            <div className="featured-thumbnail product-image">
+                              <div
+                                className="title is-size-5"
+                              >
+                                <PreviewCompatibleImage
+                                  imageInfo={{
+                                    image: post.frontmatter.image,
+                                    alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                                  }}
+                                />
+                              </div>
                             </div>
-                          </div>
-                        ) : null}
-                        <div>
-                          <div className='name'>{post.frontmatter.category}</div>
-                          <div className='align'>
-                            <div
-                              className="title is-size-5"
-                            >
-                              {post.frontmatter.title}
+                          ) : null}
+                          <div>
+                            <div className='name'>{post.frontmatter.category}</div>
+                            <div className='align'>
+                              <div
+                                className="title is-size-5"
+                              >
+                                {post.frontmatter.title}
+                              </div>
                             </div>
+                            <div className='number-flex'>
+                              <div className='number' >${Number(post.frontmatter.amount).toFixed(2)}</div>
+                            </div>
+                            <div className='excerpt'>{post.excerpt}</div>
                           </div>
-                          <div className='number-flex'>
-                            <div className='number' >${Number(post.frontmatter.amount).toFixed(2)}</div>
-                          </div>
-                          <div className='excerpt'>{post.excerpt}</div>
                         </div>
-                      </div>
-                    </article>
-                  </Link>
-                </div>
-              ))}
+                      </article>
+                    </Link>
+                  </div>
+                ))}
           </div>
         </div>
         {/* <div className='alignm'>
@@ -113,7 +115,7 @@ ProductRoll.propTypes = {
   }),
 }
 
-export default ({ category }) => (
+export default ({ category, query }) => (
   <StaticQuery
     query={graphql`
       query ProductRollQuery {
@@ -147,6 +149,6 @@ export default ({ category }) => (
         }
       }
     `}
-    render={(data, count) => <ProductRoll data={data} count={count} category={category} />}
+    render={(data, count) => <ProductRoll data={data} count={count} category={category} query={query} />}
   />
 )
