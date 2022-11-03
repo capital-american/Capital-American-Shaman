@@ -47,7 +47,7 @@ export const ProductPostTemplate = ({
                     {title}
                   </h1>
                   <h3 className="is-size-5">
-                    Price: ${Number(amount).toFixed(2)}
+                    Price: ${amount}
                   </h3>
 
                   <PostContent content={content} />

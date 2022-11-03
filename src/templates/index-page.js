@@ -315,7 +315,7 @@ export const IndexPageTemplate = ({
                       <span className="color"> BLOGS  </span></h2>
                   </div>
                   <div style={{ margin: '100px 0 50px 0' }}>
-                    <BlogRoll />
+                    <BlogRoll blogsToShow="non-featured" />
                   </div>
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">

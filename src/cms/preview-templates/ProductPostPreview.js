@@ -9,7 +9,9 @@ const ProductPostPreview = ({ entry, widgetFor }) => {
       content={widgetFor('body')}
       tags={tags && tags.toJS()}
       title={entry.getIn(['data', 'title'])}
-      price={entry.getIn(['data', 'amount'])}
+      amount={entry.getIn(['data', 'amount'])}
+      category={entry.getIn(['data', 'category'])}
+      image={entry.getIn(['data', 'image'])}
     />
   )
 }

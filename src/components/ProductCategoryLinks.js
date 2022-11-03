@@ -12,7 +12,7 @@ class ProductCategoryLinks extends React.Component {
       <div className='category-links'>
         {group &&
           group.map((category, i) => (
-            <Link to={`/product-category/${kebabCase(category.fieldValue)}/`} key={i}>
+            <Link to={`/product-category/${kebabCase(category.fieldValue)}/`} key={i} className="has-text-primary">
               {category.fieldValue} {noCount || <>({category.totalCount})</>}
             </Link>
           ))}
@@ -33,7 +33,10 @@ export default ({ noCount }) => (
   <StaticQuery
     query={graphql`
       query ProductCategoryGroupQuery {
-        allMarkdownRemark(limit: 1000) {
+        allMarkdownRemark(
+          limit: 1000,
+          filter: { frontmatter: { templateKey: { eq: "product-post" } } }
+        ) {
           group(field: frontmatter___category) {
             fieldValue
             totalCount
