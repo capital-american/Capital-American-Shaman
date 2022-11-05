@@ -17,8 +17,8 @@ import hemp from '../img/corporate/hemp.png';
 import idea from '../img/corporate/idea.png';
 import love from '../img/corporate/love.png';
 import rocket from '../img/corporate/rocket.png';
-import GoogleMapReact from 'google-map-react';
-import MapMarker from '../components/MapMarker';
+// import GoogleMapReact from 'google-map-react';
+// import MapMarker from '../components/MapMarker';
 import ProductCategoryLinks from '../components/ProductCategoryLinks';
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
@@ -287,8 +287,8 @@ export const IndexPageTemplate = ({
                       <span className="color"> US  </span></h2>
                   </div>
 
-                  <div style={{ height: '600px', width: '100%', marginTop: '100px' }}>
-                    <GoogleMapReact
+                  <div style={{ height: '500px', width: '100%', marginTop: '100px' }}>
+                    {/* <GoogleMapReact
                       bootstrapURLKeys={{ key: 'AIzaSyDflqHM3xI7LEAerp4Fbyat8GNjpsuSX5s' }}
                       defaultCenter={{
                         lat: 30.363920,
@@ -297,7 +297,11 @@ export const IndexPageTemplate = ({
                       defaultZoom={14}
                     >
                       <MapMarker />
-                    </GoogleMapReact>
+                    </GoogleMapReact> */}
+                    <iframe
+                      title='Capital CBD American Shaman'
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3442.5441840515764!2d-97.7283884!3d30.363901699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644cb31a4fe226f%3A0x34275657f2964730!2sCapital%20CBD%20American%20Shaman!5e0!3m2!1sen!2sus!4v1667507515248!5m2!1sen!2sus"
+                      allowFullScreen="" loading="lazy" style={{ width: '90%', height: '100%', marginLeft: '5%' }} referrerPolicy="no-referrer-when-downgrade"></iframe>
                   </div>
                 </div>
 
@@ -427,7 +431,7 @@ export const pageQuery = graphql`
         slides {
           image {
             childImageSharp {
-              fluid(maxWidth: 2048, quality: 100) {
+              fluid(maxWidth: 2048, maxHeight: 1152, quality: 100, fit: COVER) {
                 ...GatsbyImageSharpFluid
               }
             }
