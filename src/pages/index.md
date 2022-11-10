@@ -1,6 +1,6 @@
 ---
 slides:
-  - image: /img/front-left.jpg.jpg
+  - image: /img/front-left-edit-.jpg
     alt: Capital American CBD store front
   - image: /img/front-middle2.jpg
     alt: Capital American CBD store front view
