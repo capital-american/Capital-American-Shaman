@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Delta 9 THC
 date: 2022-11-11T23:26:53.188Z
 description: Delta 9 THC in Austin?  But of course...
-featuredpost: true
+featuredpost: false
 featuredimage: /img/delta-9-thc-pic.jpg
 tags:
   - Delta 9 THC
