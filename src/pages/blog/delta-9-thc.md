@@ -20,8 +20,7 @@ THC(Delta-9) has much more to offer than euphoria, and this article will discuss
 
 ## What is Delta 9 THC?
 
-Tetrahydrocannabinol-THC is the psychoactive component of cannabis. THC is a cannabinoid that connects with your body to control many physiological processes. THC binds to brain receptors and activates neurotransmitters that affect mood, cognition, learning, coordination, and time perception.
-According to research and anecdotal evidence, THC can be beneficial in treating various medical conditions. Moreover, many individuals find it great for recreational activities since it offers pleasure and calmness.
+Tetrahydrocannabinol-THC is the psychoactive component of cannabis. THC is a cannabinoid that connects with your body to control many physiological processes. THC binds to brain receptors and activates neurotransmitters that affect mood, cognition, learning, coordination, and time perception. According to research and anecdotal evidence, THC can be beneficial in treating various medical conditions. Moreover, many individuals find it great for recreational activities since it offers pleasure and calmness.
 
 ## How does THC Work?
 
@@ -38,7 +37,6 @@ People often choose Delta 9 THC for its psychoactive effects but as more studies
 ## Is Delta 9 Legal?
 
 Before 2018 THC was not allowed for consumption. But following the enactment of the 2018 United States Farm Bill, which legalized hemp and hemp products, Delta 9 hemp has been permitted on a federal level.
-
 
 Every edible hemp product must fulfill the requirement that it must not contain more than 0.3% THC calculated on a dry weight basis to be allowed under the Farm Bill. So if you want to consume THC, remember that you can only take it in a legal circle if it has less than 0.3% THC on a dry weight basis.
 
@@ -64,10 +62,10 @@ Both CBD and Delta 9 THC are naturally present in hemp plants and offer numerous
 
  <br>
 
-## Buy High-Quality Legal THC products from Capital American Shaman Today! 
+## Buy High-Quality Legal THC products from Capital American Shaman Today!
 
-THC products can greatly improve your life since they benefit many health problems. However, finding the best THC products that comply with the law is difficult. 
-American Shaman products are produced using industrial hemp to offer Delta-9 through high-quality, pure, terpene-rich industrial hemp extract. You can choose products made from legal hemp that have benefits similar to cannabis products used for medical and recreational purposes.
+THC products can greatly improve your life since they benefit many health problems. However, finding the best THC products in Austin that comply with the law is difficult.  American Shaman products are produced using industrial hemp to offer Delta-9 through high-quality, pure, terpene-rich industrial hemp extract. You can choose products made from legal hemp that have benefits similar to cannabis products used for medical and recreational purposes.  We only carry top notch products and well vetted companies.  A number of stores skip that aspect in an attempt to increase profits.  That is not our mission.  
+
 American Shaman's non-GMO hemp is cultivated organically in the United States for all Delta 9 THC products, which are then lab-tested to guarantee potency and purity. You will undoubtedly discover a Delta 9 THC product you adore!
 
 <br>
