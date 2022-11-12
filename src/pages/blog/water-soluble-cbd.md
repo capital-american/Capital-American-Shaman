@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Water Soluble CBD
 date: 2022-06-06T22:29:30.524Z
 description: Nano Enhanced CBD Oil also known as Water Soluble CBD.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/water-soluble-cbd.jpg
 tags:
   - CBD Oil
