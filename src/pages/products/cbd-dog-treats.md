@@ -3,8 +3,7 @@ templateKey: product-post
 title: CBD Dog Treats
 date: 2022-11-01T20:59:16.836Z
 category:
-  - CBD Dog
-  - Cat and Equine Products
+  - CBD Dog / Cat and Equine Products
 image: /img/cbd-dog-treats-brisket.jpg
 amount: 44.99
 tags:
