@@ -2,7 +2,8 @@
 templateKey: blog-post
 title: CBD Flower
 date: 2021-02-01T21:01:54.586Z
-description: Looking for CBD Flower in Austin Texas?
+description: Looking for CBD Flower & Joints in Austin Texas?  Capital American
+  Shaman is one of the best CBD joints & flower providers in Austin, TX.
 featuredpost: true
 featuredimage: /img/cbd-flower-austin.jpg
 tags:
