@@ -3,7 +3,7 @@ templateKey: product-post
 title: Soft CBD Dog Treats (30ct)
 date: 2022-11-03T23:02:02.879Z
 category:
-  - CBD Dog Cat and Equine products
+  - CBD Dog / Cat and Equine Products
 image: /img/soft-dog-treats.jpg
 amount: 24.99
 tags:
