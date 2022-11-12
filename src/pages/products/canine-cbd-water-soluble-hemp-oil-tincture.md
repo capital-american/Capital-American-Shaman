@@ -3,8 +3,7 @@ templateKey: product-post
 title: Canine CBD (Water Soluble) Hemp Oil Tincture
 date: 2022-10-28T19:17:13.291Z
 category:
-  - CBD Dog
-  - Cat and Equine Products
+  - CBD Dog / Cat and Equine Products
 image: /img/canine-water-soluble-cbd.jpg
 amount: 59.99
 tags:
