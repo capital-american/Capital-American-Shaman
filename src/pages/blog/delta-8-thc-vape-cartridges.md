@@ -4,7 +4,7 @@ title: Delta 8 THC Vape Cartridges
 date: 2021-08-10T21:46:47.828Z
 description: Info on what to expect from Delta 8 Cartridges and where to buy
   them in Austin Tx
-featuredpost: true
+featuredpost: false
 featuredimage: /img/delta-8-vape.jpg
 tags:
   - Delta 8
