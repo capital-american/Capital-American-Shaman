@@ -3,7 +3,7 @@ templateKey: product-post
 title: Cat CBD Oil Tincture (300mg)
 date: 2022-11-05T20:16:11.963Z
 category:
-  - CBD Dog Cat and Equine products
+  - CBD Dog / Cat and Equine Products
 image: /img/feline-cbd-oil-tincture.jpg
 amount: 59.99
 tags:
