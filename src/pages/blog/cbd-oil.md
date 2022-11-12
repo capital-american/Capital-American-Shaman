@@ -3,7 +3,7 @@ templateKey: blog-post
 title: CBD Oil
 date: 2021-03-05T21:44:11.258Z
 description: Seaching for CBD in Ausin Tx?
-featuredpost: true
+featuredpost: false
 featuredimage: /img/cbd-oil-austin.jpg
 tags:
   - CBD Oil
