@@ -14,11 +14,11 @@ tags:
 
 <br><br>
 
-Water soluble CBD is CBD oil that has been broken down to a smaller particle size.  This process is described as “nanotechnology”. These tiny particles are easier for the body to absorb, allowing the benefits of CBD to take effect faster.  This process also allows it to mix easily with mix with water or food. Water soluble CBD is great for cooking or adding to drinks as opposed to regular CBD oil which can separate if mixed with water-based consumables.
+Water soluble CBD is CBD oil that has been broken down to a smaller particle size.  This process is described as “nanotechnology”. These tiny particles are easier for the body to absorb, allowing the benefits of CBD to take effect faster.  This process also allows it to mix easily with water or food. Water soluble CBD is great for cooking or adding to drinks as opposed to regular CBD oil which can separate if mixed with water-based consumables.
 
 ## Benefits of water soluble CBD?
 
-American Shaman makes water soluble CBD using nanotechnology, which makes the CBD particles smaller for easier absorption and better bioavailability. This smaller particle size allows the oil to dissolve in water and to enter the body quicker, allowing the effects of CBD to occur much quicker than non-water soluble CBD. Our water soluble CBD uses our proprietary process to bring you the highest quality nano CBD oil for the best price.
+American Shaman makes water soluble CBD using nanotechnology, which makes the CBD particles smaller for easier absorption and better bioavailability. This smaller particle size allows the oil to dissolve in water and to enter the body quicker, allowing the effects of CBD to occur much faster than regular CBD. Our water-soluble CBD uses our proprietary process to bring you the highest quality nano CBD oil for the best price. 
 
 CBD is known for its broad range of health-supporting effects, including stress relief, occasional anxiety, relief from discomfort, relaxation, and much more.  Our focus centers on bringing the benefits of CBD to you.
 
