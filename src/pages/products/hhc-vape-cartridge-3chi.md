@@ -13,7 +13,7 @@ tags:
 
 Most HHC users report euphoric, relaxing, mind and body effects similar to Delta 9 with far less paranoia, anxiety and lethargy. Many describe it as a more social and active version of Delta 9.
 
-## **3CHi HHC Vape Carts Austin Tx**
+## **3CHi HHC Vape Carts in Austin Tx**
 
 **Description:** Breath and button-activation compatible 510 cartridge with 1 ml total material
 
@@ -26,6 +26,16 @@ Most HHC users report euphoric, relaxing, mind and body effects similar to Delta
 **Tank:**Polycarbonate
 
 **Ingredients:**Broad Spectrum HHC oil and strain-specific terpenes of your choice.
+
+## HHC Vape Cartridge Directions
+
+These HHC vape cartridges are compatible with a 510 thread battery. Batteries not included with vapes and must be purchased separately. Attach the cartridge to a 510 compatible battery and inhale with lips around the mouthpiece. Do not unscrew the mouthpiece. Store cartridge at room temperature and upright to prevent leaking. Keep out of direct sunlight and in a cool, dark place. The product can go bad or lose potency if subjected to extreme heat or sunlight for extended periods.
+
+DO NOT DRIVE OR OPERATE MACHINERY WHILE USING THIS PRODUCT
+
+Consult a physician before using this product.
+
+Do not use if pregnant, nursing, or if you have any diagnosed or undiagnosed health conditions. Must be 21 years or older to purchase or use. Must be legal in your state or territory to purchase or use.
 
 ## What is HHC?
 
