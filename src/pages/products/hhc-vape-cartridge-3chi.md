@@ -9,13 +9,11 @@ amount: 34.99
 tags:
   - Products
 ---
-
-
 **Brand: 3chi**
 
 Most HHC users report euphoric, relaxing, mind and body effects similar to Delta 9 with far less paranoia, anxiety and lethargy. Many describe it as a more social and active version of Delta 9.
 
-## HHC Vape Cartridge Product Description
+## **3CHi HHC Vape Carts Austin Tx**
 
 **Description:** Breath and button-activation compatible 510 cartridge with 1 ml total material
 
@@ -28,8 +26,6 @@ Most HHC users report euphoric, relaxing, mind and body effects similar to Delta
 **Tank:**Polycarbonate
 
 **Ingredients:**Broad Spectrum HHC oil and strain-specific terpenes of your choice.
-
-
 
 ## What is HHC?
 
