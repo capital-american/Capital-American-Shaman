@@ -9,8 +9,6 @@ amount: 44.99
 tags:
   - Products
 ---
-
-
 **Brand: American Shaman**
 
 **MADE IN USA:** Could you dog benefit from support for joint health?  Does your dog experience storm stress? Reward your pet with a treat that is sure to keep tails wagging. Our unique CBD oil dog treats will leave your pet wanting more of the high quality treat.
@@ -28,6 +26,10 @@ For more information on CBD for pets please take a look here at our blog [here.]
 **Serving Per Container:** 70
 
 **Strength:** 5mg Nano Full Spectrum CBD Oil Per Bite 
+
+<br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://www.google.com/search?q=Capital+CBD+American+Shaman&tbm=lcl&sxsrf=ALiCzsa2XzapWbvIim-nHqqclmgfrSGd0Q%3A1668798574722&ei=bth3Y82WK5W0qtsPqt-W8Ac&ved=0ahUKEwjNhf2Rt7j7AhUVmmoFHaqvBX4Q4dUDCAg&oq=Capital+CBD+American+Shaman&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAwyBAgjECcyBAgjECcyBAgjECcyAggmMgUIABCGAzIFCAAQhgMyBQgAEIYDUABYAGDhD2gAcAB4AIABcYgBcZIBAzAuMZgBAMABAQ&sclient=gws-wiz-local#rlfi=hd:;si:3758067349796046640,l,ChtDYXBpdGFsIENCRCBBbWVyaWNhbiBTaGFtYW5I8bOdpJavgIAIWjkQABABEAIQAxgAGAEYAhgDIhtjYXBpdGFsIGNiZCBhbWVyaWNhbiBzaGFtYW4qCggCEAAQARACEAOSAR12aXRhbWluX2FuZF9zdXBwbGVtZW50c19zdG9yZeABAA,y,ojVWXBlNIig;mv:[[30.364081677319028,-97.72817981101284],[30.363721722680967,-97.7285969889872]]" rel="nofollow noreferrer">Visit our local Store</a></Center>
 
 ### **Ingredients:**
 
