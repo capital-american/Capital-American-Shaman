@@ -3,34 +3,34 @@ templateKey: blog-post
 title: Water Soluble CBD
 date: 2022-06-06T22:29:30.524Z
 description: Nano Enhanced CBD Oil also known as Water Soluble CBD.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/water-soluble-cbd.jpg
 tags:
   - CBD Oil
 ---
 ![Water Soluble CBD](/img/water-soluble-cbd.jpg "Water Soluble CBD Oil")
 
-# What is water soluble CBD Oil? 
+# What is water soluble CBD Oil?
 
 <br><br>
 
-Water soluble CBD is CBD oil that has been broken down to a smaller particle size.  This process is described as “nanotechnology”. These tiny particles are easier for the body to absorb, allowing the benefits of CBD to take effect faster.  This process also allows it to mix easily with mix with water or food. Water soluble CBD is great for cooking or adding to drinks as opposed to regular CBD oil which can separate if mixed with water-based consumables.
+Water soluble CBD is CBD oil that has been broken down to a smaller particle size.  This process is described as “nanotechnology”. These tiny particles are easier for the body to absorb, allowing the benefits of CBD to take effect faster.  This process also allows it to mix easily with water or food. Water soluble CBD is great for cooking or adding to drinks as opposed to regular CBD oil which can separate if mixed with water-based consumables.
 
-## Benefits of water soluble CBD? 
+## Benefits of water soluble CBD?
 
-American Shaman makes water soluble CBD using nanotechnology, which makes the CBD particles smaller for easier absorption and better bioavailability. This smaller particle size allows the oil to dissolve in water and to enter the body quicker, allowing the effects of CBD to occur much quicker than non-water soluble CBD. Our water soluble CBD uses our proprietary process to bring you the highest quality nano CBD oil for the best price.
+American Shaman makes water soluble CBD using nanotechnology, which makes the CBD particles smaller for easier absorption and better bioavailability. This smaller particle size allows the oil to dissolve in water and to enter the body quicker, allowing the effects of CBD to occur much faster than regular CBD. Our water-soluble CBD uses our proprietary process to bring you the highest quality nano CBD oil for the best price. 
 
 CBD is known for its broad range of health-supporting effects, including stress relief, occasional anxiety, relief from discomfort, relaxation, and much more.  Our focus centers on bringing the benefits of CBD to you.
 
 Water soluble CBD also allows more options for intake.  It gives full control over the measurements and is compatible with more consumption preferences. Water soluble oil can increase consumer convenience as the CBD can easily be added to any drink without needing prior knowledge on how to best use the product.
 
-##  CBD vs THC? What is the difference?
+## CBD vs THC? What is the difference?
 
 CBD and THC are both major cannabinoids that are derived from the same plant, Cannabis Sativa.  These cannabinoids can be found in varying amounts depending on the strain of cannabis. Hemp strains contain a higher amount of CBD and a low amount of THC. In fact, hemp plants must contain only 0.3% THC to remain legal. Marijuana strains are opposite in they contain a higher amount of THC when compared to CBD.
 
 CBD is known for its wide variety of health-supporting effects, while THC is known more for the psychoactive effects users experience. Unlike THC, CBD does not produce psychoactive effects, and will not get it’s user high. Our products comply with nationwide legal standards and are third-party tested to ensure they contain less than 0.3% THC.
 
-## How is Water Soluble CBD oil different from ‘regular’ CBD oil? 
+## How is Water Soluble CBD oil different from ‘regular’ CBD oil?
 
 CBD comes in different products in numerous forms. ‘Regular/standard’ CBD oil is typically taken as a tincture, placed and held under the tongue. When viewed under a microscope, this CBD oil is actually made up of globules (or ‘globs’) of oil, in which the CBD molecules are locked up.
 
@@ -58,7 +58,7 @@ When using standard CBD products, there’s often a 30-minute wait (or longer) f
 
 Water soluble CBD can potentially ease the everyday stress, we all encounter.  I could possibly lift some of the weight off your shoulders in a matter of moments.   Relaxation is often the result of the body reaching its natural state of homeostasis, or balance.  Water soluble CBD should feel like a rapid return to a more "balanced" feeling.
 
-## Full Spectrum Hemp Oil? 
+## Full Spectrum Hemp Oil?
 
 There are many cannabinoids found in CBD oil derived from hemp that work to balance your body. Trace amounts of THC (tetrahydrocannabinol), CBC (cannabichromene), CBG (cannabigerol), THCV (tetrahydrocannabivarin), CBDV (cannabidivarin), CBDA (cannabidiolic acid), THCA (tetrahydrocannabinolic acid), CBGA (cannabigerolic acid), and many more cannabinoids, all work together to create the ‘Entourage Effect’ and produce the beneficial effects of hemp oil. There are 113+ know cannabinoids all together.  When these cannabinoids, terpenes and flavonoids are found together in hemp oil, it is called Full Spectrum Hemp Oil. Full Spectrum is also referred to as a whole plant extract.
 
@@ -80,8 +80,10 @@ We recommend starting with two daily servings of a half dropperful of our Water 
 
 Each 30 mL bottle of Water Soluble Nano CBD contains 60 servings of ½ dropperful each. Following the labeled 2 servings per day, a single bottle should last you for a month. If you only need the support of Water Soluble CBD occasionally, a bottle will last you longer.
 
-## Where to Water Soluble CBD In Austin TX?
+## Where to buy Water Soluble CBD In Austin TX?
 
-If you’re looking for the best place in Austin Texas buy water soluble CBD or any product that is derived from hemp then you have found the best CBD store there is.  Your search is over, mission accomplished. At Capital CBD American Shaman in Austin, located at 8315 Burnet Rd Ste. C Austin, Tx 78757, we are dedicated to bringing you only the highest quality products derived from hemp available. All of our water soluble CBD products feature terpenes and phytocannabinoids, are non-GMO, pesticide free, and grown here in the USA. Our products are all 3rd party lab tested for purity and contain less than .3% delta 9 THC, which complies with all regulations listed in the 2018 United States Farm bill. 
+If you’re looking for the best place in Austin Texas to buy water soluble CBD or any product that is derived from hemp then you have found the best CBD store there is.  Your search is over, mission accomplished. At Capital CBD American Shaman in Austin, located at 8315 Burnet Rd Ste. C Austin, Tx 78757, we are dedicated to bringing you only the highest quality products derived from hemp available. All of our water soluble CBD products feature terpenes and phytocannabinoids, are non-GMO, pesticide free, and grown here in the USA. Our products are all 3rd party lab tested for purity and contain less than .3% delta 9 THC, which complies with all regulations listed in the 2018 United States Farm bill.
 
 Come in today and get started on a new, healthier you! Our hours are Monday thru Saturday, 10am – 7pm and Sunday 11am – 6pm. If you have any questions regarding Nano CBD, or any of our CBD products, please give us a call at (512) 386-8190.
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3442.5441840515764!2d-97.7283884!3d30.363901699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644cb31a4fe226f%3A0x34275657f2964730!2sCapital%20CBD%20American%20Shaman!5e0!3m2!1sen!2sus!4v1667507515248!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><center/>

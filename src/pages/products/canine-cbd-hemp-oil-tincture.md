@@ -3,8 +3,7 @@ templateKey: product-post
 title: Canine CBD Hemp Oil Tincture
 date: 2022-10-11T10:35:05.271Z
 category:
-  - CBD Dog
-  - Cat and Equine Products
+  - CBD Dog / Cat and Equine Products
 image: /img/canine-cbd.jpg
 amount: 59.99
 tags:
