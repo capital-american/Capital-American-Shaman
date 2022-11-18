@@ -11,7 +11,7 @@ tags:
 ---
 **Brand: 3Chi**
 
-Using delta 9 THC derived from natural and organic hemp, these D9 THC gummies have the same potency as what you’d find in a dispensary.  The differenct is they are farm bill compliant and federally legal! Finally a premium quality delta 9 product everybody from Frisco to Maine can ejoy. Get ready to discover true canna-bliss with 3CHI.
+Using delta 9 THC derived from natural and organic hemp, these D9 THC gummies have the same potency as what you’d find in a dispensary.  The difference is they are farm bill compliant and federally legal! Finally a premium quality delta 9 product everybody from Frisco to Maine can ejoy. Get ready to discover true canna-bliss with 3CHI.
 
 **NOTE:** Full-spectrum hemp oil can give a bitter hemp taste to the gummies. For those who are not a fan of the hemp flower taste we recommend chasing the gummy with  refreshing beverage.
 
@@ -47,7 +47,7 @@ For all the great benefits it offers, Delta 9 THC like all full spectrum cannabi
 
 ### WHY CHOOSE DELTA 9 GUMMIES VS. HHC, THCV, OR DELTA 8 GUMMIES?
 
-Delta 9 legal THC gummies can provide a different experience from gummies made from our other cannabinoids –  THCv, HHC and Delta 8. The best choice really boils down to the person, their goals and how their body reacts to each cannabinoid. Delta 9 tends to be the more potent and intoxicating cannabinoid, slightly more than HHC. So the question becomes – What experience am I looking for?
+Delta 9 legal THC gummies can provide a different experience from gummies made from our other cannabinoids –  THCV, HHC and Delta 8. The best choice really boils down to the person, their goals and how their body reacts to each cannabinoid. Delta 9 tends to be the more potent and intoxicating cannabinoid, slightly more than HHC. So the question becomes – What experience am I looking for?
 
 **What is stronger Delta 8 or Delta 9?**
 
