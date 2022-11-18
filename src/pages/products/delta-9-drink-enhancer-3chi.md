@@ -31,10 +31,12 @@ Each packet of 3CHI Delta 9 Drink Enhancers contain 10mg of hemp-derived Delta 9
 
 **Delta 9 THC Content:** <0.3%
 
-
 **Ingredients For Mojito Enhancer:** Proprietary Blend (Mannitol, Agar-Agar, Citric Acid, Natural and Artificial Flavors, Microcrystalline Cellulose, Adipic Acid, Maize Starch, Sodium Citrate, Magnesium Oxide, Pectin, Calcium Silicate), Hemp Extract PolyMorph ∆9, Cane Sugar, Sorbitol, Potassium Sorbate.
 
 **Ingredients For Strawberry Daiquiri Enhancer:** Proprietary Blend (Mannitol, Agar-Agar, Citric Acid, Natural and Artificial Flavors, Microcrystalline Cellulose, Adipic Acid, Maize Starch, Sodium Citrate, Magnesium Oxide, Pectin, Calcium Silicate), Hemp Extract PolyMorph ∆9, Sucralose, Potassium Sorbate.
 
-**Ingredients For Pink Lemonade Enhancer:** Proprietary Blend (Mannitol, Agar-Agar, Citric Acid, Natural and Artificial Flavors, Microcrystalline Cellulose, Adipic Acid, Maize Starch, Sodium Citrate, Magnesium Oxide), Hemp Extract PolyMorph ∆9, Sucralose, Potassium Sorbate, Sodium Benzoate.
-Ingredients For Tangerine Lime Enhancer: Proprietary Blend (Mannitol, Agar-Agar, Citric Acid, Natural and Artificial Flavors, Microcrystalline Cellulose, Adipic Acid, Maize Starch, Sodium Citrate, Magnesium Oxide), Hemp Extract PolyMorph ∆9, Sucralose, Potassium Sorbate, Sodium Benzoate.
+**Ingredients For Pink Lemonade Enhancer:** Proprietary Blend (Mannitol, Agar-Agar, Citric Acid, Natural and Artificial Flavors, Microcrystalline Cellulose, Adipic Acid, Maize Starch, Sodium Citrate, Magnesium Oxide), Hemp Extract PolyMorph ∆9, Sucralose, Potassium Sorbate, Sodium Benzoate. Ingredients For Tangerine Lime Enhancer: Proprietary Blend (Mannitol, Agar-Agar, Citric Acid, Natural and Artificial Flavors, Microcrystalline Cellulose, Adipic Acid, Maize Starch, Sodium Citrate, Magnesium Oxide), Hemp Extract PolyMorph ∆9, Sucralose, Potassium Sorbate, Sodium Benzoate.
+
+<br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://www.google.com/search?q=Capital+CBD+American+Shaman&tbm=lcl&sxsrf=ALiCzsa2XzapWbvIim-nHqqclmgfrSGd0Q%3A1668798574722&ei=bth3Y82WK5W0qtsPqt-W8Ac&ved=0ahUKEwjNhf2Rt7j7AhUVmmoFHaqvBX4Q4dUDCAg&oq=Capital+CBD+American+Shaman&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAwyBAgjECcyBAgjECcyBAgjECcyAggmMgUIABCGAzIFCAAQhgMyBQgAEIYDUABYAGDhD2gAcAB4AIABcYgBcZIBAzAuMZgBAMABAQ&sclient=gws-wiz-local#rlfi=hd:;si:3758067349796046640,l,ChtDYXBpdGFsIENCRCBBbWVyaWNhbiBTaGFtYW5I8bOdpJavgIAIWjkQABABEAIQAxgAGAEYAhgDIhtjYXBpdGFsIGNiZCBhbWVyaWNhbiBzaGFtYW4qCggCEAAQARACEAOSAR12aXRhbWluX2FuZF9zdXBwbGVtZW50c19zdG9yZeABAA,y,ojVWXBlNIig;mv:[[30.364081677319028,-97.72817981101284],[30.363721722680967,-97.7285969889872]]" rel="nofollow noreferrer">Visit our local Store</a></Center>
