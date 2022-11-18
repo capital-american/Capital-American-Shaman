@@ -8,7 +8,7 @@ class ArticleLinks extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <div className='geo-article-links'>
+      <div className='geo-article-links-hidden'>
         {posts &&
           posts.map(({ node: post }, i) => (
             <Link
@@ -17,7 +17,7 @@ class ArticleLinks extends React.Component {
             >
               {post.frontmatter.title}
             </Link>
-                    
+
           ))}
       </div>
     )
