@@ -4,7 +4,7 @@ title: Sweet Sensi Elevated Drops 10ct
 date: 2022-11-22T21:21:35.734Z
 category:
   - Delta 9
-image: /img/sweet-sensi-elevated-gum-drops.jpg
+image: /img/sweet-sensi-elevated-gum-drops-10ct.jpg
 amount: 34.99
 tags:
   - Products
