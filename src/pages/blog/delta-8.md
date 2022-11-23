@@ -6,7 +6,7 @@ description: What is Delta 8 THC and is it legal?
 featuredpost: false
 featuredimage: /img/delta-8-thc.png
 tags:
-  - CBD
+  - Delta 8
 ---
 ![Delta 8 THC](/img/delta-8-thc.png "Delta 8 THC in Austin Tx")
 
