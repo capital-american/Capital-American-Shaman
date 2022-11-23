@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Delta 8
 date: 2021-01-20T20:29:36.914Z
 description: What is Delta 8 THC and is it legal?
-featuredpost: true
+featuredpost: false
 featuredimage: /img/delta-8-thc.png
 tags:
   - CBD
@@ -53,3 +53,11 @@ If you’re looking for "delta 8 near me" or the best place in [Austin Texas](ht
 We carry delta-8 edibles, tinctures, water soluble and delta-8 Gummies.  When it comes to inhalation we carry delta-8 cartridges for vaping, prerolls and delta Δ8THC flower.
 
 Come and see us today and get started on a new, healthier you!  We are open Monday through Friday from 11am to 7pm and 11-6pm on Saturdays. If you have any questions regarding Delta 8 Products, or any of our CBD products, please give us a call at (512) 386-1873.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/product-category/delta-8/">Take a look at some of our Delta 8 Products</a></Center>
+
+<br><br>
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3442.5441840515764!2d-97.7283884!3d30.363901699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644cb31a4fe226f%3A0x34275657f2964730!2sCapital%20CBD%20American%20Shaman!5e0!3m2!1sen!2sus!4v1667507515248!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><center/>
