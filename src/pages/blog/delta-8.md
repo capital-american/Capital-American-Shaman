@@ -50,7 +50,7 @@ Note, the FDA strongly advises that during pregnancy and while breastfeeding, yo
 
 If you’re looking for "delta 8 near me" or the best place in [Austin Texas](https://en.wikipedia.org/wiki/Austin,_Texas) to buy Delta 8 THC then look no further. At Capital CBD American Shaman located at 8315 Burnet Rd Ste. C Austin Tx 75757, we are dedicated to carrying only the highest quality Delta 8 THC available.  All of our delta 8 products are loaded with terpenes and phytocannabinoids, are non-GMO, pesticide free, and grown in the USA.  Our products are all 3rd party lab tested for purity and contains less than .3% delta 9 THC, which complies with all regulations listed in the 2018 United States Farm bill.  
 
-We carry delta-8 edibles, tinctures, water soluble and delta-8 Gummies.  When it comes to inhalation we carry delta-8 cartridges for vaping, prerolls and delta Δ8THC flower.
+We carry delta-8 edibles, tinctures, water soluble and [delta-8 Gummies](https://capitalamericanshaman.com/blog/delta-8-gummies/).  When it comes to inhalation we carry [delta-8 cartridges](https://capitalamericanshaman.com/blog/delta-8-thc-vape-cartridges/) for vaping, prerolls and delta Δ8THC flower.
 
 Come and see us today and get started on a new, healthier you!  We are open Monday through Friday from 11am to 7pm and 11-6pm on Saturdays. If you have any questions regarding Delta 8 Products, or any of our CBD products, please give us a call at (512) 386-1873.
 
