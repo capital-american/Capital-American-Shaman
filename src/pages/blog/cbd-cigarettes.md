@@ -38,4 +38,16 @@ Before purchasing CBD products, it is critical to have thorough information. The
 
 At Capital CBD, all American Shaman goods adhere to the aforementioned guidelines. All of our goods have been thoroughly tested for safety and effectiveness by a third party. You can scan the QR code on our merchandise the next time you buy with us to acquire all essential information.
 
-Capital American Shaman is Austin's best CBD store, offering a wide range of CBD products. Our CBD shop in Austin isn't your typical CBD shop. It is designed as a wellness centre to offer you a non-judgemental and learning environment while shopping for your favourite CBD products. The option of online shopping is also available at Capital CBD.
+Capital American Shaman is Austin's best CBD store, offering a wide range of CBD products. Our CBD shop in Austin isn't your typical CBD shop. It is designed as a wellness center to offer you a non-judgemental and learning environment while shopping for your favourite CBD products. The option of online shopping is also available at Capital CBD.
+
+You may want to check our ["Shaman Smokes"](https://capitalamericanshaman.com/products/cbd-cigarettes-shaman-smokes/).  They are hands down the best CBD cigarettes on the market.  
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+## CBD Cigarettes Near me?
+
+WE can help! Follow the directions below:
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3442.5441840515764!2d-97.7283884!3d30.363901699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644cb31a4fe226f%3A0x34275657f2964730!2sCapital%20CBD%20American%20Shaman!5e0!3m2!1sen!2sus!4v1667507515248!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><center/>
