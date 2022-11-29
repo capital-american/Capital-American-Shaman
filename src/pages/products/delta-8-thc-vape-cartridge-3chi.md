@@ -22,3 +22,11 @@ Delta 8 vape carts are restricted for use by individuals that are of legal smoki
 With that being said that, enjoying a delta 8 vape cart varies from consuming  via tincture or edible. Many users report Delta 8 carts provide an experience opposite of what Delta 9 THC is commonly known for.  These Delta 8 THC vape cartridges have been said to boost mood, promote calm feelings while creating energy and a motivational boost at the same time. When looking at the entire cannabis industry, it is important to note the role that hemp plants play in the greater picture. Delta 8, other hemp products, marijuana, and cannabis products.
 
 We do not have sufficient data to say anything definitively, but Delta 8 metabolites may trigger many drug tests when drug testing for Delta 9 THC metabolites. Long story short; this products will not help you pass a drug test.
+
+For a little more information on Delta 8 look [here.](https://capitalamericanshaman.com/blog/delta-8/)
+
+Our blog with some information on Delta 8 Carts can be found [here.](https://capitalamericanshaman.com/blog/delta-8-thc-vape-cartridges/)
+
+<br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/product-category/delta-8/">Take a look at our other Delta 8 Products</a></Center>
