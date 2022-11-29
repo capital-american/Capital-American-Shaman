@@ -38,3 +38,9 @@ A trace of sweet berry flavor eases forth and is likely to last after inhaling. 
 **Girl Scout Cookies Strain**
 
 Known for packing a punch, followed up by waves of relaxation. GSC will leave you feeling at ease can melt away stress. Many have described GSC to have a earth-like undertone that creates a feeling of buoyancy. The aroma basically lifts you up and then brings you to reality.
+
+For a little mor information on Delta 8 look [here.](https://capitalamericanshaman.com/blog/delta-8/)
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/product-category/delta-8/">Take a look at our other Delta 8 Products</a></Center>
