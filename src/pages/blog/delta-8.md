@@ -24,9 +24,9 @@ Delta 8 was not widely available outside of the medical marijuana industry until
 
 <br>
 
-![](/img/delta8-and-d9-thc.jpg)
+![Delta 8 vs Delta 9 Thc molecules](/img/delta8-and-d9-thc.jpg "Delta 8 vs Delta 9")
 
-### <br>
+<br>
 
 ### Entourage Effect
 
