@@ -17,9 +17,7 @@ CBN helps to tame the energetic aspects of Delta 8 THC to bring an extremely com
 
 These Comfortably Numb gummies taste like normal gummies, there is no hemp taste.  They are flavorful and downright delicious.
 
-# 3CHI Comfortably Numb Gummies 
-
-
+# 3CHI Comfortably Numb Gummies
 
 **Procuct Description:**
 
@@ -34,5 +32,11 @@ Ingredients:Glucose Syrup, Sugar, Distilled Water, Pectin, Natural and Artificia
 Extraction Material: Hemp
 
 ∆9THC Content: None detected
+
+For more information on CBN and how it works look [here.](https://capitalamericanshaman.com/blog/what-is-cbn-oil-and-how-can-it-help/)
+
+For a little more information on Delta 8 look[ here.](https://capitalamericanshaman.com/blog/delta-8/)
+
+<br>
 
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
