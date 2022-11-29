@@ -10,8 +10,6 @@ tags:
   - Products
   - Zen Master
 ---
-
-
 **Brand: Zen Master**
 
 Zen Master's Delta-8 Nano Water Soluble is a special blend of cannabinoids with high-amounts of Delta 8 to help you get the head-change you are in search of. This Delta 8 Nano Drops product comes in two sizes: 5 mL and 15 mL.
@@ -25,3 +23,9 @@ Lab results showcase the purity and potency of this product, which also includes
 This product won’t help you pass a drug test, but it will give you the natural psychoactive experience you’re craving!
 
 Delta-8 is legal in all -- except 10 -- US States
+
+For a little more information on Delta 8 look [here.](https://capitalamericanshaman.com/blog/delta-8/)
+
+<br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/product-category/delta-8/">Take a look at our other Delta 8 Products</a></Center>
