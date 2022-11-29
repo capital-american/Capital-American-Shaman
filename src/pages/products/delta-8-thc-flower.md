@@ -39,7 +39,7 @@ A trace of sweet berry flavor eases forth and is likely to last after inhaling. 
 
 Known for packing a punch, followed up by waves of relaxation. GSC will leave you feeling at ease can melt away stress. Many have described GSC to have a earth-like undertone that creates a feeling of buoyancy. The aroma basically lifts you up and then brings you to reality.
 
-For a little mor information on Delta 8 look [here.](https://capitalamericanshaman.com/blog/delta-8/)
+For a little more information on Delta 8 look [here.](https://capitalamericanshaman.com/blog/delta-8/)
 
 <br><br>
 
