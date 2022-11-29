@@ -41,6 +41,6 @@ Known for packing a punch, followed up by waves of relaxation. GSC will leave yo
 
 For a little more information on Delta 8 look [here.](https://capitalamericanshaman.com/blog/delta-8/)
 
-<br><br>
+<br>
 
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/product-category/delta-8/">Take a look at our other Delta 8 Products</a></Center>
