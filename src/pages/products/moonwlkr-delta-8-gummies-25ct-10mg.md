@@ -11,6 +11,14 @@ tags:
 ---
 **Brand: Moonwlkr**
 
+25mg Delta 8 per gummy
+
+625mg of Delta 8 per bottle
+
+Sourced from 100% legal USA hemp
+
+Lab tested for safety, purity, and potency.
+
 # About Moonwlkr Delta 8 Gummies
 
 These are potent, 25 mg Delta 8 gummies.  They came in a variety of flavors including:
