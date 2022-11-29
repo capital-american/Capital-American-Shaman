@@ -25,7 +25,7 @@ On the other hand, CBN is produced by the breakdown of THC and the content of CB
 
 Though both originate from cannabis or hemp, there is much less information on CBN currently. There is not enough research on the variety of benefits that CBN has to offer when compared to CBD. As a result, CBN is less widely available than CBD.
 
-## Benefits of CBN 
+## Benefits of CBN
 
 CBN is widely known as a sleep aid or a sedative. It is also shown to have anti-inflammatory properties and helps in pain relief.
 
@@ -44,3 +44,7 @@ Undoubtedly the best CBD store in Austin, shop a wide range of CBD and CBN produ
 Capital CBD also offers you the choice of online shopping. You can order CBN oil online if you want to shop from the comfort of your own home and we'll ship it to your address. 
 
 So what are you waiting for? Shop your favorite CBD and CBN products at the Best CBD Store in Austin!
+
+<br>
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3442.5441840515764!2d-97.7283884!3d30.363901699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644cb31a4fe226f%3A0x34275657f2964730!2sCapital%20CBD%20American%20Shaman!5e0!3m2!1sen!2sus!4v1667507515248!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><center/>
