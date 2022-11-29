@@ -16,7 +16,7 @@ Explore a wide range of delectable CBD gummies in a variety of sizes, strengths,
 
 Our spa-like store is meant to break down the stigma associated with CBD and provides our customers with a calm, tranquil environment to sample products and learn more about CBD. Shop tasty and healthy CBD gummies at the best CBD store in Austin.
 
-## Capital CBD American Shaman’s Gummies 
+## Capital CBD American Shaman’s Gummies
 
 The CBD gummies from Capital CBD are unlike any other CBD edibles in Austin. We have a variety of gummies, sweet and sour, that come in diverse fruit flavors that is sure to brighten your taste buds! As a dietary supplement, it’s a delightful way to consume terpene rich, high quality CBD Hemp Oil. Each piece is a measured dose and is easy to eat. Each gummy is infused with anywhere from 10 to 100 mg of CBD depending of the strength. 
 
@@ -24,7 +24,7 @@ Our new Nano Gummy Rings with cannabidiol from American-grown hemp is the latest
 
 Because most CBD products are not FDA approved, strength and purity can vary from brand to brand.  There can even be variance within the same brand and product from batch to batch.  This means there is not a 100% guarantee that you are getting what is on the label. That is why you always want to look for a reputable brand like American Shaman with over 400 stores nationwide, CBD American Shaman is a brand you can trust. 
 
-## Why consume CBD Gummies? 
+## Why consume CBD Gummies?
 
 Gummies are one of the most popular ways to consume CBD. CBD gummies are a perfect way to take CBD because they are precisely dosed. When you eat one, you know exactly how much CBD you're getting. This is one of the benefits of CBD gummies over other CBD edibles.
 
@@ -49,3 +49,7 @@ At our store, you can taste our sample products in a comfortable environment sur
 Capital CBD also offers you the choice of online shopping. You can order vegan or non-vegan CBD gummies online if you want to shop from the comfort of your own home. Choose the best CBD product for you, check out, and we'll ship it to your address. The relaxing gummy bears from Capital CBD are delicious and calming.
 
 So what are you waiting for? Shop your favorite CBD gummies at the Best CBD Store in Austin!
+
+<br>
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3442.5441840515764!2d-97.7283884!3d30.363901699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644cb31a4fe226f%3A0x34275657f2964730!2sCapital%20CBD%20American%20Shaman!5e0!3m2!1sen!2sus!4v1667507515248!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><center/>
