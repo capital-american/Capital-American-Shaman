@@ -15,4 +15,8 @@ If you are in search of better sleep, this combination of CBN & Delta 8 might be
 
 For more information on CBN and how it works look [here.](https://capitalamericanshaman.com/blog/what-is-cbn-oil-and-how-can-it-help/)
 
-For a little mor information on Delta 8 look[ here.](https://capitalamericanshaman.com/blog/delta-8/)
+For a little more information on Delta 8 look[ here.](https://capitalamericanshaman.com/blog/delta-8/)
+
+<br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/product-category/delta-8/">Take a look at some of our other Delta 8 Products</a></Center>
