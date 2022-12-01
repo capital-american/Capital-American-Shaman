@@ -4,6 +4,7 @@ title: CBN Gummies
 date: 2022-11-01T17:01:37.486Z
 category:
   - CBD Edibles
+  - CBG & CBN
 image: /img/cbn-gummies.jpg
 amount: 49.95
 tags:
