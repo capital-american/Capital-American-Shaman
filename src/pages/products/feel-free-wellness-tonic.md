@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Feel Free Wellness Tonic
+title: Feel Free Wellness Kava Tonic
 date: 2022-10-09T17:12:38.802Z
 category:
   - Kratom & Kava
