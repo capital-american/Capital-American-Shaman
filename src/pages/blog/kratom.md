@@ -51,3 +51,7 @@ Results from one Animal Study suggested that mitragynine, the major psychoactive
 ## Where Can I Buy Kratom In Austin TX?
 
 If you’re looking for the best place in Austin, TX to buy high quality Kratom then you have found the right store. At Capital CBD American Shaman located at 8315 Burnet Rd Ste. C Austin, Tx 78757 we are dedicated to carrying only the highest quality product available.  Instead of searching for "Kratom near me" just head on over to our store front.  All of our Kratom is sourced from farmers with decades of experience growing and harvesting the plant. Our kratom is 3rd party lab tested for purity and contain no pesticides or heavy metals.  As with any supplement we recommend you do diligent research yourself prior to implementing take any new supplements.  After you have done your research feel free to stop by and get started on a new and improved you!  Our hours are Monday through Friday 11am to 7pm and 11-6pm on Saturday. If you have any questions regarding Kratom or our CBD products, please give us a call at (512) 386-1873.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
