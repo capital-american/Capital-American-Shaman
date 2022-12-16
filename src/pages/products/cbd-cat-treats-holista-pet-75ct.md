@@ -33,7 +33,7 @@ Are you looking to find CBD cat treats from a reputable brand? HolistaPet is ont
 
 These CBD cat treats consist of the highest quality natural ingredients and never contain animal by-products, meals, corn, wheat, or artificial preservatives. No artificial colors or flavors. HolistaPet CBD Cat Treats are ideal.
 
-For more information on CBD for pets click
+For more information on CBD for pets click [here.](https://capitalamericanshaman.com/blog/cbd-oil-for-pets/)
 
 <br><br>
 
