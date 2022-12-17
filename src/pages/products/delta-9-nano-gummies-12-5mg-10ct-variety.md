@@ -1,7 +1,7 @@
 ---
 templateKey: product-post
 title: Delta 9 Nano Gummies 12.5mg - 10ct Variety
-date: 2022-12-17T00:33:04.751Z
+date: 2022-10-28T18:33:00.000Z
 category:
   - Delta 9
 image: /img/delta-9-nano-gummies.jpg
