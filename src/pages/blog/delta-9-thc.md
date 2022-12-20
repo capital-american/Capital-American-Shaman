@@ -66,7 +66,7 @@ Both CBD and Delta 9 THC are naturally present in hemp plants and offer numerous
 
 THC products can greatly improve your life since they benefit many health problems. However, finding the best THC products in Austin that comply with the law is difficult.  American Shaman products are produced using industrial hemp to offer Delta-9 through high-quality, pure, terpene-rich industrial hemp extract. You can choose products made from legal hemp that have benefits similar to cannabis products used for medical and recreational purposes.  We only carry top notch products and well vetted companies.  A number of stores skip that aspect in an attempt to increase profits.  That is not our mission.  
 
-American Shaman's non-GMO hemp is cultivated organically in the United States for all Delta 9 THC products, which are then lab-tested to guarantee potency and purity. You will undoubtedly discover a Delta 9 THC product you adore!
+American Shaman's non-GMO hemp is cultivated organically in the United States for all Delta 9 THC products, which are then lab-tested to guarantee potency and purity. You will undoubtedly discover a [Delta 9 THC product](https://capitalamericanshaman.com/product-category/delta-9/) you adore!
 
 <br>
 
