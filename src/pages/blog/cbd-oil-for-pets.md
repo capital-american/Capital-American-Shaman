@@ -2,7 +2,8 @@
 templateKey: blog-post
 title: CBD Oil For Pets
 date: 2021-03-11T22:22:37.757Z
-description: Thinking about CBD oil for your cat or dog?
+description: Thinking about how CBD oil for your cat or dog?  Check out our
+  selection at Capital American Shaman.
 featuredpost: true
 featuredimage: /img/cbd-for-pets.jpg
 tags:
@@ -44,10 +45,16 @@ Always read the labels of products that you wish to buy. Full spectrum CBD produ
 
 At Capital CBD American Shaman, all our products are third party tested for safety and quality. You can scan the QR code on our products to access all relevant information when you shop with us. 
 
-The best CBD store in Austin, shop a wide range of Hemp CBD products at Capital CBD. Our store in Austin is designed as a wellness center and is more than an ordinary CBD store. It’s hands down Austin’s #1 source for CBD products.  Check out some of our products[ here](https://capitalamericanshaman.com/products).
+The [best CBD store in Austin](https://capitalamericanshaman.com/), shop a wide range of Hemp CBD products at Capital CBD. Our store in Austin is designed as a wellness center and is more than an ordinary CBD store. It’s hands down Austin’s #1 source for CBD products.  Check out some of our products[ here](https://capitalamericanshaman.com/products).
 
 Shop a wide range of CBD products for your furry friends at Capital CBD!
 
 <br>
+
+<br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at  some of our CBD Products</a></Center>
+
+<br><br>
 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3442.5441840515764!2d-97.7283884!3d30.363901699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644cb31a4fe226f%3A0x34275657f2964730!2sCapital%20CBD%20American%20Shaman!5e0!3m2!1sen!2sus!4v1667507515248!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><center/>
