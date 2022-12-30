@@ -2,7 +2,8 @@
 templateKey: blog-post
 title: CBD Gummies
 date: 2021-03-01T12:22:50.098Z
-description: CBD gummies are an effective way to experience the benefits of CBD Oil.
+description: Shop CBD gummies in Austin Tx.  Explore an effective way to
+  experience the benefits of CBD Oil.
 featuredpost: true
 featuredimage: /img/cbd-gummy-rings.jpg
 tags:
@@ -40,7 +41,7 @@ Cannabidol or CBD supports your body’s endocannabinoid system, or ECS. This sy
 
  All American Shaman products at Capital CBD are third party tested for safety and efficacy. You can scan the QR code on our products to find all relevant details, the next time you shop with us.
 
-## Shop CBD Gummies at Capital American Shaman in Austin
+## CBD Gummies at Capital American Shaman in Austin Tx
 
 Visit the best CBD store in Austin, explore a wide range of CBD products including gummies at Capital CBD. Our store in Austin is designed as a wellness center and is more than an ordinary CBD store. It’s hands down Austin’s #1 source for CBD products. If you're looking for the best CBD Austin has to offer and you're looking for "Cbd near me," you've probably found us. Come in and browse our range of items, and let us help you create a regimen that will help you live your best life.
 
@@ -48,8 +49,12 @@ At our store, you can taste our sample products in a comfortable environment sur
 
 Capital CBD also offers you the choice of online shopping. You can order vegan or non-vegan CBD gummies online if you want to shop from the comfort of your own home. Choose the best CBD product for you, check out, and we'll ship it to your address. The relaxing gummy bears from Capital CBD are delicious and calming.
 
-So what are you waiting for? Shop your favorite CBD gummies at the Best CBD Store in Austin!
+So what are you waiting for? Shop your favorite CBD gummies at the Best [CBD Store in Austin](https://capitalamericanshaman.com/)!
 
-<br>
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at  some of our Edibles</a></Center>
+
+<br><br>
 
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3442.5441840515764!2d-97.7283884!3d30.363901699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644cb31a4fe226f%3A0x34275657f2964730!2sCapital%20CBD%20American%20Shaman!5e0!3m2!1sen!2sus!4v1667507515248!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><center/>
