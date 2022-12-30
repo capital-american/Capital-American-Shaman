@@ -2,7 +2,8 @@
 templateKey: blog-post
 title: Delta 9 THC
 date: 2022-11-11T23:26:53.188Z
-description: Delta 9 THC in Austin?  But of course...
+description: "Delta 9 THC in Austin?  Legal THC derived from hemp can be
+  purchased at your local CBD Store... "
 featuredpost: false
 featuredimage: /img/delta-9-thc-pic.jpg
 tags:
