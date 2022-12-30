@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: CBD Cigarettes
 date: 2022-05-09T19:57:12.252Z
-description: CBD  Cigarettes at Capital American Shaman
+description: CBD  Cigarettes at Capital American Shaman.  Great selection of hemp products.
 featuredpost: true
 featuredimage: /img/cbd-cigarettes.jpg
 tags:
