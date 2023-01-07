@@ -21,7 +21,7 @@ THC(Delta-9) has much more to offer than euphoria, and this article will discuss
 
 ## What is Delta 9 THC?
 
-Tetrahydrocannabinol-THC is the psychoactive component of cannabis. THC is a cannabinoid that connects with your body to control many physiological processes. THC binds to brain receptors and activates neurotransmitters that affect mood, cognition, learning, coordination, and time perception. According to research and anecdotal evidence, THC can be beneficial in treating various medical conditions. Moreover, many individuals find it great for recreational activities since it offers pleasure and calmness.
+Tetrahydrocannabinol-THC is the psychoactive component of cannabis plants. THC is a cannabinoid that connects with your body to control many physiological processes. THC binds to brain receptors and activates neurotransmitters that affect mood, cognition, learning, coordination, and time perception. According to research and anecdotal evidence, THC can be beneficial in treating various medical conditions. Moreover, many individuals find it great for recreational activities since it offers pleasure and calmness.
 
 ## How does THC Work?
 
@@ -37,7 +37,7 @@ People often choose Delta 9 THC for its psychoactive effects but as more studies
 
 ## Is Delta 9 Legal?
 
-Before 2018 THC was not allowed for consumption. But following the enactment of the 2018 United States Farm Bill, which legalized hemp and hemp products, Delta 9 hemp has been permitted on a federal level.
+Before 2018 THC was not allowed for consumption. But following the enactment of the 2018 United States Farm Bill, which legalized hemp and hemp products, Delta 9 THC derived from hemp is federally legal.  Delta 9 THC derived from Cannabis is a controlled substance.
 
 Every edible hemp product must fulfill the requirement that it must not contain more than 0.3% THC calculated on a dry weight basis to be allowed under the Farm Bill. So if you want to consume THC, remember that you can only take it in a legal circle if it has less than 0.3% THC on a dry weight basis.
 
@@ -45,13 +45,13 @@ Moreover, you should also search for authentic cannabinoid vendors that sell pro
 
 ## How to use Delta 9 THC?
 
-There are several ways to include delta-9 THC in your daily life. You will get several options, from edibles like gummies, chocolates, caramels, popcorn and honey sticks for coffee. It depends on personal preference and desired outcome of the cannabinoid. 
+There are several ways to include delta-9 THC in your daily life. You will get several options, from edibles like THC gummies, chocolates, caramels, popcorn and honey sticks for coffee. It depends on personal preference and desired outcome of the cannabinoid. 
 
 For example, if you consume an edible, it generally takes 45-90 mins for the onset of effects. On the other hand, sublingual administration of tinctures will induce the results within a few minutes.
 
-But if you want fast onset of effects even with THC edibles, look no further than American Shaman. The licensed premium cannabis products of American Shaman are made from industrial hemp. And many of them also incorporate unique nanotechnology to hasten the commencement time and deliver the appropriate psychoactive properties.
+But if you want fast onset of effects even with THC edibles, look no further than American Shaman. The premium Delta 9 products of American Shaman are made from industrial hemp. Many of them also incorporate unique nanotechnology to hasten the commencement time and deliver the appropriate psychoactive properties. 
 
-Moreover, all the THC products of American shaman come with thorough guidelines for dosing. So just by reading the labels, you can understand how much THC you can use.
+Moreover, all the THC products of American shaman come with thorough guidelines for dosing. By reading the labels, you can get an idea what amounts of THC you want to use.
 
 ## What makes CBD and Delta 9 different from one another?
 
