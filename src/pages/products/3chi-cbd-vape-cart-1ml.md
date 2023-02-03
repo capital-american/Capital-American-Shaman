@@ -1,7 +1,7 @@
 ---
 templateKey: product-post
 title: 3Chi CBD Vape Cart 1ml
-date: 2023-02-03T21:55:50.300Z
+date: 2022-11-08T22:55:00.000Z
 category:
   - CBD Vape Products
 image: /img/3chi-cbd-vape-cartridge.jpg
