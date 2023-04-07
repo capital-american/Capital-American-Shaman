@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: Lions Mane Mushrooms
 date: 2023-03-06T20:10:36.235Z
-description: Lions Mane Mushrooms have been been known to support Wellness for
-  many years.  Learn about some of the possible benefits here...
+description: Lions Mane Mushrooms have been known to support Wellness for many
+  years.  Learn about some of the possible benefits here...
 featuredpost: true
 featuredimage: /img/lions-mane.jpg
 tags:
