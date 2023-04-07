@@ -13,7 +13,7 @@ tags:
 
 # Lion's Mane Mushroom
 
- Lion's Mane mushroom, also regarded as hou tou gu/yamabushitake/Hericium erinaceus, is fascinating. Since it resembles a lion's head of hair it's called a lion's mane.
+This mushroom, also regarded as hou tou gu/yamabushitake/Hericium erinaceus, is fascinating. Since it resembles a lion's head of hair it's called a lion's mane.
 
 Despite having an attractive appearance, this mushroom also entails a long history. Traditional Chinese medicine used this mushroom for ages due to its potential medicinal benefits. 
 
