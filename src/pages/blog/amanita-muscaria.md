@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Amanita Muscaria
-date: 2023-04-14T19:52:42.759Z
+date: 2023-03-13T19:52:42.759Z
 description: Let's explore the the wonder and mystique surrounding Amanita Muscaria
 featuredpost: false
 featuredimage: /img/amanita-muscaria-mushroom.jpg
