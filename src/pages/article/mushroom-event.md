@@ -8,13 +8,25 @@ tags:
 ---
 ![](/img/mushroom-event-center.jpg)
 
-Dear Fellow Mushroom Enthusiast, <br>
+Dear Fellow Mushroom Enthusiasts, <br> 
 
-We would like to invite you to a very special mushroom event on 4/18/2023 from 3-7pm that celebrates various amazing varieties of fungi!  <br> <br>
+<br>
+
+We would like to invite you to a very special mushroom event on 4/28/2023 from 4-7pm that celebrates various amazing varieties of fungi!  <br> <br>
 
 This gathering will explore the fascinating world of mushrooms and their many benefits. Each of these mushrooms has unique characteristics that make them valuable for their medicinal properties and culinary uses.  <br> <br>
 
-Together, we will learn about the history and health benefits of these amazing mushrooms. We hope you can join us for this exciting and informative gathering dedicated to the fascinating world of fungi. <br> <br>
+Together, we will learn about the history and health benefits of these amazing mushrooms. We hope you can join us for this exciting and informative gathering dedicated to the fascinating world of fungi. <br> 
+
+<br>
+
+We will have our very own Austin based mushroom expert in store to talk about all of the new mushroom tinctures and supplements that we have to offer and to hand out a few new samples to try.  
+
+<br>
+
+So grab your friends and come on by to Capital CBD American Shaman where we can meet all of your wellness needs!
+
+<br>
 
 <br>
 
