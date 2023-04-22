@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Delta 8 gummies
 date: 2021-06-06T21:36:14.651Z
-description: "Interested in Delta 8 gummies?  Lets explore some of the possible
+description: "Interested in Delta 8 gummies?  Let's explore some of the possible
   effects of delta 8 THC.  "
 featuredpost: false
 featuredimage: /img/delta-8-thc-gummies.jpg
@@ -15,13 +15,13 @@ tags:
 
 # D﻿elta 8 gummies in Austin
 
-Products derived from hemp are increasingly becoming popular, thanks to the multitude of benefits they offer our body.  You'll find a variety of ways to consume cannabinoids, from vapes and oils to sweets like chocolate and gummies.  While CBD has been one of the most popular compounds from cannabis or hemp, a new kid on the block is increasingly becoming popular- Delta 8 THC.
+Products derived from hemp are increasingly becoming popular, thanks to the multitude of benefits they offer our body.  You'll find a variety of ways to consume cannabinoids, from vapes and oils, to sweets like chocolate and gummies.  While CBD has been one of the most popular compounds from cannabis or hemp, but there is a new kid on the block that is becoming increasingly popular, Delta-8 THC.
 
-Delta-8 THC is commonly extracted/derived from hemp as opposed to Delta-9 THC which comes from cannabis.  It's a less psychoactive and more therapeutic version of Delta-9 THC (marijuana).  Compared to Delta-9 THC, Delta8 THC is found to have a more relaxing and calming effect on the body.  Delta-8 THC can be consumed in a variety of ways and gummies are one of the most popular in the list.  Delta-8 gummies come in a variety of flavors and is one of the easiest and most effective ways to ingest Delta-8 THC. 
+Delta-8 THC is commonly extracted/derived from hemp as opposed to Delta-9 THC which comes from cannabis.  It's a less psychoactive and more therapeutic version of Delta-9 THC (marijuana).  Compared to Delta-9 THC, Delta8 THC is found to have a more relaxing and calming effect on the body.  Delta-8 THC can be consumed in a variety of ways, and gummies are one of the most popular in the list.  Delta-8 gummies come in a variety of flavors and is one of the easiest and most effective ways to ingest Delta-8 THC. 
 
 ## What are the potential benefits of Delta-8 gummies?
 
-Delta 8 THC has been shown in studies to lower anxiety, relax the body's stress response, boost mood and motivation, boost appetite, and in many cases provide pain relief.
+Delta-8 THC has been shown in studies to lower anxiety, relax the body's stress response, boost mood and motivation, boost appetite, and in many cases provide pain relief.
 
 •	Anti-nauseant properties
 
