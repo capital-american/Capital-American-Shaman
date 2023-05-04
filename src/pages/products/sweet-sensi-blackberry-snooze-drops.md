@@ -4,7 +4,7 @@ title: Sweet Sensi  Blackberry Snooze Drops
 date: 2023-05-04T21:11:13.110Z
 category:
   - CBD Edibles
-image: /img/1836-kratom-fighters-full-potential.jpg
+image: /img/sweet-sensi-snooze-drops.jpg
 amount: 49.99
 tags:
   - CBD Edibles
