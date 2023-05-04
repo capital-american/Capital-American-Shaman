@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Sweet Sensi  Blackberry Snooze Drops
+title: Sweet Sensi  Blackberry Snooze Drops 30ct
 date: 2023-05-04T21:11:13.110Z
 category:
   - CBD Edibles
