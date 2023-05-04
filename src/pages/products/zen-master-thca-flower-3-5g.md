@@ -9,4 +9,4 @@ amount: 39.99
 tags:
   - THCa
 ---
-THCa Flower
+**Brand: Zen Master**
