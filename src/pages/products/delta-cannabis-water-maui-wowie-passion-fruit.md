@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: DELTA Cannabis Water | Maui Wowie Passion Fruit
+title: DELTA Cannabis Water | Maui Wowie Passion Fruit (25mg)
 date: 2023-05-05T18:54:50.518Z
 category:
   - Delta 9
