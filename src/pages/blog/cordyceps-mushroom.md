@@ -18,6 +18,8 @@ featuredimage: /img/cordyceps.jpg
 tags:
   - Mushroom
 ---
+![](/img/cordyceps.jpg)
+
 ## What are Cordyceps mushrooms?
 
 Cordyceps are a type of fungus that has been used in Traditional Chinese Medicine for centuries. Cordyceps grow naturally in the wild but can also be cultivated in laboratories.
