@@ -4,7 +4,6 @@ title: Enjoy Live Rosin Gummies | 40ct(15mg)
 date: 2023-05-05T20:24:05.418Z
 category:
   - Delta 9
-  - Edibles
 image: /img/enjoy-live-rosin-gummies-40ct.jpg
 amount: 69.99
 tags:
