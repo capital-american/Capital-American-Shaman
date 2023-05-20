@@ -18,7 +18,7 @@ With its low sugar content and natural ingredients, Odyssey sparkling mushroom e
 
 Overall, Odyssey sparkling mushroom elixir is more than just a drink, it is a wellness tonic that can nourish both the body and mind.
 
-Cordyceps and lion’s mane extract can invigorate the mind, body, and spirit, providing the same benefitsof caffeine without experiencing a crash.
+Cordyceps and lion’s mane extract can invigorate the mind, body, and spirit, providing the same benefits of caffeine without experiencing a crash.
 
 Rich in nootropics, these adaptogenic fungi boost cognitive function and increase clarity and focus while each unique flavor is sure to indulge the senses.
 
