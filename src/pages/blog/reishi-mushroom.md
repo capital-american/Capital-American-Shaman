@@ -11,6 +11,8 @@ featuredimage: /img/reishi-mushroom.jpg
 tags:
   - Mushroom
 ---
+![](/img/reishi-mushroom.jpg)
+
 ## Physical Appearance
 
 **Cap:**  Reishi mushrooms have a large, woody cap, typically flat or slightly convex. The cap can be kidney-shaped to fan-shaped, with a shiny and smooth surface.
