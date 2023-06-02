@@ -11,9 +11,9 @@ tags:
 ---
 HEMP-DERIVED DELTA-8 INFUSED THC SELTZER.
 
-D8 Seltzer is a delicious and refreshing way to experience the benefits of Delta-8 THC.
+D8 Seltzer is a delicious and refreshing way to experience the benefits of delta-8 THC.
 
-With 20mg of Delta-8 THC and 5mg of CBD per can, these drinks offer a range of potential benefits to consumers, such as reduced anxiety, pain relief, and improved sleep quality.
+With 20mg of delta-8 THC and 5mg of CBD per can, these drinks offer a range of potential benefits to consumers, such as reduced anxiety, pain relief, and improved sleep quality.
 
 These delta-8 THC drinks come in four fruity flavors:
 
