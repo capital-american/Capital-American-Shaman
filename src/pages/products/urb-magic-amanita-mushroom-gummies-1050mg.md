@@ -12,7 +12,7 @@ tags:
 ---
 ## Experience Amanita Mushrooms with these edibles.
 
-Urb Magic Amanita Mushroom Gummies are a unique and fascinating addition to the world of edible mushrooms.  Amanita Magic Mushroom; commonly known as the fly agaric or fly amanita.  It is native throughout the temperate and boreal regions of the Northern Hemisphere.
+Urb Magic Amanita Mushroom Gummies are a unique and fascinating addition to the world of edible mushrooms.  Amanita Magic Mushroom; commonly known as the fly agaric or fly amanita is native throughout the temperate and boreal regions of the Northern Hemisphere.
 
 These gummies are infused with the natural psychoactive compounds found in the amanita mushroom, which has been used for centuries in spiritual and shamanistic traditions.  These mushroom gummies provide a feeling of euphoria, invincibility, tranquility, changes in your sensory perception and vivid dreams. Become a social butterfly with the calming and euphoric effect of the Urb Amanita Magic Mushroom Gummies.
 
