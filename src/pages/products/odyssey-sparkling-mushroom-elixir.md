@@ -7,6 +7,7 @@ category:
 image: /img/odyessy-mushroom-drinks.jpg
 amount: 5.99
 tags:
+  - Products
   - Mushroom
   - Energy
 ---
