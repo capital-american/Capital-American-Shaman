@@ -1,7 +1,7 @@
 ---
 templateKey: product-post
 title: 500 Topical Cream
-date: 2022-10-11T10:37:31.303Z
+date: 2023-06-15T22:52:47.042Z
 category:
   - CBD Lotions, Creams and Topicals
 image: /img/500-topical-cream.jpg
