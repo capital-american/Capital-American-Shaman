@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Signature Collection Topical Cream
+title: Signature Collection Topical Cream| 1,000mg
 date: 2022-10-31T22:34:17.200Z
 category:
   - CBD Lotions Creams and Topicals
