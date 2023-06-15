@@ -1,7 +1,7 @@
 ---
 templateKey: product-post
 title: 250 Topical Cream
-date: 2022-10-11T11:08:42.328Z
+date: 2023-06-15T22:52:25.911Z
 category:
   - CBD Lotions, Creams and Topicals
 image: /img/cbd-store-topical-cream-250ml.webp
