@@ -1,7 +1,7 @@
 ---
 templateKey: product-post
 title: Topical Serum (15mL)
-date: 2022-10-29T18:31:54.021Z
+date: 2023-06-15T22:53:07.273Z
 category:
   - CBD Lotions Creams and Topicals
 image: /img/topical-serum.jpg
