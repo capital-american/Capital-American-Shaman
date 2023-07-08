@@ -8,6 +8,7 @@ image: /img/delta-8-cloud-tincture.jpg
 amount: 69.99
 tags:
   - Products
+  - Delta 8
 ---
 **Brand: Zen Master**
 
