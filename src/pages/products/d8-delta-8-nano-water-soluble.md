@@ -9,6 +9,7 @@ amount: 49.99
 tags:
   - Products
   - Zen Master
+  - Delta 8
 ---
 **Brand: Zen Master**
 
