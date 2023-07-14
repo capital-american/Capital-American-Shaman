@@ -26,17 +26,11 @@ These gummies are infused with the natural psychoactive compounds found in the a
 
 ### Product Information
 
-3 Gummies Per Pack
+3 gummies per pack
 
-2 different flavors to choose from Mango Mania & Watermelon
+2 different flavors Mango Mania & Watermelon
 
-350mg Active MG
-
-May diminish anxiety and depression
-
-May rest and restore natural sleep cycle
-
-May restore a sense of wellness within body
+350 active mg
 
 2:1:1 ratio (Muscimol, Ibotenic Acid, Muscarine)
 
