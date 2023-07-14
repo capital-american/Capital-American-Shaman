@@ -3,12 +3,12 @@ templateKey: product-post
 title: "Amanita Magic Mushroom Gummies | 2250MG "
 date: 2023-06-09T20:32:27.085Z
 category:
-  - Mushrooms
+  - Mushroom
 image: /img/amanita-gummies-enhanced-potency.jpg
 amount: 20.99
 tags:
   - Products
-  - Mushrooms
+  - Mushroom
   - Edibles
 ---
 # **About Urb 750mg Amanita Gummies**
