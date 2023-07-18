@@ -1,7 +1,7 @@
 ---
 templateKey: product-post
 title: Irene’s Good Night | 4oz Kratom
-date: 2022-10-10T20:09:46.374Z
+date: 2022-10-09T20:09:46.374Z
 category:
   - Kratom
 image: /img/irenes-good-night.jpg
