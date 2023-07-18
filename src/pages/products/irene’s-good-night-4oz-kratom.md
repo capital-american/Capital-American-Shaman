@@ -3,7 +3,7 @@ templateKey: product-post
 title: Irene’s Good Night | 4oz Kratom
 date: 2022-10-09T20:09:46.374Z
 category:
-  - Kratom
+  - Kratom & Kava
 image: /img/irenes-good-night.jpg
 amount: 34.99
 tags:
