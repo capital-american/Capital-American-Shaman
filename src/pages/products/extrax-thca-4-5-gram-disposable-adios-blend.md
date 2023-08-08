@@ -8,8 +8,7 @@ image: /img/4.5-gram-thca-disposable.jpg
 amount: 55.99
 tags:
   - THCA
-  - Delta9
-  - ""
+  - Products
 ---
 ![](/img/4.5-gram-thca-disposable.jpg)
 
