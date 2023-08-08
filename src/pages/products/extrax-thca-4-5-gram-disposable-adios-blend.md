@@ -10,17 +10,13 @@ tags:
   - THCA
   - Products
 ---
-![](/img/4.5-gram-thca-disposable.jpg)
+![]()
 
 # **About Extrax’s 4.5 Gram THCa Disposable**
-
-
 
 Say "ADIOS!" to stress, anxiety, and more with these unique pens. Each awesome pen features an intense blend of THCa, Delta-9P THC, THC-X, HXY-10 THC, HXY-8 THC, and Live Resin.
 
 You're sure to be on cloud 9 with these vapes! Try each of the 7 strains!
-
-
 
 ### THOR'S HAMMER *(SATIVA)*
 
@@ -33,8 +29,6 @@ Ghost Train Haze is a Sativa strain with a bright citrus and floral flavor profi
 ### POWER PLANT *(SATIVA)*
 
 Power Plant is an uplifting Sativa strain. The earthy flavor notes pair well with the intensely euphoric experience.
-
-
 
 ### ALIEN COOKIES *(HYBRID)*
 
@@ -51,12 +45,6 @@ Grandmommy Purple is an intensely mellow Indica strain. If you're looking for a 
 ### JELLY SHERBET *(INDICA)*
 
 Jelly Sherbet is a rare Indica strain. This fruity-tasting pen is perfect for the ultimate relaxing treat at the end of a long day.
-
-
-
-
-
-
 
 ### PRODUCT SPECIFICATIONS
 
