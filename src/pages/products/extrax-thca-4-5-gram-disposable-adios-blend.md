@@ -10,8 +10,6 @@ tags:
   - THCA
   - Products
 ---
-![]()
-
 # **About Extrax’s 4.5 Gram THCa Disposable**
 
 Say "ADIOS!" to stress, anxiety, and more with these unique pens. Each awesome pen features an intense blend of THCa, Delta-9P THC, THC-X, HXY-10 THC, HXY-8 THC, and Live Resin.
