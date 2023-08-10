@@ -11,7 +11,7 @@ tags:
   - Edible
   - Drinks
 ---
-#  ** About Barney’s Botanicals Delta 9 THC Syrup**
+## About Barney’s Botanicals Delta 9 THC Syrup
 
 Barney's Botanicals Delta-9 syrups are high-quality hemp-infused drink additives that offer a convenient and versatile way to consume THC. These syrups are crafted using premium ingredients and are carefully infused with nano-sized delta-9 THC, a psychoactive compound found in hemp known for its euphoric effects.
 
