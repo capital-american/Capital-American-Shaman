@@ -29,4 +29,6 @@ These syrups are easily incorporated into lots of things including cocktails, mo
 
 ***Tropical Punch***
 
+Each bottle contains 420mg of D-9 THC with a suggested serving size of 1 Tsp (28mg D-9 THC).
+
 All of Barney’s Botanicals products use hemp sourced from the USA and utilize third-party testing to ensure every product is up to the standards you deserve.
