@@ -16,7 +16,7 @@ Experience a new horizon in hemp-based products with the American Shaman **THCa 
 
 #### What is THCa?
 
-Tetrahydrocannabinolic acid (THCa) is a non-psychoactive compound found in cannabis. However, when heated, it undergoes a process called decarboxylation and converts to the psychoactive compound THC.
+Tetrahydrocannabinolic acid (THCa) is a non-psychoactive compound found in hemp. However, when heated, it undergoes a process called decarboxylation and converts to the psychoactive compound THC.
 
 Our pre rolls combine top-shelf CBD or CBG flower with THCa diamonds, creating a synergistic effect that many users find is about twice as potent as the listed percentages suggest.
 
