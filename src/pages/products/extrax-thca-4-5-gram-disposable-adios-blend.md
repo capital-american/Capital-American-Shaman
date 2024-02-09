@@ -3,7 +3,7 @@ templateKey: product-post
 title: Extrax THCa 4.5 Gram Disposable | Adios Blend
 date: 2022-10-28T20:17:36.946Z
 category:
-  - THCA
+  - THCa
 image: /img/4.5-gram-thca-disposable.jpg
 amount: 55.99
 tags:
