@@ -18,3 +18,9 @@ All of their gummies contain a 5:1 CBD to THC ratio. With an approximate target 
 If you’re totally new to cannabis or someone who is looking for a mellow re-entry point, this product was developed with you in mind.
 
 **Try all three flavors:** *Watermelon, Lemon and Strawberry.*
+
+
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
