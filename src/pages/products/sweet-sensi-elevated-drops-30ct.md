@@ -5,7 +5,7 @@ date: 2022-11-22T20:40:21.666Z
 category:
   - Delta 9
 image: /img/sweet-sensi-elevated-gum-drops.jpg
-amount: 69.99
+amount: 62.99
 tags:
   - Produts
 ---
