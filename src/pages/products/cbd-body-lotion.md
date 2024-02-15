@@ -20,3 +20,7 @@ tags:
 **INGREDIENTS:** Cocoa Butter, Shea Butter, Cocoa Oil, Shea Oil, Apricot Oil, Aloe Vera, Soy Lecithin, Coconut Oil, Grape Oil, Sweet Almond Oil, MCT Oil, CBD & Terpene Rich Hemp Oil, Avocado Oil, Lavender Oil, Vitamin A, D, and E Oil.
 
 NOT TESTED ON ANIMALS
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
