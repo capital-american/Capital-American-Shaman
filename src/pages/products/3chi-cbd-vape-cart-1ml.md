@@ -81,4 +81,8 @@ If you’re looking for the best place in Austin Texas to buy CBD vapes or any p
 
 Come in today and get started on a new, healthier you! Our hours are Monday thru Saturday, 10am – 7pm and Sunday 11am – 6pm. If you have any questions regarding Nano CBD, or any of our CBD products, please give us a call at (512) 386-8190.
 
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
 <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3442.5441840515764!2d-97.7283884!3d30.363901699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644cb31a4fe226f%3A0x34275657f2964730!2sCapital%20CBD%20American%20Shaman!5e0!3m2!1sen!2sus!4v1667507515248!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><center/>
