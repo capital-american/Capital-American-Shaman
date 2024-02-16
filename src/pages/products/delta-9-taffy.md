@@ -33,3 +33,7 @@ Other names people call these are things like weed taffy, cannabis infused taffy
 * Farm Bill 2018 Compliant = <0.3% Delta 9 THC
 * Industrial Hemp Derived
 * Legal & Compliant in all 50 States!
+
+  <br><br>
+
+  <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
