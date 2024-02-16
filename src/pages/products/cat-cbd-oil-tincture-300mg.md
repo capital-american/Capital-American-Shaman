@@ -15,8 +15,7 @@ tags:
 
 **Serving Size:** (mL measure is on dropper)
 
-1lb. to 8lb. Cat = .125mL 9lb. to 15lb. Cat = .25mL
-16lb. & over Cat = .375mL
+1lb. to 8lb. Cat = .125mL 9lb. to 15lb. Cat = .25mL 16lb. & over Cat = .375mL
 2X Daily
 
 **What is cat CBD oil?**
@@ -38,3 +37,7 @@ CBD oil for cats has the same ingredients as CBD oil for humans.  The difference
 **Can I give my cat CBD along with other medications?**
 
 CBD oil for cats is not known to cause any issues when combined with other medications, however, you should make sure to consult your veterinarian just in case to make sure your cat won’t experience any issues. They will be able to provide a more personalized professional opinion customized for your pet.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
