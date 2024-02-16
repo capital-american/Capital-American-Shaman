@@ -19,4 +19,8 @@ tags:
 
 **Strength:** 250mg (25mg per gummy)
 
-**Usage:** Take 1 gummy for a full serving of CBD or as needed. Ingredients: Corn Syrup, Pectin, Citric Acid, Dextrose Sodium Acetate, Natural Flavoring and Sugar
+**Usage:** Take 1 gummy for a full serving of CBD or as needed. Ingredients: Corn Syrup, Pectin, Citric Acid, Dextrose Sodium Acetate, Natural Flavoring and Sugar.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
