@@ -16,3 +16,7 @@ These CCELL vape cartridges come with 500mg of Proleve's finest hemp-derived CBD
 **Ingredients:** High-quality CBD, triple distilled MCT (fractionated coconut oil) and natural Strawberry Lemonade flavoring.
 
 \*Contains ZERO THC\*
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
