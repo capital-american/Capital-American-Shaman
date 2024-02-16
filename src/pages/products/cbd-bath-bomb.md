@@ -9,8 +9,6 @@ amount: 14.99
 tags:
   - Products
 ---
-
-
 **Brand: American Shaman**
 
 **MADE IN USA:** Treat your mind, body, and spirit. Indulge yourself with our new cbd bath bombs, made with nature’s best ingredients for maximum wellness. Several to choose from, Lavender/Lilac, Tea Tree/Mint, and Oatmeal.
@@ -24,3 +22,7 @@ A CBD bath bomb creates a relaxing bath experience with the calm scent and peace
 **Are CBD bath bombs effective?**
 
 According to the American Academy of Dermatology, CBD bath bombs and salts are effective in promoting healthy and clear skin. A CBD bath bomb is also effective in providing relaxation due to the soothing effects of the CBD oil. This increased relaxation can improve health and help reduce pain.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
