@@ -18,3 +18,7 @@ Each 3oz container of roll on contains 2000mg of the finest hemp-derived broad s
 **Ingredients**
 
 Water, \*Alcohol, Daikon Radish Oil, Witch Hazel Distillate, Menthol, Carbomer, Industrial Hemp, Glycerin, Triethanolamine, \*Olive Oil, \*Arnica Flower Infusion, \*Aloe Vera Powder, Pine Scotch Essential Oil, Spearmint Essential Oil, Lemongrass Essential Oil, Eucalyptus Essential Oil, Peppermint Essential Oil, White Camphor Essential Oil, Neem Extract, Ivy Gourd Extract, Eggplant Extract, Aloe Extract, Tulsi Extract, Basil Extract, Turmeric Root Extract, Seaweed, Tetrasodium Glutamate Diacetate, Phenoxyethanol
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
