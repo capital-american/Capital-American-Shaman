@@ -24,3 +24,7 @@ So, just as with our human line of products, we use the best of ingredients for 
 2X Daily
 
 **Ingredients:** CBD Terpene Rich Industrial Hemp Oil, Medium Chain Triglyceride Oil from Coconut Oil. Successfully Tested on Humans.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
