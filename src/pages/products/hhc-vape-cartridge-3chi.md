@@ -21,11 +21,11 @@ Most HHC users report euphoric, relaxing, mind and body effects similar to Delta
 
 **Servings per Vape Cartridge:** varies depending on the size of puffs
 
-**Coil:**Ceramic
+**Coil:** Ceramic
 
-**Tank:**Polycarbonate
+**Tank:** Polycarbonate
 
-**Ingredients:**Broad Spectrum HHC oil and strain-specific terpenes of your choice.
+**Ingredients:** Broad Spectrum HHC oil and strain-specific terpenes of your choice.
 
 ## HHC Vape Cartridge Directions
 
@@ -39,6 +39,10 @@ Do not use if pregnant, nursing, or if you have any diagnosed or undiagnosed hea
 
 ## What is HHC?
 
-HHC is an acronym for Hexahydrocannabinol. It is one of around 113 cannabinoids and shares some similarites with Delta 8 THC. While it is found naturally within the hemp plant, it is found in only trace amounts. This means it needs to be made in a lab by skilled chemists for a sizable amount to place in products or to test scientifically. However, HHC doesn’t contain THC. Therefore, at no point in the process does the product go over 0.3 percent Delta 9 THC. There is no conflict between HHC and the [Farm Bill](https://www.congress.gov/bill/115th-congress/house-bill/2/text).
+HHC is an acronym for Hexahydrocannabinol. It is one of around 113 cannabinoids and shares some similarities with Delta 8 THC. While it is found naturally within the hemp plant, it is found in only trace amounts. This means it needs to be made in a lab by skilled chemists for a sizable amount to place in products or to test scientifically. However, HHC doesn’t contain THC. Therefore, at no point in the process does the product go over 0.3 percent Delta 9 THC. There is no conflict between HHC and the [Farm Bill](https://www.congress.gov/bill/115th-congress/house-bill/2/text).
 
 For more information on HHC check out our blog on this cannabinoid [here. ](https://capitalamericanshaman.com/blog/what-is-hhc/)
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
