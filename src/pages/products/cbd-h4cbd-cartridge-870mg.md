@@ -31,3 +31,7 @@ Try all 4 great-tasting strains:**
 These cartridges are designed to deliver a potent and relaxing experience with each puff. If you are looking for a top-quality CBD vape cartridge, American Shaman’s CBD + H4CBD is a great choice.
 
 H4CBD is currently legal in all states, as it is not listed as a controlled substance under federal law. However, users should always check their local laws and regulations before purchasing or using any cannabis-derived products.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
