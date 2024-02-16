@@ -20,3 +20,7 @@ Enjoy the benefits of live resin without smoking.  Delta-9 live resin is a canna
 It’s simple: the goal is to bring a convenient and enjoyable form of cannabis consumption to the masses. 
 
 Give this delta-9 THC drink a try today!
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
