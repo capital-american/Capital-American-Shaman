@@ -35,3 +35,7 @@ These gummies are infused with the natural psychoactive compounds found in the a
 2:1:1 ratio (Muscimol, Ibotenic Acid, Muscarine)
 
 With Urb Magic Amanita Mushroom Gummies, users can experience a journey of self-discovery and inner peace, exploring the depths of their own consciousness and connecting with the natural world around them.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
