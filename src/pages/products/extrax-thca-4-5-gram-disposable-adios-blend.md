@@ -55,3 +55,7 @@ Rechargeable
 NOT Refillable
 
 Disposable
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
