@@ -32,3 +32,7 @@ Recommended Use:**
 *Do not take more than 2 gummies in one-sitting.*
 
 *Edibles take about 90 minutes to kick in so start slow.*
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
