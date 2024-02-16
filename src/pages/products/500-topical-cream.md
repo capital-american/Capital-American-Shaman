@@ -14,3 +14,7 @@ tags:
 **Directions:** Use a drop or two of our CBD Topical Cream. A small amount spreads like crazy! Pat onto affected area and see a difference in a matter of days. Nature’s secret is at your finger tips.
 
 **Ingredients:** Vegetable Glycerin, Lanolin, Aloe Vera Gel, DMSO, CBD and Terpene Rich Hemp Oil Concentrate, Vitamin A, D, & E Oil. Natural ingredients may cause color variations. Refrigerate for longer shelf life.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
