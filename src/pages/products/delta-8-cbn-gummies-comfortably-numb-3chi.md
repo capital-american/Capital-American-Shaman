@@ -1,41 +1,44 @@
 ---
 templateKey: product-post
-title: Delta 8 + CBN Gummies Comfortably Numb - 3Chi
-date: 2022-11-19T20:34:19.391Z
+title: 3CHI True Strains Gummies – Comfortably Numb 64mg
+date: 2024-02-16T21:49:39.840Z
 category:
   - Delta 8
-image: /img/3chi-d8-comfortably-numb-gummies.jpg
-amount: 29.99
+image: /img/3chi-comfortably-numb-true-strains-gummies.png
+amount: 39.99
 tags:
   - Products
+  - Delta 8
+  - CBN
+  - Edible
 ---
-**Brand: 3CHI**
+# **A﻿bout 3CHI Comfortably Numb Gummies**
 
-Comfortably Numb gummies are infused at a potent 1:1 blend of Delta 8 THC and CBN at 25mg combined (12.5mg each) in each gummy as well as added CBC for maximum effects. Thes gummies come in packs of 16 (400mg total). 
+Ease into a state of Comfortably Numb. 
 
-CBN helps to tame the energetic aspects of Delta 8 THC to bring an extremely comfortable and calming body-focused feeling. This blend is perfect for peaceful relief and taking it easy.  
+These 64mg Indica gummies are designed for deep relaxation and tranquility. Ideal for evening use, they help soothe your senses and calm your mind, leading you to a place of peaceful contentment. 
 
-These Comfortably Numb gummies taste like normal gummies, there is no hemp taste.  They are flavorful and downright delicious.
+**Cannabinoids:** CBN, Delta 8 THC, CBC, CBD, Delta 4(8), Delta 8-ISO, Delta 11 THC, Delta 8 THCv, CBG, CBT, Delta 9 THCv
 
-# 3CHI Comfortably Numb Gummies
+CBN helps to tame the energetic aspects of Delta 8 THC to bring an extremely comfortable and calming body-focused feeling. This blend is perfect for peaceful relief and taking it easy. 
 
-**Procuct Description:**
+**This version of Comfortably Numb gummies is double the potency of the original Comfortably Numb gummies. If you are converting from the classic gummies, take half the dose you normally take of the originals.** 
 
-Total-Content Per Pack: 200mg (100 mg Delta 8:100 mg CBN) or 400mg (200 mg Delta 8:200 mg CBN)
+*2﻿0 gummies per package*
 
-Content Per Gummy: 25mg (12.5 mg Delta 8:12.5 mg CBN) Gummies per Pack: 8 or 16
+*64mg total cannabinoids per gummy*
 
-Container: Resealable mylar bags
+*1﻿280mg total per package*
 
-Ingredients:Glucose Syrup, Sugar, Distilled Water, Pectin, Natural and Artificial Flavors, Natural and Artificial Colors, Citric Acid, Hemp Oil, Sodium Citrate
+*Potent & long-lasting*
 
-Extraction Material: Hemp
+*Vegan & cruelty-free*
 
-∆9THC Content: None detected
+*Derived from USA-grown hemp*
 
-For more information on CBN and how it works look [here.](https://capitalamericanshaman.com/blog/what-is-cbn-oil-and-how-can-it-help/)
+*Farm Bill Compliant: <0.3% Delta 9 THC*
 
-For a little more information on Delta 8 look[ here.](https://capitalamericanshaman.com/blog/delta-8/)
+.
 
 <br>
 
