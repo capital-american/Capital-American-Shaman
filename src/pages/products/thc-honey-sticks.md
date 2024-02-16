@@ -31,3 +31,7 @@ tags:
 **Strength:** 10mg of Delta 9 THC (Derived from Industrial Hemp) & 10mg of CBD per honey stick (Serving size 1/2 honey stick = 5mg of D9 & 5mg of CBD)
 
 **Ingredients:** Honey, Hemp Extract (Aerial Parts), Cannabidiol, Cannabigerol, Polysorbate 80, Olive Oil, Medium Chain Triglyceride Oil (Coconut), Vegetable Glycerin, a-Bisabolol, Terpineol, a-Pinene, Limonene, B-Caryophyllene, Linalool, Humulene, Delta 9 Tetrahydrocannabinol (Derived from Industrial Hemp)
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
