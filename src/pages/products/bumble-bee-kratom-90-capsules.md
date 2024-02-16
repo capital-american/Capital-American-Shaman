@@ -32,3 +32,7 @@ While this variety can potentially provide temporary relief for chronic pain or 
 ### Gold Vein Kratom:
 
 Gold Kratom is one of the most sought after strains because of its unique properties, which is its ability to attend to a large range of issues from pain to stress to focus. The gold strain will have a slight energy boost, while also having euphoric qualities and having some of the analgesic properties of a typical Red Vein.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
