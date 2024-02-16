@@ -22,3 +22,7 @@ tags:
 50 to 99lb. Dog = .75mL 
 
 100 to 200lb. Dog = 1mL 2X Daily
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
