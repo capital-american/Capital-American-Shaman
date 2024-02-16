@@ -20,3 +20,7 @@ tags:
 **Serving Per Container:** 30 (for 30mL) or 5 (for 5mL)
 
 **Strength:** 4mg
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
