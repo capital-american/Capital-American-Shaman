@@ -31,3 +31,7 @@ An oneirogen is a substance that induces or enhances dreamlike states of conscio
 Overall, this amanita muscaria elixir is a powerful and effective natural remedy that has been used for generations to promote health and wellness.
 
 **AVOID CARBONATED DRINKS BEFORE, DURING AND AFTER USING!**
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
