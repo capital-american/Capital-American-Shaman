@@ -18,3 +18,7 @@ Availible in with Lemon flavoring or without.
 **Ingredients:** Purified Water by reverse osmosis, Concentrated Cannabinoid and Terpene Rich Hemp Oil, Berry Saponin Extract, and Citric Acid. Please note that natural ingredients may cause color variations.
 
 **Serving size:** 1/2 mL to 1mL (mL measure is on the dropper)
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
