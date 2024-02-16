@@ -36,3 +36,7 @@ Delta-9 THC is the cannabinoid most known for the euphoric high that comes with 
 **Ingredients:** Sugar, Tapioca Syrup, Water, Pectin, Natural Flavors, Hemp Extract, Citric Acid, Natural Fruit Flavors, Natural Colors, and Terpenes.
 
 **Directions:** We recommend starting with half of a gummy and waiting 90 minutes before considering taking more. Do not take more than 2 gummies in one sitting. Edibles can take about 90 minutes to kick in, so it's important to start slow.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
