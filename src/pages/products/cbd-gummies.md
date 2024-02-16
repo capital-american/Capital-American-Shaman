@@ -18,3 +18,7 @@ Size: 30 Pieces per container Serving Size: 2 pieces per day
 Strength: 30 gummies @ 10mg per piece = 300 mg of CBD per container Usage: As a Dietary Supplement
 
 Ingredients: Glucose Syrup (from Wheat or Corn), CBD from Hemp Oil Concentrate, Sugar, Gelatin, Dextrose, Citric Acid, Corn Starch, Artificial and Natural Flavors, Palm Kernel Oil, Carnauba Wax, White Beeswax, Yellow Beeswax, Yellow 5, Red 40, Blue 1
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
