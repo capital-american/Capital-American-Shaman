@@ -50,3 +50,7 @@ Begin with ¼ of a gummy and wait at least 45 minutes to feel the effects before
 100mg Holy basil per piece
 
 25mg CBD (Broad Spectrum)
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
