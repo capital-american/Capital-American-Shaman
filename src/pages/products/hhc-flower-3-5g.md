@@ -9,8 +9,6 @@ amount: 29.99
 tags:
   - Products
 ---
-
-
 **Brand: Zen Master**
 
 Zen Master's HHC Flower will be the new favorite for sativa lovers. This flower can provide a bit of focus, energy and euphoric effects that tend to had around.  In many ways it can even compete with Delta 9 flower experiences.
@@ -36,3 +34,7 @@ Green Crack tends to be energizing and and creates a dynamic duo with HHC. It is
 Strawberry cough is a well sought-after sativa strain that users fall in love with its fruity flavor. While we can't promise you'll get a joint full of fruit, it's uplifting, cerebral and will create an energetic experience to get you going.
 
 Our flower contains hemp-derived cannabinoids sourced from industrial hemp plants. All products are federal Farm Bill compliant. All HHC flower undergoes our standard process to ensure quality and effectiveness. HHC flower, along with all other products, are tested internally for quality assurance and then are third-party lab tested.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
