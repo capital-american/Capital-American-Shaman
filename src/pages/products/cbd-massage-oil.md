@@ -16,3 +16,7 @@ tags:
 **Scents:** Lavender, Palo Santo, Tea Tree, and Natural
 
 **INGREDIENTS:** Sweet Almond Oil, Hemp Extract, Apricot Oil, MCT, CBD Oil, Essential Oils.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
