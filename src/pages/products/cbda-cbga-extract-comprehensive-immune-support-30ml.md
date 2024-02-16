@@ -32,3 +32,7 @@ This blend of CBDA, CBD, CBGA & CBG cannabinoids comes along with Vitamin D, Vit
 **Usage:** Take 0.5mL (1/2 dropperful) in liquid 2X daily or as needed. Do not exceed suggested use.
 
 **Ingredients:** supplement Ingredients: Vitamin C (as ascorbic acid), Vitamin D (as cholecalciferol),  Zinc (as gluconic acid), Cannabigerolic Acid, Cannabidiolic Acid, Cannabigerol, Cannabidiol (Hemp Extract (Aerial Parts) Cannabidiol) Other Ingredients: Pharmaceutical Grade Water, Polysorbate 20, Medium Chain Triglyceride Oil (Coconut), Natural Peppermint Flavor, Natural Flavors, Sorbitan Monostearate.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
