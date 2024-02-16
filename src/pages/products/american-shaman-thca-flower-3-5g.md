@@ -34,3 +34,7 @@ THCa flower is produced by hydroponic growers who use a special enzyme in the nu
 Our THCa flowers are encased in nitrogen-flushed containers, ensuring unparalleled freshness and preservation of aroma and flavor.
 
 Whether you're a connoisseur or new to THCa flowers, our range caters to all, offering an array of sensory experiences to explore and enjoy.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
