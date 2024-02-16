@@ -24,11 +24,12 @@ If you would like a more in depth breakdown of THC-V, please check out our blog 
 
 ***10mg THCV + 500mg Apple Cider Vinegar*** 
 
-
 ***Zero THC***
-
 
 ***Sourced from 100% legal USA hemp***
 
-
 ***Lab tested for safety, purity, and potency***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
