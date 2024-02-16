@@ -40,3 +40,7 @@ Research has shown that THCP binds to CB1 receptors up to 33 times more often th
 Each Enjoy Hemp product is made from Hemp-Derived Delta-9 THC under .3% Delta-9 THC on a dry weight basis making it legal under the 2018 Farm Bill.
 
 **DIRECTIONS: DO NOT TAKE THIS PRODUCT UNLESS YOU HAVE A VERY HIGH TOLERANCE FOR THC. TAKE 1/4-1/2 OF A GUMMY AND WAIT TWO HOURS BEFORE TAKING MORE.**
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
