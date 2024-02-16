@@ -12,9 +12,7 @@ tags:
 ---
 # **About 3chi True Strains Vape Pods**
 
-
-
-Our new True Strains lineup has the most consistent, complex blends with the widest range of effects available in the industry.
+3CHI's new True Strains lineup has the most consistent, complex blends with the widest range of effects available in the industry.
 
 Every 2ml vape pod comes filled with transparent, unadulterated oil, containing approximately:
 
@@ -35,8 +33,6 @@ Every 2ml vape pod comes filled with transparent, unadulterated oil, containing 
 ***Space Cowboy:*** a well-balanced Hybrid that utilizes some of the most potent cannabinoids available to blast you into cosmic bliss.
 
 ***Interstellar:*** a relaxing Indica vape pod designed for the end of a day where you just need to chill in a different world.
-
-
 
 <br><br>
 
