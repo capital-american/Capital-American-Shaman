@@ -23,3 +23,7 @@ Delta-9 THC Chocolates are going to take front and center once you taste these a
 Delta-9 THC is infused in Chocolate Heart pieces, making these a delectable sweet treat. Delta 9 THC-infused chocolate has 20 milligrams of Delta 9 THC per piece, wrapped in gold foil. 
 
 **\***This is for more experienced users, and it provides a psychoactive experience. We recommend starting with 1/2 chocolate and working up to the whole heart until you're used to it and know your tolerance levels.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
