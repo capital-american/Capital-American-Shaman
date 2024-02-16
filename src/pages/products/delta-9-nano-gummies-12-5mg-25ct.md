@@ -54,3 +54,7 @@ These dispensary-grade Delta 9 Nano Gummies utilize nanotechnology to ensure max
 Do not use if pregnant, nursing or trying to conceive with a partner. Consult a doctor before use.
 
 WARNING: It is not advised to drive or participate in any activities requiring heavy machinery after consuming Delta 9 Nano Gummies. Drowsiness may occur, so please use responsibly and follow the Suggested Use guidelines. In addition, do not mix this product with alcohol or medications. Enjoy these delta 9 gummies safely!
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
