@@ -26,3 +26,7 @@ Each flavor is in a 10 count, the flavors are: Watermelon, Strawberry, Blue Rasp
 
 **SUGGESTED USE:**\
 Enjoy one D9 Gummy every 12 hours. Do not exceed the suggested use unless under the supervision of a physician.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
