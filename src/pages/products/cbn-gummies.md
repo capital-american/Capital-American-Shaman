@@ -10,8 +10,6 @@ amount: 49.95
 tags:
   - Products
 ---
-
-
 **Brand: American Shaman**
 
 We have taken our famous CBNight blend with cannabinol (CBN) and put it in a tasty gummy. Simple and effective, each gummy has 2mg of CBN in it for a perfect serving size of cannabinol to help you get a good night’s rest. It’s recommended that you take your CBN gummy about 30 minutes before bedtime. In the bottle, you’ll get 30 gummies to last you for a whole month of sound sleep & help you find back your perfect circadian rhythm.
@@ -29,3 +27,7 @@ Using our Nano technology these gummies work quickly and effectively.  2mg of Na
 **Strength:** 30 gummies @ 2mg per piece = 60 mg of CBN per container
 
 **Ingredients:** Sugar, Corn Syrup, Pectin, Dextrose, Citric Acid, Sodium Acetate, Natural and Artificial Flavoring, Soy Lecithin, Water, Monostearate, Ascorbic Acid (Preservative), Cannabinol, a-Bisabolol, Terpineol, a-Pinene, Limonene, B-Caryophyllene, Linalool. Color Sources: Watermelon: Red 40, Red 3; Blackberry: Red 3, Blue 1; Tropical Fruit: Yellow 6; Raspberry: Blue 1; Peach: Red 3, Red 40, Yellow 6 Contains: Soy and Coconut.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
