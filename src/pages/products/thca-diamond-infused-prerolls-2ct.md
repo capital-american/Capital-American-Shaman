@@ -33,3 +33,7 @@ Each package contains two mini pre rolls, also known as "dog walkers", of half a
 *Zittlez (7.93% THCa)*
 
 Each strain offers a different terpene profile and cannabinoid content for a variety of experiences.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
