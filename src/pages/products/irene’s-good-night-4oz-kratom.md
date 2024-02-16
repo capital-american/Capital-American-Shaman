@@ -18,6 +18,8 @@ Skip the wine! Relax with Irene’s Good Night and feel great the next day!
 
 Suggested Serving Size = 3g
 
-
-
 Please do not consume more than 10 grams (total) of kratom products per day.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
