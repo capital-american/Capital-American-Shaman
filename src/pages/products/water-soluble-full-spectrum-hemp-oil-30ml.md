@@ -18,3 +18,7 @@ tags:
 **Ingredients:** Purified water by reverse osmosis, natural & artificial flavoring, concentrated cannabinoid & terpene rich hemp oil, citric acid.
 
 **\*Daily Value: Not established.** Cannabidiol is a natural constituent of Hemp Oil.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
