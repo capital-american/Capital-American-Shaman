@@ -16,3 +16,7 @@ MADE IN USA: DO NOT touch to clothing or porous materials while damp — Serum c
 **Not For Oral Consumption**
 
 **Ingredients:** DMSO, PEG-400, CBD/Terpene Rich Hemp Oil Concentrate. 30mg of CBD per mL = 450mg CBD per 15mL Bottle
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
