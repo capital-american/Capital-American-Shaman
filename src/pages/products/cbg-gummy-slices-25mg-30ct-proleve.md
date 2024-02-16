@@ -15,8 +15,10 @@ This bottle contains 30 gummy slices, each infused with 25mg of the finest hemp-
 
 These  gummies are delicious and proudly all natural, organic, non-GMO, vegan and gluten free.  They definitely contain the superior quality and purity that you can expect from Proleve.
 
-
-
 **Ingredients**
 
 Organic Glucose Syrup (wheat), Organic Cane Sugar, Pectin, Citric Acid, Ascorbic Acid, Natural Flavors, Natural Colors (organic concentrated apple, organic carrot, organic pumpkin, organic black currant), Industrial Hemp.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
