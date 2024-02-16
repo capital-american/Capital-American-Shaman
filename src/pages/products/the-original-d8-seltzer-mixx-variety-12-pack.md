@@ -24,3 +24,7 @@ If you’re indecisive, try them all with the MIXX Variety 12-pack!
 Effects will kick in within 15 minutes, and the full effect in about 45 minutes. Of course, there are other factors that may extend the absorption rate such as body weight, tolerance, etc.
 
 Enjoy the perfect balance of delta-8 THC and CBD with D8 Seltzer. Whether enjoyed on their own or as a mixer for cocktails, D8 Seltzer drinks are a delicious and convenient way to incorporate THC & CBD into your daily routine.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
