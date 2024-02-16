@@ -16,6 +16,10 @@ These HHC Gummies contain 12.5mg of HHC. There are 5 options for HHC Gummies inc
 
 **Ingredients:** Sugar, Light Corn Syrup, Pectin, Dextrose, Citric Acid, Sodium Acetate*, Natural and Artificial Flavoring, Soy Lecithin, Hexahydrocannabinol.
 
-Color Sources: Watermelon: Red 40, Red 3.  Blackberrry: Red 3.  Blue 1. Tropical Fruit: Yellow 6.  Raspberry: Blue1.
+Color Sources: Watermelon: Red 40, Red 3.  Blackberry: Red 3.  Blue 1. Tropical Fruit: Yellow 6.  Raspberry: Blue1.
 
-\*Thes ingredients are found only in the Water,e;pm amd Blackberry flavors.
+\*These ingredients are found only in the Watermelon and Blackberry flavors.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
