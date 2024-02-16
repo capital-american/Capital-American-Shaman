@@ -22,3 +22,7 @@ To begin, we recommend mixing 1/2 caramel and working up to the whole piece unti
 **SUGGESTED USE**:
 
 Enjoy 1/2 D9 Caramel for first use, then up to 1/2 to 1 full D9 caramel every 12 hours, not to exceed 40mg of D9 per day unless under the supervision of a physician.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
