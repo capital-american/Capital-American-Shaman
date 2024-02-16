@@ -20,3 +20,7 @@ tags:
 **Usage:** As an oral tincture or dissolved in a liquid. 0.5mL (1/2 dropper) Twice daily or as needed. CBD oil tinctures are best if placed under your tongue for 30-90 seconds or until it is dissolved.
 
 **Ingredients:** Our VG Cloud Tinctures consist of Cannabidiol (CBD), Vegetable Glycerin, Propylene Glycol, Natural and/or artificial flavoring.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
