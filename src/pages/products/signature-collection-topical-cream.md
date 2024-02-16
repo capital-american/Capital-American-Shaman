@@ -29,3 +29,7 @@ Whether you're seeking comfort or wellness, this topical cream could be just the
 **Directions:** Use a drop or two of our Signature Collection Topical Cream. A small amount spreads like crazy! Pat onto the affected area and see a difference in a matter of days. For best results, we recommend using it consistently. 
 
 Just like any wellness routine, consistency is key!
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
