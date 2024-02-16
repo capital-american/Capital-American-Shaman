@@ -23,3 +23,7 @@ High Potency - 5mg Delta-9 THC Per Serving
 Infused Premium Live Rosin
 
 420mg total | 84 Servings
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
