@@ -21,3 +21,7 @@ Each serving size is 7.5mg Delta-8 THC and 7.5mg CBD.
 This product won’t help you pass a drug test, but it will give you the natural psychoactive experience you’re craving!
 
 Experience this fast-acting D8 dietary supplement today!
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
