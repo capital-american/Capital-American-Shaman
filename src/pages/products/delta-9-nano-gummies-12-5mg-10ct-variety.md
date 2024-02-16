@@ -25,7 +25,6 @@ tags:
 
 **Delta 9 Gummies WARNING:** Cognitive And Physical Impairment May Result From The Use Of This Product. This Product Is Psychoactive!
 
-
 Each gummy Includes 12.5mg Nano-Delta 9 THC
 
 Dispensary Grade Delta 9 THC enhanced with nanotechnology
@@ -42,8 +41,7 @@ Legal & Compliant in all 50 States!
 
 CBD American Shaman has perfected the blend of legal and compliant Delta 9 THC and infused it in thc gummies bringing us these tasty THC gummies. If you are in the mood to relax and enjoy what hemp has offer these Delta 9 gummies will give you precisely what you need. Each of these d9 gummies has a serving size of 12.5mg of Delta 9.
 
-Flavors in these gummies? This variety pack provides you with w/ your D9: Strawberry, Watermelon, Sweet Tropical, and Blue Raspberry.
-Always keep in mind, if you need a lower amount you can always cut the gummy in ½ or in ¼ sizes.  This will give you 6.25mg Delta 9 THC in ½ or 3.12mg D9 THC in ¼.  For each person the ideal serving size will vary.\
+Flavors in these gummies? This variety pack provides you with w/ your D9: Strawberry, Watermelon, Sweet Tropical, and Blue Raspberry. Always keep in mind, if you need a lower amount you can always cut the gummy in ½ or in ¼ sizes.  This will give you 6.25mg Delta 9 THC in ½ or 3.12mg D9 THC in ¼.  For each person the ideal serving size will vary.\
 These dispensary-grade Delta 9 Nano Gummies utilizes nanotechnology to ensure maximum bioavailability. What that means you will feel them faster and more intense than regular thc gummies of similar miligrams.  Enjoy a more potent experience without having to compromise on quality – these delta 9 gummies are sure to give you all the desired effects! These gummies have a few alias names such as d9 gummies, pot gummies, cannabis-infused gummies, and thc gumy. If you’re used to just using CBD, this is a great and tasty way to try out Delta 9 and see what it’s like to get psychoactive effects, just be sure to try ½ first if it’s your first time.
 
 **Disclaimers:**
@@ -55,3 +53,7 @@ These dispensary-grade Delta 9 Nano Gummies utilizes nanotechnology to ensure ma
 Do not use if pregnant, nursing or trying to conceive with a partner. Consult a doctor before use.
 
 WARNING: It is not advised to drive or participate in any activities requiring heavy machinery after consuming Delta 9 Nano Gummies. Drowsiness may occur, so please use responsibly and follow the Suggested Use guidelines. In addition, do not mix this product with alcohol or medications. Enjoy these delta 9 gummies safely!
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
