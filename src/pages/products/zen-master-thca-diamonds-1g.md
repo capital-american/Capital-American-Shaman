@@ -24,3 +24,7 @@ Using THCa Diamonds is a unique experience. They can be enjoyed via a dab kit or
 ***As these diamonds are intended for experienced THC, THCa, and other experienced cannabinoids users, we recommend starting with small amounts to gauge their potency and effects.***
 
 Yes, our THCa Diamonds comply with the 2018 Farm Bill, containing less than 0.3% THC by dry weight and are encased in child-resistant packaging. Both the bag and the puck container demand specific techniques to open, safeguarding your loved ones from accidental exposure.
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
