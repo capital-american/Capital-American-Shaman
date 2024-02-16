@@ -15,3 +15,7 @@ Sweet Sensi Blackberry Snooze Drops are a natural sleep aid product that can hel
 Each gum drop contains approximately 35mg of CBD, 5mg of melatonin and is sold in a pack of 30.
 
 INGREDIENTS: Organic pectin, all-natural sodium citrate, all-natural citric acid, organic cane sugar, organic tapioca syrup, all-natural fruit flavors, all-natural coloring, all-natural blackberry flavoring, organic hemp CBD rosin, melatonin
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
