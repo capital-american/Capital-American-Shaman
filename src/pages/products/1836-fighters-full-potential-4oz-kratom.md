@@ -3,7 +3,7 @@ templateKey: product-post
 title: 1836 Fighters Full Potential | 4oz Kratom
 date: 2022-10-10T04:17:00.000Z
 category:
-  - Kratom & Kava
+  - 1836 Kratom
 image: /img/1836-kratom-fighters-full-potential.jpg
 amount: 34.99
 tags:
