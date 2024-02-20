@@ -1,7 +1,7 @@
 ---
 templateKey: product-post
 title: "Texas Red Kratom  | 150 Jumbo (1g) Capsules "
-date: 2022-10-09T14:46:00.000Z
+date: 2022-10-10T14:46:00.000Z
 category:
   - 1836 Kratom
 image: /img/texas-red-kratom-capsules.jpg
