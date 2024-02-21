@@ -3,7 +3,7 @@ templateKey: product-post
 title: "Texas Red Kratom  | 150 Jumbo (1g) Capsules "
 date: 2022-10-10T14:46:00.000Z
 category:
-  - 1836 Kratom
+  - Kratom & Kava
 image: /img/texas-red-kratom-capsules.jpg
 amount: 34.99
 tags:
