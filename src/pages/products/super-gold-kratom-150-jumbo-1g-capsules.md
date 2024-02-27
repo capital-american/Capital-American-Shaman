@@ -5,7 +5,7 @@ date: 2022-10-10T19:36:21.374Z
 category:
   - Kratom & Kava
 image: /img/1836-kratom-150ct-super-gold-kratom-capsules.jpg
-amount: 48
+amount: 49.99
 tags:
   - Products
 ---
