@@ -1,7 +1,7 @@
 ---
 templateKey: product-post
 title: CBG Gummy Slices(25mg) 30ct - Proleve
-date: 2022-11-08T20:47:21.972Z
+date: 2022-11-01T19:47:00.000Z
 category:
   - CBD Edibles
 image: /img/proleve-cbg-gummies-25mg.jpg
