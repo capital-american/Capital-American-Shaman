@@ -15,7 +15,7 @@ tags:
 
 Each 3oz container of warming roll on contains 2000mg of the finest hemp-derived broad spectrum CBD. This topical is uniquely blended with other soothing essences including meadowfoam seed oil, menthol, eucalyptus, aloe, chamomile and many more! 
 
-Our premium topical is proudly all natural, organic, non-GMO and gluten free, and contains the superior quality and purity that you can expect from Proleve.
+Proleve's premium topical is proudly all natural, organic, non-GMO and gluten free, and contains the superior quality and purity that you can expect from Proleve.
 
 <br><br>
 
