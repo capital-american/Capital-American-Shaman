@@ -34,10 +34,16 @@ H4CBD is currently legal in all states, as it is not listed as a controlled subs
 
 <br><br>
 
+<Center>
+
+#### **To order online use the link below to our Online Store**
+
+<br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-h4cbd-cartridge-870mg">Order Online</a></
 
 <br><br><br>
 
-
-
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
