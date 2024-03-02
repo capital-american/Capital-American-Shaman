@@ -27,7 +27,7 @@ While kava can be used for many different reasons, more people are turning to ka
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/feel-free-wellness-kava-tonic/">Order Online</a></
 
 <br><br><br>
 
