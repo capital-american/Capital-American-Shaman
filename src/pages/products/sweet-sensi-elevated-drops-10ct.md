@@ -5,13 +5,13 @@ date: 2022-11-22T21:21:35.734Z
 category:
   - Delta 9
 image: /img/sweet-sensi-elevated-gum-drops-10ct.jpg
-amount: 34.99
+amount: 29.99
 tags:
   - Products
 ---
 **Brand: Sweet Sensi**
 
-These gourmet pectin jellies are sold in a pack of 10 or [30ct](https://capitalamericanshaman.com/products/sweet-sensi-elevated-drops-30ct/) in Peach, Pineapple Mango, or Passion Guava flavor and are made from 100% non chemically altered, all organic Hemp. Each gum drop is under .3% THC and fully legal. 
+These gourmet pectin jellies are sold in a pack of 10 or [30ct](https://capitalamericanshaman.com/products/sweet-sensi-elevated-drops-30ct/) in Peach OG (Indica), Pineapple Mango (Sativa), or Passion Guava flavor (Hybrid) and are made from 100% non chemically altered, all organic Hemp. Each gum drop is under .3% THC and fully legal. 
 
 # High Potency THC Drops!! 14 mg of THC per gum drop.
 
