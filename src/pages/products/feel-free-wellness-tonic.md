@@ -25,6 +25,12 @@ If you have yet to journey through the world of kava, there are a few basic thin
 
 While kava can be used for many different reasons, more people are turning to kava for occasional anxiety. This is due, largely in part, to the blissful effects of kava. The key compounds in kava are called kavalactones and their effect on your body can yield a feeling of calmness and relaxation. The great thing about Kava is that it is easy to incorporate into your routine. When enjoyed as a beverage like tea or a 2-ounce shot, you get to skip to the experience of well being. Many believe Kava incorporates well to their relaxation routine, whether it’s meditation, exercise, reading, or however you see fit to chill out after a long day.
 
+<br>
+
+<Center>
+
+#### **To order online use the link below to our Online Store**
+
 <br><br>
 
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/feel-free-wellness-kava-tonic/">Order Online</a></
@@ -32,3 +38,5 @@ While kava can be used for many different reasons, more people are turning to ka
 <br><br><br>
 
 <a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br><br>
