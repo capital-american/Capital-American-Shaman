@@ -11,7 +11,7 @@ tags:
 ---
 **Brand: Sweet Sensi**
 
-These gourmet pectin jellies are sold in a pack of 30 or 10 in Peach, Pineapple Mango, or Passion Guava flavor and are made from 100% non chemically altered, all organic Hemp. Each gum drop is under .3% THC and fully legal.
+These gourmet pectin jellies are sold in a pack of 30 or [10ct](https://capitalamericanshaman.com/products/sweet-sensi-elevated-drops-10ct/) in Peach (Indica), Pineapple Mango (Sativa), or Passion Guava (Hybrid) flavor and are made from 100% non chemically altered, all organic Hemp. Each gum drop is under .3% THC and fully legal.
 
 # **High Potency Delta 9 Drops!! 14 mg of THC per gum drop.**
 
@@ -21,4 +21,16 @@ No chemicals or solvents are used to extract CBD from the grown-in-house hemp. A
 
 <br><br>
 
+<Center>
+
+#### **To order online use the link below to our Online Store**
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/sweet-sensi-elevated-drops-30ct/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
