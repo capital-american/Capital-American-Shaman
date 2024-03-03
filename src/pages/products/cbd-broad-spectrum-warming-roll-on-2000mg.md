@@ -27,7 +27,7 @@ Proleve's premium topical is proudly all natural, organic, non-GMO and gluten fr
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="cbd-broad-spectrum-warming-roll-on-2000mg">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-broad-spectrum-warming-roll-on-2000mg/">Order Online</a></
 
 <br><br><br>
 
