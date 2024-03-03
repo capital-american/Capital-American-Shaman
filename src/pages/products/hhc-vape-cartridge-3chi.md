@@ -9,7 +9,7 @@ amount: 28.99
 tags:
   - Products
 ---
-**Brand: 3chi**
+**Brand: 3Chi**
 
 Most HHC users report euphoric, relaxing, mind and body effects similar to Delta 9 with far less paranoia, anxiety and lethargy. Many describe it as a more social and active version of Delta 9.
 
