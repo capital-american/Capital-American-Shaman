@@ -3,7 +3,7 @@ templateKey: product-post
 title: Bumble Bee Kratom | 90 Capsules
 date: 2022-10-09T20:36:43.641Z
 category:
-  - Kratom
+  - Kratom & Kava
 image: /img/bumble-bee-kratom-capsules-90ct.jpg
 amount: 21.99
 tags:
@@ -35,4 +35,16 @@ Gold Kratom is one of the most sought after strains because of its unique proper
 
 <br><br>
 
+<Center>
+
+#### **To order online use the link below to our Online Store**
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href=https://capitalcbd.shop/product/bumble-bee-kratom-90-capsules/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
