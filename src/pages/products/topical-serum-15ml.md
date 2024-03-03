@@ -3,7 +3,8 @@ templateKey: product-post
 title: Topical Serum (15mL)
 date: 2023-06-15T22:53:07.273Z
 category:
-  - CBD Lotions Creams and Topicals
+  - CBD Lotions
+  - Creams and Topicals
 image: /img/topical-serum.jpg
 amount: 89.99
 tags:
