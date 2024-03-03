@@ -3,7 +3,7 @@ templateKey: product-post
 title: CBD + H4CBD Cartridge - 870mg
 date: 2023-05-23T20:52:53.021Z
 category:
-  - CBD Vape
+  - CBD Vape Products
 image: /img/shaman-h4cbd-carts.jpg
 amount: 19.99
 tags:
