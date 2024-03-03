@@ -4,7 +4,7 @@ title: Enjoy Live Rosin Gummies | 40ct(15mg)
 date: 2023-05-05T20:24:05.418Z
 category:
   - Delta 9
-image: /img/enjoy-live-rosin-gummies-40ct.jpg
+image: /img/enjoy-d9-live-rosin-gummies-15mg.jpg
 amount: 69.99
 tags:
   - Delta 9 Gummies
@@ -20,6 +20,8 @@ These gummies will knock your socks off with potency and flavor! Our blend of Li
 Our 600 mg Delta-9 THC Live Rosin Gummies come in a two different effects/flavors:
 
 **Euphoria Blue Raspberry:** a sativa blend for a boost of energy and happiness
+
+**Bliss Strawberry:** A hybrid blend that tends to provide calm, upbeat happiness.  Often dubbed the best of both worlds.
 
 **Chill Pineapple:** an indica blend for a relaxing and calming experience
 
@@ -39,4 +41,16 @@ Delta-9 THC is the cannabinoid most known for the euphoric high that comes with 
 
 <br><br>
 
+<Center>
+
+#### **To order online use the link below to our Online Store**
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-live-rosin-gummies-40ct15mg/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
