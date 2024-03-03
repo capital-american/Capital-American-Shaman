@@ -3,8 +3,7 @@ templateKey: product-post
 title: Signature Collection Topical Cream | 1,000mg
 date: 2023-06-15T22:49:52.741Z
 category:
-  - CBD Lotions
-  - Creams and Topicals
+  - CBD Lotions Creams and Topicals
 image: /img/american-shaman-signature-topical.jpg
 amount: 69.99
 tags:
