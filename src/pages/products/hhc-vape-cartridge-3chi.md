@@ -5,7 +5,7 @@ date: 2022-11-14T21:01:05.185Z
 category:
   - HHC Products
 image: /img/3chi-hhc-vape-cartridges.jpg
-amount: 34.99
+amount: 28.99
 tags:
   - Products
 ---
@@ -45,4 +45,16 @@ For more information on HHC check out our blog on this cannabinoid [here. ](http
 
 <br><br>
 
+<Center>
+
+#### **To order online use the link below to our Online Store**
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/3chi-hhc-vape-cartridge/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
