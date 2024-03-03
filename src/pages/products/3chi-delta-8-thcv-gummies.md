@@ -4,7 +4,7 @@ title: 3Chi Delta 8 | THCv Gummies
 date: 2022-11-19T18:13:09.685Z
 category:
   - Delta 8
-  - THC-V
+  - THCv
 image: /img/delta-8-thcv-gummies.jpg
 amount: 24.99
 tags:
