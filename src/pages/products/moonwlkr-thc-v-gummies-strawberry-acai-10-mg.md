@@ -10,7 +10,7 @@ tags:
   - Products
   - Edibles
 ---
-# **About THC-V Gummies**
+# **About THCv Gummies**
 
 Let's talk about the new kid on the block in the world of cannabis - THCv.  While THC and CBD have been making headlines for years, THCv is the newest addition to the cannabinoid family.
 
