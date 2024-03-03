@@ -3,8 +3,7 @@ templateKey: product-post
 title: CBD Broad Spectrum Warming Roll On - 2000mg
 date: 2022-11-02T21:31:31.493Z
 category:
-  - CBD Lotions
-  - Creams and Topicals
+  - CBD Lotions Creams and Topicals
 image: /img/warming-cbd-roll-on.jpg
 amount: 45
 tags:
