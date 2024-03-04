@@ -5,7 +5,7 @@ date: 2022-10-31T17:44:21.073Z
 category:
   - CBD Edibles
   - CBG & CBN
-image: /img/cbg-gummies.jpg
+image: /img/american-shaman-nano-cbg-30ct.jpg
 amount: 59.99
 tags:
   - Products
@@ -18,6 +18,18 @@ Our Best CBG Gummies are a tasty chewy candy containing CBG and other cannabinoi
 
 CBG Gummies are one of the best and one well-liked method of administration. Gummies are definitely an easy way to take your daily dose of CBG.  Did we mention they taste great?  In this product we have combined our nano’d formulation with Apple Cider Vinegar (ACV) to create these cherry flavored CBGo Gummy Rings. Apple Cider Vinegar is a popular supplement in its own right, and has been a popular addition to products to help support weight loss. Each gummy in this package contains 10mg of cannabigerol powered by our proprietary nanotechnology process. These gummies come in either a 15 count or 30 count.
 
-<br>
+<br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at some of our other Products</a></Center>
+<Center>
+
+#### **To order online use the link below to our Online Store**
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbg-gummiesnano-cherry-30ct-10mg-2/">Order Online</a></
+
+<br><br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
