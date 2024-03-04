@@ -1,10 +1,10 @@
 ---
 templateKey: product-post
-title: CBD Gourmet Gummies - 25mg
+title: CBD Artisan Gummies - 25mg
 date: 2022-10-11T10:53:35.546Z
 category:
   - CBD Edibles
-image: /img/austin-cbd-store-gourmet-gummies-full-spectrum.jpg
+image: /img/american-shaman-artisan-cbd-25mg-10ct.jpg
 amount: 34.95
 tags:
   - Product
@@ -15,7 +15,9 @@ tags:
 
 **Weight:** .16
 
-**Serving Size:** 1 Gummy Serving Per Container: 10
+**Serving Size:** 1 Gummy 
+
+**Serving Per Container:** 10
 
 **Strength:** 250mg (25mg per gummy)
 
@@ -23,4 +25,10 @@ tags:
 
 <br><br>
 
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-artisan-gummies-25mg/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
