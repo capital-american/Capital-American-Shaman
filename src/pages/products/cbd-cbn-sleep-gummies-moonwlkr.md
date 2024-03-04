@@ -32,7 +32,7 @@ For more information on CBN take a look at our blog [here.](https://capitalameri
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-h4cbd-cartridge-870mg">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbdcbn-sleep-gummies-moonwlkr-2/ ">Order Online</a></
 
 <br><br><br>
 
