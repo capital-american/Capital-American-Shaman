@@ -19,8 +19,18 @@ If you’re totally new to cannabis or someone who is looking for a mellow re-en
 
 **Try all three flavors:** *Watermelon, Lemon and Strawberry.*
 
+<br><br>
 
+<Center>
+
+#### **To order online use the link below to our Online Store**
 
 <br><br>
 
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/early-bird-full-spectrum-cbd-gummies/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
