@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: "Live Resin Delta 9 THC + CBN| 625mg Gummies "
+title: "Live Resin Delta 9 THC + CBN | 625mg Gummies "
 date: 2023-05-05T23:43:00.000Z
 category:
   - Delta 9
