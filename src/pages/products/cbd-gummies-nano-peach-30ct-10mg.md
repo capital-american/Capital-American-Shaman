@@ -4,7 +4,7 @@ title: CBD Gummies(Nano) - Peach 30ct - 10mg
 date: 2022-10-31T17:24:21.109Z
 category:
   - CBD Edibles
-image: /img/cbd-gummies-nano-peach.jpg
+image: /img/american-shaman-nano-peach-cbd-30ct.jpg
 amount: 59.99
 tags:
   - Products
@@ -27,4 +27,16 @@ The end result mean we use more of the CBD we consume and it takes effect much f
 
 <br><br>
 
+<Center>
+
+#### **To order online use the link below to our Online Store**
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-gummiesnano-peach-30ct-10mg/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
