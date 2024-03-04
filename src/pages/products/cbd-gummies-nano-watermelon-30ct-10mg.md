@@ -23,7 +23,7 @@ The word “nano” comes from ancient Greek and means “dwarf.” Scientifical
 
  In terms of CBD, the particles have been reduced in size to the point that they can be measured in *billionths* of a meter!  This allows the CBD to be absorbed rather than being processed by our bodies. 
 
-Waht this boils down to is the product being more effective working faster. faster.
+What this boils down to is the product being more effective working faster. faster.
 
 <br><br>
 
