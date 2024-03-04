@@ -1,7 +1,7 @@
 ---
 templateKey: product-post
 title: CBD Gummies(Nano) - Watermelon 30ct - 10mg
-date: 2024-03-04T20:21:42.120Z
+date: 2022-10-31T19:21:42.120Z
 category:
   - CBD Edibles
 image: /img/american-shaman-nano-watermelon-cbd-30ct.jpg
