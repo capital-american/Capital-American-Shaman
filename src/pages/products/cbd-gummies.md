@@ -4,7 +4,7 @@ title: CBD Gummies -10mg (30ct)
 date: 2022-10-11T10:47:27.082Z
 category:
   - CBD Edibles
-image: /img/cbd-gummies-austin-shaman.jpg
+image: /img/american-shaman-cbd-gummies-10mg-30ct.jpg
 amount: 30
 tags:
   - Product
@@ -21,4 +21,16 @@ Ingredients: Glucose Syrup (from Wheat or Corn), CBD from Hemp Oil Concentrate, 
 
 <br><br>
 
+<Center>
+
+#### **To order online use the link below to our Online Store**
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-gummies-10mg-30ct/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
