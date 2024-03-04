@@ -5,7 +5,7 @@ date: 2022-11-29T04:53:10.813Z
 category:
   - CBD Edibles
   - CBG & CBN
-image: /img/cbd-cbn-gummies.jpg
+image: /img/moonwlkr-cbd-and-cbn-sleep-gummies.jpg
 amount: 38.99
 tags:
   - Products
@@ -24,6 +24,18 @@ One of the most powerful CBN SLEEP gummies on the market, with 10mg per gummy an
 
 For more information on CBN take a look at our blog [here.](https://capitalamericanshaman.com/blog/what-is-cbn-oil-and-how-can-it-help/)
 
- <br><br>
+<br><br>
+
+<Center>
+
+#### **To order online use the link below to our Online Store**
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-h4cbd-cartridge-870mg">Order Online</a></
+
+<br><br><br>
 
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
