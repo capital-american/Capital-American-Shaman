@@ -13,8 +13,7 @@ tags:
 
 Prremium 25mg HHC gummies deliver a potent one of a kind feeling with a calming body sensation and feature:
 
-Award Winning & Potent HHC Delicious Orange Dreamsicle Vegan Cruelty-Free | No Animal Gelatin Made from Organic & US Grown Hemp
-Farm Bill Compliant : < 0.3% ∆9THC
+Award Winning & Potent HHC Delicious Orange Dreamsicle Vegan Cruelty-Free | No Animal Gelatin Made from Organic & US Grown Hemp Farm Bill Compliant : < 0.3% ∆9THC
 
 # About 3CHI HHC Gummies:
 
@@ -24,12 +23,17 @@ Before taking any amount of HHC, it is important to figure out how to dose the a
 
 For more information on HHC in general take at look at our blog [here.](https://capitalamericanshaman.com/blog/what-is-hhc/)
 
-<br>
+<br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center><br><br>
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/hhc-gummies-25mg-3chi/">Order Online</a></
 
-**Additional HHC Gummy Information Total HHC Content:**  400mg
-**HHC Content Per Gummy:** 25mg
+<br><br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
+
+**Additional HHC Gummy Information Total HHC Content:**  400mg **HHC Content Per Gummy:** 25mg
 
 **Gummies per Pack:** 16
 
