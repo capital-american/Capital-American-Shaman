@@ -17,9 +17,14 @@ tags:
 
 Super green Kratom enhanced w/ turmeric extract, cayenne & cinnamon. This product is in powder form. Some athletes believe turmeric to have many valuable properties & believe this blend provides incentive to push extra hard! Weightlifters, runners, manual laborers and those who "do" love Fighter's Full Potential!
 
-
 For more info on Kratom check our blog[ here.](https://capitalamericanshaman.com/blog/kratom/)
 
 <br><br>
 
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/1836-fighters-full-potential-4oz-kratom/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
