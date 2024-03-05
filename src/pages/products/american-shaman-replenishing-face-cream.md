@@ -3,7 +3,7 @@ templateKey: product-post
 title: American Shaman | Replenishing Face Cream
 date: 2023-06-15T22:32:00.000Z
 category:
-  - Skin Care
+  - CBD Skin Care
 image: /img/american-shaman-face-cream.jpg
 amount: 30
 tags:
