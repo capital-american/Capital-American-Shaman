@@ -56,4 +56,10 @@ WARNING: It is not advised to drive or participate in any activities requiring h
 
 <br><br>
 
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/delta-9-nano-gummies-12-5mg-10ct-variety/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
