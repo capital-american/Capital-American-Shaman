@@ -33,7 +33,7 @@ So, just as with our human line of products, we use the best of ingredients for 
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-gummiesnano-peach-30ct-10mg/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/canine-cbd-water-soluble-hemp-oil-tincture/">Order Online</a></
 
 <br><br><br>
 
