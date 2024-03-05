@@ -38,7 +38,7 @@ If you would like a more in depth breakdown of THCv, please check out our blog [
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/moonwlkr-thc-v-gummies-strawberry-acai-10-mg/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/moonwlkr-thcv-gummies-strawberry-acai-10-mg/">Order Online</a></
 
 <br><br><br>
 
