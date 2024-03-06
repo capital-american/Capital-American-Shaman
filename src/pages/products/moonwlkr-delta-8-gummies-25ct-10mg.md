@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Moonwlkr Delta 8 Gummies 25ct | 10mg
+title: Moonwlkr Delta 8 Gummies 25ct | 25mg
 date: 2022-11-28T23:44:26.453Z
 category:
   - Delta 8
@@ -39,4 +39,16 @@ For more information on Delta 8 take a look at our blog [here.](https://capitala
 
 <br><br>
 
+<Center>
+
+#### **To order online use the link below to our Online Store**
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/moonwlkr-delta-8-gummies-25ct/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
