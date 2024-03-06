@@ -9,8 +9,6 @@ amount: 59.99
 tags:
   - Products
 ---
-
-
 **Brand: American Shaman**
 
  **MADE IN USA Flavors:** Natural
@@ -33,4 +31,16 @@ Since ancient times, in the South Pacific,  cultures have utilized kava for medi
 
 <br><br>
 
+<Center>
+
+#### **To order online use the link below to our Online Store**
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/nano-kava-water-soluble/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
