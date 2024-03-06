@@ -24,34 +24,18 @@ Customers who have tried this have raved about how much they love this cream!
 
 Just like any wellness routine, consistency is key!
 
-
-
 <br><br>
-
-
 
 <Center>
 
-
-
-\*\*To order online use the link below to our Online Store\*\*
-
-
+#### **To order online use the link below to our Online Store**
 
 <br><br>
 
-
-
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
-
-
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-face-cream-american-shaman/">Order Online</a></
 
 <br><br><br>
 
-
-
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
-
-
 
 <br><br>
