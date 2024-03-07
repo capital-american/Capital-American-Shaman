@@ -40,6 +40,18 @@ CBN helps to tame the energetic aspects of Delta 8 THC to bring an extremely com
 
 .
 
-<br>
+<br><br>
+
+<Center>
+
+#### **To order online use the link below to our Online Store**
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/3chi-true-strains-comfortably-numb-gummies-64mg/">Order Online</a></
+
+<br><br><br>
 
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
