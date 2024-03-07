@@ -36,7 +36,7 @@ We recommend trying 1/2 a caramel first until you're used to it and know your to
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/zen-master-hhc-caramels/">Order Online</a></
 
 <br><br><br>
 
