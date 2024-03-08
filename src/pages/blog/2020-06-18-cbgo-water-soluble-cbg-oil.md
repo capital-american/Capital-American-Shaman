@@ -47,10 +47,12 @@ Capital CBD also offers you the choice of online shopping.  Choose the best CBG 
 
 So what are you waiting for?  Shop your favorite CBG gummies at the Best CBD Store in Austin!
 
-<!--EndFragment-->
+<br><br>
 
-<p></p><br>
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbg-oil-cbgo/">Order Online</a></
 
-<p>
-<center><a href="https://cbdamericanshaman.com/msterling-leach/cbg-oil" target="_blank" class="shop-link">CBGo - Water Soluble CBG Oil / Shop</a><center>
-</p>
+<br><br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
