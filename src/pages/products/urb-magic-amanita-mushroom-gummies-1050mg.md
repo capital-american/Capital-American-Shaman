@@ -38,4 +38,10 @@ With Urb Magic Amanita Mushroom Gummies, users can experience a journey of self-
 
 <br><br>
 
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/urb-magic-amanita-mushroom-gummies-1050mg/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
