@@ -5,7 +5,7 @@ date: 2022-11-08T22:54:00.000Z
 category:
   - CBD Vape Products
 image: /img/3chi-cbd-focused-blend-carts-1ml.jpg
-amount: 25.99
+amount: 22.99
 tags:
   - CBD
   - Products
