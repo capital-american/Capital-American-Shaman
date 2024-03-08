@@ -27,4 +27,10 @@ Coromega gets its omega-3 fish oil (in natural triglyceride form) from fish caug
 
 <br><br>
 
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-hemp-oil-omega-3/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
