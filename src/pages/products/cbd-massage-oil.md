@@ -3,7 +3,7 @@ templateKey: product-post
 title: CBD Massage Oil
 date: 2022-10-11T11:12:18.186Z
 category:
-  - CBD Lotions, Creams and Topicals
+  - CBD Lotions Creams and Topicals
 image: /img/cbd-massage-oil-austin-shaman.jpg
 amount: 40
 tags:
