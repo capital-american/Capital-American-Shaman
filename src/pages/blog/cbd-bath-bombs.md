@@ -35,3 +35,13 @@ When buying CBD products, always look for third party lab tests.  These test rep
 At Capital CBD American Shaman all of our products are third party tested.  Scanning the QR code on our goods will give you access to all relevant details that will help you choose the right CBD product for your needs.  Capital American Shaman CBD store is built as a wellness hub, providing you with a relaxing and non-judgmental atmosphere in which you can learn more about CBD products while shopping.  It is hands down the best CBD store in Austin. 
 
 Head to Capital CBD in Austin to buy the best CBD products in town!
+
+<br><br>
+
+<Center>
+
+<br><br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
