@@ -31,6 +31,10 @@ Whether you choose the ***Tangy Green Apple*** or the ***Juicy Peach*** flavor, 
 
 **We recommend trying 1/2 a gummy first until you're used to it and know your tolerance levels.**
 
+<br><br>
+
+<Center>
+
 \*\*To order online use the link below to our Online Store\*\*
 
 <br><br>
