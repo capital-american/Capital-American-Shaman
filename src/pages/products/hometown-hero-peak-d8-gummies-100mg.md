@@ -37,6 +37,10 @@ Every piece is infused with 100mg of Delta-8 THC for deep relaxation. Ensuring p
 
 These Delta-8 Peak gummies are perfect for those looking to explore a new level of relaxation and relief in their THC journey.
 
+<br><br>
+
+<Center>
+
 \*\*To order online use the link below to our Online Store\*\*
 
 <br><br>
