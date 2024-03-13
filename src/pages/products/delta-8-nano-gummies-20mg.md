@@ -39,7 +39,7 @@ Whether you choose the ***Tangy Green Apple*** or the ***Juicy Peach*** flavor, 
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/1836-fighters-full-potential-4oz-kratom/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/zen-master-delta-8-nano-gummies/">Order Online</a></
 
 <br><br><br>
 
