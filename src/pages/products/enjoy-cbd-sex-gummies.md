@@ -19,8 +19,6 @@ Enjoy’s sex gummies are a tasty option for anyone looking to improve their sex
 
 These gummies are packed with an expertly formulated blend of ingredients that are designed to help enhance sexual function and desire.
 
-
-
 1. **Full-Spectrum CBD**, which is a holistic representation of CBD that includes all of the naturally occurring cannabinoids, plant terpenes, flavonoids, vitamins, minerals, and plant proteins of the original hemp source. This blend of compounds works together to create what is known as the “Entourage Effect,” which multiplies the potential health benefits of CBD and helps to keep your internal rhythms in optimal balance.
 2. **Schisandra** is an adaptogen that may help assist those suffering from impotence and erectile dysfunction, increase sexual stamina while reducing fatigue, remove toxic estrogens to balance your sex hormones, and increase libido.
 3. **Maca Root** may increase libido, increase sexual desire in men, and decrease sexual dysfunction with women.
@@ -35,14 +33,10 @@ These gummies are packed with an expertly formulated blend of ingredients that a
 
 **Ingredients:** **Sugar, Tapioca Syrup, Water, Pectin, Natural Flavors, Full-Spectrum Hemp Extract, Citric Acid, Natural Fruit Flavors and Natural Colors.**
 
-
-
 * 50 mg of Maca Root,
 * 50 mg of Schisandra,
 * 50 mg of Damiana, and
 * 50 mg of Muira Puama per gummy.
-
-
 
 <br><br>
 
@@ -52,7 +46,7 @@ These gummies are packed with an expertly formulated blend of ingredients that a
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-face-cream-american-shaman/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-sex-cbd-gummies/">Order Online</a></
 
 <br><br><br>
 
