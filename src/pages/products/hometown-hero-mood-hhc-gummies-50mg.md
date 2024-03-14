@@ -31,8 +31,6 @@ Along with 50mg of HHC, these gummies also include the primary terpenes Caryophy
 
 **Bubblegum** (Strawberry) - *This strain is a popular Hybrid with a well balanced mix of Indica and Sativa making it a good choice for relaxation and creativity.*
 
-
-
 50mg per piece | 10 pieces per bag
 
 Uplifting, mind-focused effect from HHC
@@ -51,7 +49,7 @@ Best for elevating mood and creativity
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/hometown-hero-mood-hhc-gummies/">Order Online</a></
 
 <br><br><br>
 
