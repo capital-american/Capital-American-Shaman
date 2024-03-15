@@ -26,7 +26,7 @@ These gummies come in an assortment of delicious flavors, offering a delightful 
 
 **25mg | 30 count** - *$35*
 
-**50mg | 30 count** - *$60*
+**50mg | 30 count** - *$49.99*
 
 ***All-natural, THC FREE, non-GMO, vegan and gluten-free.***
 
