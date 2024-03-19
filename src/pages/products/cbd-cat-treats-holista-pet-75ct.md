@@ -37,4 +37,16 @@ For more information on CBD for pets click [here.](https://capitalamericanshaman
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our other CBD Pet Products</a></Center>
+<Center>
+
+#### **To order online use the link below to our Online Store**
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-cat-treats-holista-pet-75ct/">Order Online</a></
+
+<br><br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
