@@ -35,7 +35,7 @@ Individually wrapped for convenience, these edibles are perfect for sharing with
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/canine-cbd-hemp-oil-tincture/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/hometown-hero-d9-fruity-rainbow-cereal-bites/">Order Online</a></
 
 <br><br><br>
 
