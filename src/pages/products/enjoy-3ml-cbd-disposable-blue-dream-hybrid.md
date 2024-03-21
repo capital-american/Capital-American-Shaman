@@ -38,7 +38,7 @@ CBG aka the “Mother of all Cannabinoids” is known for its restorative effect
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-hemp-blue-dream-3ml-cbd-disposable/">Order Online</a></
 
 <br><br><br>
 
