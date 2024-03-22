@@ -35,7 +35,7 @@ Enjoy one D9 Gummy every 12 hours. Do not exceed the suggested use unless under 
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/zen-master-nano-d9-gummies/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-hemp-green-crack-3ml-cbd-disposable-vape/">Order Online</a></
 
 <br><br><br>
 
