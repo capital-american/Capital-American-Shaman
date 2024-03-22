@@ -33,11 +33,11 @@ CBD is a compound found in hemp plants that acts on receptors in the body to pro
 
 <Center>
 
-\*\*To order online use the link below to our Online Store\*\*
+**To order online use the link below to our Online Store**
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-hemp-green-crack-3ml-cbd-disposable-vape/">Order Online</a></
 
 <br><br><br>
 
