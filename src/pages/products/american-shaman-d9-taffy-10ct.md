@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: American Shaman D9 Taffy | 10ct
+title: American Shaman D9 Taffy
 date: 2024-03-05T20:25:58.725Z
 category:
   - Delta 9
@@ -26,42 +26,24 @@ With four amazing flavors, these taffies will take you back to your childhood da
 
 *Blackberry*
 
-**Each package has 10 pieces of taffy**
+**Each package has 10 or 25 pieces of taffy depending on the size you select.**
 
 **Each taffy has a serving size of 10mg of Delta-9 THC and 20mg CBD**
 
-<!--StartFragment-->
+
 
 <br><br>
-
-
 
 <Center>
 
-
-
-\*\*To order online use the link below to our Online Store\*\*
-
-
+**To order online use the link below to our Online Store**
 
 <br><br>
 
-
-
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
-
-
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/american-shaman-d9-taffy/">Order Online</a></
 
 <br><br><br>
 
-
-
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
 
-
-
 <br><br>
-
-
-
-<!--EndFragment-->
