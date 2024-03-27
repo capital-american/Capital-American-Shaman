@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: "Green Means Go Kratom  | 150 Jumbo (1g) Capsules "
+title: "Great White Kratom  | 150 Jumbo (1g) Capsules "
 date: 2022-10-10T21:47:31.243Z
 category:
   - Kratom & Kava
