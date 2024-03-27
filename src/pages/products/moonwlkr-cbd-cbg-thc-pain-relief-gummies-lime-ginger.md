@@ -16,15 +16,9 @@ tags:
 
 Conquer pain with precision and propel your body to new heights of comfort with this dynamic combination of CBD + CBG + THC + Turmeric gummies. 
 
-Launch into a universe of relief, where aches vanish, and you can explore life without limits.
-
 Blending the benefits of **CBD**, **CBG**, and **THC** offers a comprehensive approach to pain management. 
 
-CBD’s anti-inflammatory and calming attributes, coupled with CBG’s analgesic effects, create a synergy. 
-
-THC, known for its pain-relieving properties, further enhances this trio by engaging with the endocannabinoid system. 
-
-With the added Turmeric, this blend is particularly great for chronic pain conditions.
+CBD’s anti-inflammatory and calming attributes, coupled with CBG’s analgesic effects, create a synergy. THC, known for its pain-relieving properties, further enhances this trio by engaging with the endocannabinoid system. With the added Turmeric, this blend is particularly great for chronic pain conditions.
 
 #### **What is CBD?**
 
@@ -38,7 +32,7 @@ CBG aka the “Mother of all Cannabinoids” is known for its restorative effect
 
 Turmeric is a common spice that comes from the root of Curcuma longa. It contains a chemical called curcumin, which can reduce inflammation and swelling.
 
-##### *This is pain relief at warp speed!*
+##### *Launch into a universe of relief, where aches vanish, and you can explore life without limits.* *This is pain relief at warp speed!*
 
 *25mg CBD |10mg CBG | 5mg THC| 200mg Turmeric Per Gummy*
 
