@@ -12,7 +12,7 @@ tags:
   - Edible
   - Products
 ---
-# **About Moonwlkr CBD Ashwagandha Gummies** 
+# **About Moonwlkr CBD Ashwagandha Gummies**
 
 Introducing these stellar CBD + Ashwagandha gummies formulated to melt away the stress of a long day.
 
@@ -24,9 +24,7 @@ CBD is a compound found in hemp plants that acts on receptors in the body to pro
 
 #### **What is Ashwagandha?**
 
-Ashwagandha is an herb that has been used for over 3,000 years to relieve stress, increase energy levels, and improve concentration. 
-
-Ashwagandha is classified as a natural adaptogen which has been shown to help your body adapt and cope with stress and anxiety, as well as reduce levels of our stress hormone cortisol.
+Ashwagandha is an herb that has been used for over 3,000 years to relieve stress, increase energy levels, and improve concentration. Ashwagandha is classified as a natural adaptogen which has been shown to help your body adapt and cope with stress and anxiety, as well as reduce levels of our stress hormone cortisol.
 
 ##### *Blast away stress and tension, and allow your mind to soar with these amazing gummies!*
 
