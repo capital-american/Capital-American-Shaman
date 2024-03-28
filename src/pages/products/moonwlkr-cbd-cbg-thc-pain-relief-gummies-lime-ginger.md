@@ -3,7 +3,8 @@ templateKey: product-post
 title: "Moonwlkr CBD : CBG : THC Pain Relief Gummies | Lime Ginger"
 date: 2022-11-29T04:54:00.000Z
 category:
-  - CBD Edibles; CBG & CBN
+  - CBD Edibles
+  - CBG & CBN
 image: /img/moonwlkr-cbd-and-cbg-pain-gummies.jpg
 amount: 39.99
 tags:
