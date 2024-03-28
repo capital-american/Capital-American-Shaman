@@ -21,6 +21,8 @@ The butter used during the baking process naturally increases your body's absorp
 
 Individually wrapped for convenience, these edibles are perfect for sharing with friends.
 
+Experience pure nostalgia with every bite!
+
 ***20mg D9 THC & 20mg CBD per Bite | 15 Bites per bag***
 
 ***Calming, smooth onset from a 1:1 ratio of THC to CBD***
