@@ -27,16 +27,16 @@ These gummies are packed with an expertly formulated blend of ingredients that a
 
 #### **There are 2 options to choose from:**
 
-**Double Strength** - *1500mg Per Bottle |50mg CBD Per Gummy |30 Gummies*
+**Double Strength** - *1500mg Per Bottle | 50mg CBD Per Gummy | 30 Gummies*
 
-**Extra Strength** - *3000mg Per Bottle | 100mg CBD Per Gummy |30 Gummies*
+**Extra Strength** - *3000mg Per Bottle | 100mg CBD Per Gummy | 30 Gummies*
 
 **Ingredients:** **Sugar, Tapioca Syrup, Water, Pectin, Natural Flavors, Full-Spectrum Hemp Extract, Citric Acid, Natural Fruit Flavors and Natural Colors.**
 
-* 50 mg of Maca Root,
-* 50 mg of Schisandra,
-* 50 mg of Damiana, and
-* 50 mg of Muira Puama per gummy.
+* 50 mg of Maca Root
+* 50 mg of Schisandra
+* 50 mg of Damiana
+* 50 mg of Muira Puama per gummy
 
 <br><br>
 
