@@ -42,7 +42,7 @@ Ashwagandha is an herb that has been used for over 3,000 years to relieve stress
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-face-cream-american-shaman/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/moonwalkr-gummies-cbd-ashwagandha/">Order Online</a></
 
 <br><br><br>
 
