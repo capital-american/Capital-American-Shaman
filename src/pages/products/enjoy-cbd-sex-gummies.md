@@ -19,11 +19,11 @@ Enjoy’s sex gummies are a tasty option for anyone looking to improve their sex
 
 These gummies are packed with an expertly formulated blend of ingredients that are designed to help enhance sexual function and desire.
 
-1. **Full-Spectrum CBD**, which is a holistic representation of CBD that includes all of the naturally occurring cannabinoids, plant terpenes, flavonoids, vitamins, minerals, and plant proteins of the original hemp source. This blend of compounds works together to create what is known as the “Entourage Effect,” which multiplies the potential health benefits of CBD and helps to keep your internal rhythms in optimal balance.
-2. **Schisandra** is an adaptogen that may help assist those suffering from impotence and erectile dysfunction, increase sexual stamina while reducing fatigue, remove toxic estrogens to balance your sex hormones, and increase libido.
-3. **Maca Root** may increase libido, increase sexual desire in men, and decrease sexual dysfunction with women.
-4. **Muira Puama** may help men with low libido increase their sexual desire and improve erectile function and may help women improve their sexual desire, and ability to reach an orgasm.
-5. **Damiana** has been reported and may help increase sexual arousal in men and women. It may also help with the ability to achieve orgasms.
+1. **Full-Spectrum CBD:** A holistic representation of CBD that includes all of the naturally occurring cannabinoids, plant terpenes, flavonoids, vitamins, minerals, and plant proteins of the original hemp source. This blend of compounds works together to create what is known as the “Entourage Effect,” which multiplies the potential health benefits of CBD and helps to keep your internal rhythms in optimal balance.
+2. **Schisandra:** An adaptogen that may help assist those suffering from impotence and erectile dysfunction, increase sexual stamina while reducing fatigue, remove toxic estrogens to balance your sex hormones, and increase libido.
+3. **Maca Root:** May increase libido, increase sexual desire in men, and decrease sexual dysfunction with women.
+4. **Muira Puama:** May help men with low libido increase their sexual desire and improve erectile function and may help women improve their sexual desire, and ability to reach an orgasm.
+5. **Damiana:** Has been reported and may help increase sexual arousal in men and women. It may also help with the ability to achieve orgasms.
 
 #### **There are 2 options to choose from:**
 
