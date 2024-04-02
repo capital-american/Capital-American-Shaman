@@ -16,7 +16,7 @@ tags:
 
 Unlock Deep Sleep with Enjoy Hemp's Sleep Gummies.
 
-These meticulously crafted gummies include a special blend of ingredients that can help meet your sleep needs and let you experience the restful night you deserve,
+These meticulously crafted gummies include a special blend of ingredients that can help meet your sleep needs and let you experience the restful night you deserve.
 
 1. **Full-Spectrum CBD:** Harness the full power of hemp's natural compounds for holistic sleep support.
 2. **CBN:** Known for its sedative and relaxing properties, CBN helps promote relaxation and better sleep quality.
@@ -32,9 +32,9 @@ These meticulously crafted gummies include a special blend of ingredients that c
 
 **Ingredients: Sugar, Tapioca Syrup, Water, Pectin, Natural Flavors, Full-Spectrum Hemp Extract, CBN Isolate, Citric Acid, Natural Fruit Flavors, and Natural Colors.**
 
-10 milligrams of CBN
+10 mg of CBN
 
-300 milligrams of Ashwagandha
+300 mg of Ashwagandha
 
 50 mg of Lavender
 
