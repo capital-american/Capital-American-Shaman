@@ -27,7 +27,7 @@ If you’re totally new to cannabis or someone who is looking for a mellow re-en
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/early-bird-full-spectrum-cbd-gummies/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/earlybird-full-spectrum-cbd-gummies/">Order Online</a></
 
 <br><br><br>
 
