@@ -12,7 +12,7 @@ featuredimage: /img/thca-preroll.jpg
 tags:
   - THCa
 ---
-![](/img/thca-preroll.jpg)
+![](/img/pre-rolls2-.jpg)
 
 # **What is THCa?**
 
