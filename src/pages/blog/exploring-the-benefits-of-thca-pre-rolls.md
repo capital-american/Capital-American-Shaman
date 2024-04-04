@@ -12,6 +12,8 @@ featuredimage: /img/thca-preroll.jpg
 tags:
   - THCa
 ---
+![](/img/thca-preroll.jpg)
+
 # **What is THCa?**
 
 Before diving into the benefits of THCa pre-rolls, let’s first understand what THCa is.
@@ -44,8 +46,6 @@ THCa has been found to have anti-emetic properties, meaning it can help reduce n
 
 Studies have also shown that THCa may have neuroprotective effects, which can help protect the brain and nervous system from damage making THCa a potential option for those dealing with neurodegenerative diseases such as Alzheimer’s or Parkinson’s.
 
-
-
 ## **American Shaman THCa Pre-rolls**
 
 ![](/img/thca-flowr.jpg)
@@ -53,8 +53,6 @@ Studies have also shown that THCa may have neuroprotective effects, which can he
 American Shaman is a well-known brand in the Cannabis/Hemp industry, offering a range of high-quality products including THCa pre-rolls. Their pre-rolls are made with premium, organic hemp flower and contain high levels of THCa.
 
 American Shaman’s THCa pre-rolls are known for their smooth, flavorful smoke and potential therapeutic benefits. They offer a range of strains to choose from, each with its unique flavor profile and potential benefits.
-
-
 
 ## **Cali Vibe THCa Pre-rolls**
 
