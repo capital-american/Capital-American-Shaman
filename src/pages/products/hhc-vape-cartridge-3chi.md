@@ -51,7 +51,7 @@ For more information on HHC check out our blog on this cannabinoid [here. ](http
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/3chi-hhc-vape-cartridge/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/3chi-1ml-hhc-vape-cartridge/">Order Online</a></
 
 <br><br><br>
 
