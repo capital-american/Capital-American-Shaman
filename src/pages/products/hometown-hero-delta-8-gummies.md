@@ -33,8 +33,22 @@ This product contains less than .3% delta 9 THC. Delta 8 THC is federally legal 
 
 For more information on Delta 8 look [here.](https://capitalamericanshaman.com/blog/delta-8/)
 
-<br>
-
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/product-category/delta-8/">Take a look at our other Delta 8 Products</a></Center><br><br>
-
 **WARNING:** Do not operate a vehicle or heavy machinery when taking these gummies. Do not use if pregnant, nursing, or if you have any diagnosed or undiagnosed health conditions. Hometown Hero is not responsible for the actions of individuals who take this product.
+
+
+
+<br><br>
+
+<Center>
+
+**To order online use the link below to our Online Store**
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/hometown-hero-d8-gummies/">Order Online</a></
+
+<br><br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
