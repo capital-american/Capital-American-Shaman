@@ -1,6 +1,6 @@
 ---
 title: Moonwlkr Amanita Gummies | 4000mg
-date: 2023-06-09T20:33:00.000Z
+date: 2023-06-09T20:32:00.000Z
 category:
   - Mushroom
 image: /img/moonwlkr-amanita-gummies-4000mg.jpg
