@@ -41,7 +41,7 @@ Experience pure nostalgia with every bite!
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/hometown-hero-d9-cinna-crunch-cereal-bites/">Order Online</a></
 
 <br><br><br>
 
