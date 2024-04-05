@@ -4,7 +4,7 @@ title: CBG Oil (CBGo)
 date: 2022-10-11T10:21:37.061Z
 category:
   - CBD Water Soluble Products
-image: /img/cbg-oil-austin-shaman-cbd-store.jpg
+image: /img/cbgo-cbg-oil.jpg
 amount: 89.99
 tags:
   - Product
