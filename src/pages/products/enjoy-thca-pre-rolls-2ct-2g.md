@@ -1,47 +1,42 @@
 ---
-templateKey: product-post
-title: Enjoy THCa Pre-rolls (2ct) | 2g
-date: 2022-11-03T21:03:00.000Z
+title: Moonwlkr Amanita Gummies | 4000mg
+date: 2023-06-09T20:33:00.000Z
 category:
-  - THCa
-image: /img/enjoy-thca-prerolls.jpg
-amount: 20.99
+  - Mushroom
+image: /img/moonwlkr-amanita-gummies-4000mg.jpg
+amount: 29.99
 tags:
-  - THCa
-  - Pre-roll
+  - Mushroom
+  - Edible
   - Products
 ---
-# **About Enjoy’s 1 Gram THCa Pre-rolls (2ct)**
+# **About Moonwlkr Amanita Gummies**
 
-Indulge in the ultimate hemp experience with these top-shelf THCa pre-rolls!
+Float amongst the stars and explore uncharted territory with Amanita Mushroom Gummies!
 
-Each pre-roll contains pure THCa flower infused with terpenes for enhanced flavor and effects, ensuring a clean and potent experience without additives.
+**Amanita Muscaria Mushrooms** are renowned for their distinctive appearance, with a bright red cap adorned with white spots. These mushrooms contain compounds that when ingested, can lead to a heightened sense of relaxation, enhanced lights, colors, and mood, and have been known to diminish anxiety and physical pain.
 
-#### **What is THCa?**
+Each mushroom gummy is meticulously crafted with 1,000mg of pure amanita extract, offering a cosmic blend that ensures the best trip this side of the Milky Way!
 
-Tetrahydrocannabinolic acid (THCa) is a non-psychoactive compound found in hemp. However, when heated, it undergoes a process called decarboxylation and converts to the psychoactive compound THC.
+Whether you’re a seasoned space voyager or a curious adventurer, Moonwlkr invites you to embark on a mind-expanding voyage to the cosmic realms, elevating your senses and leaving you moonwalking through the wonders of the universe.
 
-#### **Three Strains to Choose From:**
+##### ***This product is a legal psychedelic with no psilocybin. Consult your doctor before use and always use responsibly. Results will vary based on a variety of factors.***
 
-**Supercharged | Strawberry Cough (Sativa)** - Delight in the mouthwatering strawberry flavor and uplifting high perfect for boosting creativity and social interactions.
+*4 Gummies Per Bag*
 
-**Blueberry AK | Cloud Nine (Hybrid)** - Experience a blissful and relaxing high with a delightful blend of blueberry sweetness and soothing effects.
+*1,000mg Amanita Extract Per Gummy*
 
-**Strawnanna | Couchlock (Indica)** - Indulge in a tropical and sweet sensation while enjoying a balanced and uplifting high ideal for relaxation.
+*3 Flavors - Watermelon, Peach Mango and Blue Raspberry*
 
-*1g Per Per-roll*
+*Lab Tested for Purity, Potency, and Safety*
 
-*2 Pre-rolls Per Container*
-
-*Premium Exotic Flower*
-
-*Ingredients: THCa, Hemp Flower, Terpenes*
+*Not for Sale in the State of Louisiana*
 
 <br><br>
 
 <Center>
 
-**\*\*To order online use the link below to our Online Store\*\***
+\*\*To order online use the link below to our Online Store\*\*
 
 <br><br>
 
