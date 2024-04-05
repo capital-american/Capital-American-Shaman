@@ -21,4 +21,10 @@ tags:
 
 <br><br>
 
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbg-oil-cbgo/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
