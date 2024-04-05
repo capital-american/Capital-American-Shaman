@@ -1,6 +1,6 @@
 ---
 title: Moonwlkr Amanita Gummies | 4000mg
-date: 2024-04-05T20:56:43.031Z
+date: 2023-06-09T20:36:00.000Z
 category:
   - Mushroom
 image: /img/moonwlkr-amanita-gummies-4000mg.jpg
@@ -36,7 +36,7 @@ Whether you’re a seasoned space voyager or a curious adventurer, Moonwlkr invi
 
 <Center>
 
-\*\*To order online use the link below to our Online Store\*\*
+**\*\*To order online use the link below to our Online Store\*\***
 
 <br><br>
 
