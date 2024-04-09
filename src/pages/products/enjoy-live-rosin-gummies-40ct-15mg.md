@@ -47,7 +47,7 @@ Delta-9 THC is the cannabinoid most known for the euphoric high that comes with 
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-live-rosin-gummies-40ct15mg/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-live-rosin-delta-9-gummies/">Order Online</a></
 
 <br><br><br>
 
