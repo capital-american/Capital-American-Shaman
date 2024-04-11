@@ -42,7 +42,7 @@ These gummies are packed with an expertly formulated blend of ingredients that a
 
 <Center>
 
-\*\*To order online use the link below to our Online Store\*\*
+**To order online use the link below to our Online Store**
 
 <br><br>
 
