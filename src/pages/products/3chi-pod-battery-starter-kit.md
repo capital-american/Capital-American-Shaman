@@ -41,7 +41,7 @@ One of the biggest improvements is its ability to ensure that a wide range of oi
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/3chi-battery-starter-kit/">Order Online</a></
 
 <br><br><br>
 
