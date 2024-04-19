@@ -40,7 +40,7 @@ Whether you’re a seasoned space voyager or a curious adventurer, Moonwlkr invi
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></Center>
 
 <br><br><br>
 
