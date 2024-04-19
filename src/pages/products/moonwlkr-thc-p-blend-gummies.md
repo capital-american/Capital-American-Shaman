@@ -3,7 +3,7 @@ templateKey: product-post
 title: Moonwlkr THC-P Blend Gummies
 date: 2022-11-28T23:45:00.000Z
 category:
-  - Delta-9
+  - Delta 9
 image: /img/moonwlkr-thcp-blend-gummies.jpg
 amount: 47.99
 tags:
