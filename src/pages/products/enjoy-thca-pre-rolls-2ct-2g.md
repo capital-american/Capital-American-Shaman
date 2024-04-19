@@ -1,4 +1,5 @@
 ---
+templateKey: product-post
 title: Moonwlkr Amanita Gummies | 4000mg
 date: 2023-06-09T20:36:00.000Z
 category:
@@ -10,6 +11,7 @@ tags:
   - Edible
   - Products
 ---
+
 # **About Moonwlkr Amanita Gummies**
 
 Float amongst the stars and explore uncharted territory with Amanita Mushroom Gummies!
@@ -20,17 +22,17 @@ Each mushroom gummy is meticulously crafted with 1,000mg of pure amanita extract
 
 Whether you’re a seasoned space voyager or a curious adventurer, Moonwlkr invites you to embark on a mind-expanding voyage to the cosmic realms, elevating your senses and leaving you moonwalking through the wonders of the universe.
 
-##### ***This product is a legal psychedelic with no psilocybin. Consult your doctor before use and always use responsibly. Results will vary based on a variety of factors.***
+##### **_This product is a legal psychedelic with no psilocybin. Consult your doctor before use and always use responsibly. Results will vary based on a variety of factors._**
 
-*4 Gummies Per Bag*
+_4 Gummies Per Bag_
 
-*1,000mg Amanita Extract Per Gummy*
+_1,000mg Amanita Extract Per Gummy_
 
-*3 Flavors - Watermelon, Peach Mango and Blue Raspberry*
+_3 Flavors - Watermelon, Peach Mango and Blue Raspberry_
 
-*Lab Tested for Purity, Potency, and Safety*
+_Lab Tested for Purity, Potency, and Safety_
 
-*Not for Sale in the State of Louisiana*
+_Not for Sale in the State of Louisiana_
 
 <br><br>
 
