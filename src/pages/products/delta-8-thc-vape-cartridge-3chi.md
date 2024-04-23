@@ -5,7 +5,7 @@ date: 2022-11-08T23:49:27.788Z
 category:
   - Delta 8
 image: /img/delta-8-thc-vape-cartridges.jpg
-amount: 34.99
+amount: 28.99
 tags:
   - Products
 ---
