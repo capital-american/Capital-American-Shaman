@@ -5,7 +5,7 @@ date: 2022-11-08T22:55:00.000Z
 category:
   - CBD Vape Products
 image: /img/3chi-cbd-vape-cartridge.jpg
-amount: 39.99
+amount: 22.99
 tags:
   - CBD Vape Oil
 ---
