@@ -3,7 +3,7 @@ templateKey: product-post
 title: 3Chi HHC Blend Vape Pods | 2mL
 date: 2024-02-16T18:15:00.000Z
 category:
-  - HHC
+  - HHC Products
 image: /img/3chi-hhc-blend-vape-pods-2ml.jpg
 amount: 29.99
 tags:
