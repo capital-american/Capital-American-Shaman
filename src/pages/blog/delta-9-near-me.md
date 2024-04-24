@@ -35,9 +35,11 @@ Local dispensaries often carry a variety of Delta 9 products. These can range fr
 
 Use online resources to find local dispensaries.
 
-* Check the product availability at these locations.
-* Compare prices and product quality.
-* Read customer reviews and recommendations.
+Check the product availability at these locations.
+
+Compare prices and product quality.
+
+Read customer reviews and recommendations.
 
 Remember, supporting local businesses can also contribute to your local economy.
 
@@ -60,3 +62,17 @@ There are several online tools and resources that can help you find Delta 9 near
 Some popular cannabis discovery apps include Weedmaps and Leafly. They provide information on local dispensaries and product availability.
 
 Remember, it's important to verify the legality of Delta 9 in your area before making a purchase.
+
+![](/img/store-front-stretch-blog-image.jpg)
+
+### Conclusion
+
+If you happen to be in the Austin area you are in luck.  Capital American Shaman stocks the highest quality D9 products on the market.  Located at 8315 Burnet Road Ste. C where you can find the best hemp-derived THC edibles, Fower, Vapes and topicals. We are 100% committed to delivering you only the best.
+
+Each product has undergone independent laboratory testing to guarantee its safety and has a delta-9 THC level of less than .3%, which satisfies all 2018 United States Farm Bill criteria. Come in to begin your path toward becoming a better, brighter version of yourself.
+
+The effectiveness of the product is based on the active substances in it. A high amount of THC may make it work faster.
+
+<br>
+
+<center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3442.5441840515764!2d-97.7283884!3d30.363901699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644cb31a4fe226f%3A0x34275657f2964730!2sCapital%20CBD%20American%20Shaman!5e0!3m2!1sen!2sus!4v1667507515248!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><center/>
