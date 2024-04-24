@@ -27,9 +27,11 @@ Every piece is infused with 100mg of Delta-8 THC for deep relaxation. Ensuring p
 
 ***Refreshing Watermelon***
 
-* Moderated, body-focused effect from Delta-8 THC
-* Best for deep relief, relaxation, and rest
-* 10 pieces | 100mg per piece | 1000mg per bag
+Moderated, Body-focused Effect From Delta-8 THC
+
+Deep Relief, Relaxation, and Rest
+
+10 pieces | 100mg per piece | 1000mg per bag
 
 100% vegan
 
