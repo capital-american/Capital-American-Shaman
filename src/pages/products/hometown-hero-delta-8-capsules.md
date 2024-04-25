@@ -1,7 +1,7 @@
 ---
 templateKey: product-post
 title: Hometown Hero Delta-8 Capsules
-date: 2024-02-13T21:24:00.000Z
+date: 2024-02-13T21:25:00.000Z
 category:
   - Delta 8
 image: /img/hometown-hero-d8-capsules.jpeg
