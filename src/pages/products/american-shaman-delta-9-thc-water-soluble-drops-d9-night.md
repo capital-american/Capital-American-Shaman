@@ -36,11 +36,11 @@ The added CBN enhances the relaxing effects of Delta-9 THC and CBD and is renown
 
 <Center>
 
-**\*\*To order online use the link below to our Online Store\*\***
+#### **\*\*To order online use the link below to our Online Store\*\***
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href=" https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href=" https://capitalcbd.shop/product/american-shaman-d9-night-water-soluble-225mg/">Order Online</a></
 
 <br><br><br>
 
