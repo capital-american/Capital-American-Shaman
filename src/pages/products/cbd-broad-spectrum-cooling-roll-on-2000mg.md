@@ -1,7 +1,7 @@
 ---
 templateKey: product-post
 title: CBD Broad Spectrum Cooling Roll On - 2000mg
-date: 2022-11-03T02:22:01.381Z
+date: 2022-11-02T21:30:00.000Z
 category:
   - CBD Lotions Creams and Topicals
 image: /img/cooling-rollon.jpg
