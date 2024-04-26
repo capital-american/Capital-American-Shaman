@@ -39,7 +39,7 @@ The relaxing effects of Delta-9 THC and CBD are complemented by the added CBG wh
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-sex-cbd-gummies/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/american-shaman-d9-day-water-soluble-225mg/">Order Online</a></
 
 <br><br><br>
 
