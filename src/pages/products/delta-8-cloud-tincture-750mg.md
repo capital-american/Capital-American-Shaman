@@ -24,6 +24,18 @@ There are 4 different flavors for you to choose your favorite experience: Bluebe
 
 For a little more information on Delta 8 look [here.](https://capitalamericanshaman.com/blog/delta-8/)
 
-<br>
+<br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/product-category/delta-8/">Take a look at our other Delta 8 Products</a></Center>
+<Center>
+
+##### \*\*To order online use the link below to our Online Store\*\*
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/delta-8-cloud-tincture-750mg/">Order Online</a></
+
+<br><br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
