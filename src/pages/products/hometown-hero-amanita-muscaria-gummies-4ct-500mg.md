@@ -59,7 +59,7 @@ Begin with ¼ of a gummy and wait at least 45 minutes to feel the effects before
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/canine-cbd-water-soluble-hemp-oil-tincture/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/hometown-hero-amanita-muscaria-gummies-4ct-500mg/">Order Online</a></
 
 <br><br><br>
 
