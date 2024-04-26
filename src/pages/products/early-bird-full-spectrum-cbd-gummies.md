@@ -13,7 +13,9 @@ tags:
 ---
 Earlybird is an Austin-based recreational hemp company that makes gummies formulated to make you feel good. One of the first companies to formulate a full-spectrum hemp edible with an intentional microdose of natural THC that delivers a consistent, relaxing experience and puts a smile on your face.
 
-All of their gummies contain a 5:1 CBD to THC ratio. With an approximate target of 2.5mg of natural THC and 12.5mg of CBD in each serving, many people find it’s the perfect amount for a consistent and functional way to take the edge off.
+All of these gummies contain a 5:1 CBD to THC ratio. With an approximate target of 2.5mg of natural THC and 12.5mg of CBD in each serving, many people find it’s the perfect amount for a consistent and functional way to take the edge off.
+
+Consuming a small amount of THC derived from hemp can be an excellent method of promoting relaxation. The goal is to introduce our products to individuals of all backgrounds who are 21 years old or above. Whether you are a hardworking professional, a busy parent, or a retired individual pursuing hobbies, we believe that our gummies and tinctures can enhance your daily routine.
 
 If you’re totally new to cannabis or someone who is looking for a mellow re-entry point, this product was developed with you in mind.
 
