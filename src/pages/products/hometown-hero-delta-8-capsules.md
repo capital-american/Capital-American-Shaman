@@ -37,7 +37,7 @@ Whether you’re looking for a quick pick-me-up or a way to unwind after a long 
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank href= "https://capitalcbd.shop/product/hometown-hero-delta-8-capsules-15mg/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/hometown-hero-delta-8-capsules-15mg/">Order Online</a></
 
 <br><br><br>
 
