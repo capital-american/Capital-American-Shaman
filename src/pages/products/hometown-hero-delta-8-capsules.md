@@ -11,7 +11,7 @@ tags:
   - Edible
   - Products
 ---
-# **About Delta-8 Soft Gel Capsules from Hometown Hero**
+# https://capitalcbd.shop/product/hometown-hero-delta-8-capsules-15mg/**About Delta-8 Soft Gel Capsules from Hometown Hero**
 
 Experience relief whenever and wherever you need it with these discreet Delta-8 capsules.
 
@@ -37,7 +37,7 @@ Whether you’re looking for a quick pick-me-up or a way to unwind after a long 
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href=" https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank href= "https://capitalcbd.shop/product/hometown-hero-delta-8-capsules-15mg/">Order Online</a></
 
 <br><br><br>
 
