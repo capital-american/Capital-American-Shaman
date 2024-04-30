@@ -1,7 +1,7 @@
 ---
 templateKey: product-post
 title: Hometown Hero Fudgy Brownies | 50mg D9 4ct
-date: 2024-02-13T21:24:00.000Z
+date: 2024-02-13T21:25:00.000Z
 category:
   - Delta 9
 image: /img/hometown-hero-fudge-brownies.jpeg
