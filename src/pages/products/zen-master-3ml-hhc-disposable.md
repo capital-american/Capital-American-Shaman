@@ -40,7 +40,7 @@ While Zen Master's strains feature terpenes usually indicating Sativa, Indica, o
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/zen-master-3ml-hhc-disposable/">Order Online</a></
 
 <br><br><br>
 
