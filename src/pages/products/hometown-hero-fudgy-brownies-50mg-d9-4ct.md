@@ -31,7 +31,7 @@ Every package comes with four individually wrapped nostalgia-inducing treats, pe
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href=" https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/hometown-hero-fudgy-brownies/">Order Online</a></
 
 <br><br><br>
 
