@@ -35,7 +35,7 @@ Rub into sore, stiff muscles and joints to temporarily ease pain, discomfort, an
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href=" https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/proleve-500mg-cbd-isolate-salve/">Order Online</a></
 
 <br><br><br>
 
