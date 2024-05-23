@@ -5,7 +5,7 @@ date: 2022-10-09T20:09:46.374Z
 category:
   - Kratom & Kava
 image: /img/irenes-good-night.jpg
-amount: 34.99
+amount: 29.99
 tags:
   - Products
   - Kratom
