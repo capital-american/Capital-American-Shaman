@@ -5,7 +5,7 @@ date: 2022-10-28T19:47:05.186Z
 category:
   - Delta 8
 image: /img/delta-8-prerolls.jpg
-amount: 12.49
+amount: 12.5
 tags:
   - Products
   - Zen Master
