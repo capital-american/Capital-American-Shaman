@@ -5,7 +5,7 @@ date: 2022-11-02T22:49:14.758Z
 category:
   - HHC Products
 image: /img/disposable-hhc-vapes.jpg
-amount: 39.99
+amount: 29.99
 tags:
   - Products
 ---
