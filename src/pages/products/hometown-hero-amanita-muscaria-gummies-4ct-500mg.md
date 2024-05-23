@@ -5,7 +5,7 @@ date: 2023-06-09T22:16:40.653Z
 category:
   - Mushroom
 image: /img/amanita-magic-mushroom.jpg
-amount: 24.99
+amount: 25
 tags:
   - Mushroom
   - Products
