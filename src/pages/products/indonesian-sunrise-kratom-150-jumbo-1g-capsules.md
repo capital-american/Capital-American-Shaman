@@ -5,7 +5,7 @@ date: 2022-10-10T19:40:20.294Z
 category:
   - Kratom & Kava
 image: /img/1836-kratom-150ct-indonesian-sunrise.jpg
-amount: 49.99
+amount: 54.95
 tags:
   - Products
 ---
