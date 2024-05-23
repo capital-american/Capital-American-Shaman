@@ -5,7 +5,7 @@ date: 2022-10-10T14:46:00.000Z
 category:
   - Kratom & Kava
 image: /img/texas-red-kratom-capsules.jpg
-amount: 49.99
+amount: 54.95
 tags:
   - Products
 ---
