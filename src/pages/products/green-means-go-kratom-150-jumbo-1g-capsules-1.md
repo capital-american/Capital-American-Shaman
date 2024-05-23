@@ -5,7 +5,7 @@ date: 2022-10-10T21:47:31.243Z
 category:
   - Kratom & Kava
 image: /img/1836-kratom-150ct-great-white-kratom-capsules.jpg
-amount: 49.99
+amount: 54.95
 tags:
   - Products
 ---
