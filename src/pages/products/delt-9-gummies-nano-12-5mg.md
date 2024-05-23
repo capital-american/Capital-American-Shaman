@@ -5,7 +5,7 @@ date: 2022-10-28T05:36:15.344Z
 category:
   - Delta 9
 image: /img/delta-9-gummies-zen-master.jpg
-amount: 30
+amount: 29.99
 tags:
   - Products
   - Zen Master
