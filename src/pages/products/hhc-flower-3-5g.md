@@ -5,7 +5,7 @@ date: 2022-11-05T17:54:41.670Z
 category:
   - HHC Products
 image: /img/hhc-flower.jpg
-amount: 29.99
+amount: 30
 tags:
   - Products
 ---
