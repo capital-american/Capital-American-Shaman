@@ -5,7 +5,7 @@ date: 2022-10-10T21:36:28.596Z
 category:
   - Kratom & Kava
 image: /img/1836-kratom-150ct-green-means-go-kratom-capsules.jpg
-amount: 49.99
+amount: 54.95
 tags:
   - Products
 ---
