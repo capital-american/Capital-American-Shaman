@@ -5,7 +5,7 @@ date: 2022-10-10T04:17:00.000Z
 category:
   - Kratom & Kava
 image: /img/1836-kratom-fighters-full-potential.jpg
-amount: 34.99
+amount: 29.99
 tags:
   - Products
 ---
