@@ -5,7 +5,7 @@ date: 2022-11-08T22:19:04.147Z
 category:
   - CBD Vape Products
 image: /img/proleve-cbd-vape-cartidges.jpg
-amount: 25
+amount: 20
 tags:
   - Products
 ---
