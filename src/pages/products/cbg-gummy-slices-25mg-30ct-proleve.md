@@ -5,7 +5,7 @@ date: 2022-11-01T19:47:00.000Z
 category:
   - CBD Edibles
 image: /img/proleve-cbg-gummies-25mg.jpg
-amount: 44.99
+amount: 45
 tags:
   - Products
 ---
