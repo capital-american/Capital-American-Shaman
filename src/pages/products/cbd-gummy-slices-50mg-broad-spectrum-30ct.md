@@ -5,7 +5,7 @@ date: 2022-11-01T22:19:00.000Z
 category:
   - CBD Edibles
 image: /img/proleve-cbd-gummies-50mg.jpg
-amount: 54.99
+amount: 49.99
 tags:
   - CBD
   - Edible
