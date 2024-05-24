@@ -1,11 +1,11 @@
 ---
 templateKey: product-post
-title: Delta 9 Caramels (6ct)- Zen Master
+title: Delta 9 Caramels - Zen Master
 date: 2022-11-05T23:07:29.531Z
 category:
   - Delta 9
 image: /img/zen-master-delta-9-caramels.jpg
-amount: 28.5
+amount: 29.99
 tags:
   - Products
 ---
