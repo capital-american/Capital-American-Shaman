@@ -5,7 +5,7 @@ date: 2022-10-11T21:24:10.077Z
 category:
   - CBD Dog / Cat and Equine Products
 image: /img/cat-treats-holista-pet.jpg
-amount: 24.99
+amount: 25
 tags:
   - Products
 ---
