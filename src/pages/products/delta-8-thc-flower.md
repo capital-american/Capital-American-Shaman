@@ -5,7 +5,7 @@ date: 2022-11-03T22:32:22.246Z
 category:
   - Delta 8
 image: /img/delta-8-flower.jpg
-amount: 29.99
+amount: 30
 tags:
   - Products
 ---
