@@ -5,7 +5,7 @@ date: 2022-10-11T08:44:59.937Z
 category:
   - CBD Skin Care
 image: /img/cbd-store-hydrating-body-lotion.jpg
-amount: 40
+amount: 39.99
 tags:
   - Product
 ---
