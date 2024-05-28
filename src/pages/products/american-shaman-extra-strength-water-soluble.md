@@ -5,7 +5,7 @@ date: 2022-10-11T10:08:57.024Z
 category:
   - CBD Water Soluble Products
 image: /img/extra-strength-water-soluble-900mg.jpg
-amount: 179
+amount: 179.99
 tags:
   - Product
 ---
