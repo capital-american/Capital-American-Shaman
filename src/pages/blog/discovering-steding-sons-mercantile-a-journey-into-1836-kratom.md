@@ -14,8 +14,6 @@ tags:
   - Pain Relief
   - Energy
 ---
-
-
 ## **The History of Steding & Sons Mercantile**
 
 Steding & Sons Mercantile is a company steeped in tradition and quality. Founded in the early 19th century in Austin, Texas, the mercantile started as a small family-owned business, focusing on providing high-quality goods to local communities. Over the years, they have expanded their offerings, always maintaining a commitment to excellence and customer satisfaction. The introduction of their 1836 Kratom line continues this legacy, blending historical values with modern wellness trends.
@@ -42,7 +40,11 @@ Nowadays, kratom is processed into various forms, including powders, capsules, a
 
 They also offer a unique chart categorizing their products based on the effects that users might feel. This chart is beneficial for both beginners and veterans to navigate the different strains and find the one that best suits their needs.
 
+<Center>
+
 ![](/img/kratom-card.webp)
+
+</Center>
 
 ## What are the Benefits of 1836 Kratom?
 
