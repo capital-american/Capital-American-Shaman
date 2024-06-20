@@ -6,7 +6,7 @@ category:
   - CBD Edibles
   - CBG & CBN
 image: /img/moonwlkr-cbd-and-cbn-sleep-gummies.jpg
-amount: 38.99
+amount: 36.99
 tags:
   - Products
 ---
@@ -32,7 +32,7 @@ For more information on CBN take a look at our blog [here.](https://capitalameri
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/https://capitalcbd.shop/product/cbd-cbn-sleep-gummies-moonwlkr/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-cbn-sleep-gummies-moonwlkr/">Order Online</a></
 
 <br><br><br>
 
