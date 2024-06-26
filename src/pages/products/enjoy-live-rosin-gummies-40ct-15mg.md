@@ -17,13 +17,13 @@ Each gummy contains 15 mg of Delta-9 THC + Live Rosin with 40 gummies per bag fo
 
 These gummies will knock your socks off with potency and flavor! Our blend of Live Rosin Sativa terpene-infused Blue Raspberry gummies will have you headed to a state of Euphoria!
 
-Our 600 mg Delta-9 THC Live Rosin Gummies come in a two different effects/flavors:
+Our 600 mg Delta-9 THC Live Rosin Gummies come in a three different effects/flavors:
 
-**Euphoria Blue Raspberry:** a sativa blend for a boost of energy and happiness
+**Euphoria Blue Raspberry:** a Sativa blend for a boost of energy and happiness
 
-**Bliss Strawberry:** A hybrid blend that tends to provide calm, upbeat happiness.  Often dubbed the best of both worlds.
+**Bliss Strawberry:** A Hybrid blend that tends to provide calm, upbeat happiness.  Often dubbed the best of both worlds.
 
-**Chill Pineapple:** an indica blend for a relaxing and calming experience
+**Chill Pineapple:** an Indica blend for a relaxing and calming experience
 
 ## What is Live Rosin?
 
