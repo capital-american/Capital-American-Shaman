@@ -32,8 +32,6 @@ Made to maximize the bioavailability and delivery of all the beneficial amino ac
 \
 **Ingredients:** CBD, Organic Coconut Flour, Vegan Capsules (non-gelatin)
 
-
-
 <br><br>
 
 <Center>
@@ -42,7 +40,7 @@ Made to maximize the bioavailability and delivery of all the beneficial amino ac
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cheef-botanicals-cbd-capsules/">Order Online</a></
 
 <br><br><br>
 
