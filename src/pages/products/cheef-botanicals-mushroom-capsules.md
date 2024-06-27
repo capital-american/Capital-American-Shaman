@@ -28,7 +28,7 @@ Various types of functional mushrooms can offer several physical and mental bene
 
 **Mood Enhancement:** *Some mushrooms may elevate your mood and help you feel more at ease by stimulating your brain to release serotonin which can help lift your mood and mellow out an anxious mind.*
 
-**Energizing:** *The rich vitamins in functional mushrooms can support your body’s natural energy metabolism.*
+**Energy:** *The rich vitamins in functional mushrooms can support your body’s natural energy metabolism.*
 
 **Improved Focus:** *One of the most common nootropic benefits consumers report is better memory, concentration, and focus.*
 
