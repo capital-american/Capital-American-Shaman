@@ -36,7 +36,7 @@ With a deliciously refreshing watermelon flavor and added Hybrid terpenes, these
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-live-rosin-delta-9-cbd-gummies-balance-1200mg-40ct/">Order Online</a></
 
 <br><br><br>
 
