@@ -37,7 +37,7 @@ Embrace the calm and discover the transformative benefits of 3Chi’s Comfortabl
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/3chi-comfortably-numb-delta-8-tincture1200mg/">Order Online</a></
 
 <br><br><br>
 
