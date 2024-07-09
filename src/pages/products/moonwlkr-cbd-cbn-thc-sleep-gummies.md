@@ -20,7 +20,7 @@ Discover the magic of MOONWLKR Totally Tropical Sleep Gummies, the deliciously e
 
 Imagine sinking into the softest bed in paradise, surrounded by the scent of ripe mango, sweet coconut, and pineapple. These gummies will transport you to this tropical haven with every bite!
 
-With 25mg CBD, 10mg CBN, and 5mg THC these gummies will have you experiencing a deeper, more restful sleep so that you can wake up refreshed and ready to conquer the day!
+With 25mg **CBD**, 10mg **CBN**, and 5mg **THC** these gummies will have you experiencing a deeper, more restful sleep so that you can wake up refreshed and ready to conquer the day!
 
 #### **What is CBD?**
 
