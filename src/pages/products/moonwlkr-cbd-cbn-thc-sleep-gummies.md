@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Moonwlkr CBD + CBN + THC Sleep Gummies
+title: Moonwlkr CBD:CBN:THC Sleep Gummies
 date: 2022-11-29T04:55:00.000Z
 category:
   - Delta 9
