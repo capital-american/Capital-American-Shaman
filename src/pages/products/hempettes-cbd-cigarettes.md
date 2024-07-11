@@ -46,7 +46,7 @@ As with any smoking product, it’s important for users to consult with healthca
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/hempettes-cbd-cigarettes/">Order Online</a></
 
 <br><br><br>
 
