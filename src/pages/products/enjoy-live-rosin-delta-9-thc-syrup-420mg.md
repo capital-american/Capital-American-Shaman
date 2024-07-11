@@ -5,7 +5,7 @@ date: 2022-11-19T23:44:28.493Z
 category:
   - Delta 9
 image: /img/enjoy-live-rosin-d9-syrup-420mg.jpg
-amount: 34.99
+amount: 32.99
 tags:
   - Delta 9
   - Edible
