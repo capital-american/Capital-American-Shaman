@@ -83,7 +83,7 @@ With 7-OH Advanced Alkaloids, the future of health and wellness is here. These p
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-face-cream-american-shaman/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/advanced-alkaloids-white-vein-chewable-tablets/">Order Online</a></
 
 <br><br><br>
 
