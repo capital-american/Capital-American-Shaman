@@ -41,7 +41,7 @@ So, invest in your well-being and experience the difference a good night’s sle
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank"https://capitalcbd.shop/product/3chi-comfortably-numb-delta-8-cbn-gummies/">Order Online</a></
 
 <br><br><br>
 
