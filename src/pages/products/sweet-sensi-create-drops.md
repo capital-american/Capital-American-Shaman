@@ -28,9 +28,9 @@ CBG aka the “Mother of all Cannabinoids” is known for its therapeutic effect
 
 *10mg Caffeine + 10mg CBG Per Dop | 200mg Per Bag | 10 Gum Drops*
 
-**Terpenes:** *Citronellol, Limonene, and Phellandrene*
-
 *THC Free - Organic - Local*
+
+**Terpenes:** *Citronellol, Limonene, and Phellandrene*
 
 **Ingredients:** Organic Pectin, Organic Sodium Citrate, Organic Citric Acid, Organic Cane Sugar, Organic Tapioca Syrup, Organic Coloring, Organic Hemp Rosin, Organic Pineapple, Organic Passionfruit, Organic Kiwi, Organic Green Tea
 
