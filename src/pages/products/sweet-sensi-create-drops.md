@@ -1,7 +1,7 @@
 ---
 templateKey: product-post
 title: Sweet Sensi Create Drops
-date: 2022-10-11T22:48:00.000Z
+date: 2022-11-22T21:22:00.000Z
 category:
   - CBD Edible
 image: /img/create-remedy-30ct.jpg
