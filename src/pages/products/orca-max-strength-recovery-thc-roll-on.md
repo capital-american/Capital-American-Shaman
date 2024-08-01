@@ -12,7 +12,7 @@ tags:
   - Topical
   - Pain
 ---
-# **About Orca Full Spectrum Topical** 
+# **About Orca Full Spectrum Topical**
 
 Get ready to experience the ultimate weapon in your recovery arsenal with Hometown Hero’s new Orca Max Strength Recovery Roll-on!
 
@@ -40,7 +40,7 @@ The roll-on format provides a convenient and precise application method. The eas
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href=https://capitalcbd.shop/product/orca-hometown-hero-max-strength-roll-on/">Order Online</a></
 
 <br><br><br>
 
