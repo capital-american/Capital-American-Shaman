@@ -4,7 +4,6 @@ title: Hempettes CBD Cigarettes
 date: 2024-07-02T22:26:45.226Z
 category:
   - Hemp Flower
-  - CBD
 image: /img/cbd-cigarette-by-wildhemp.jpg
 amount: 12.99
 tags:
