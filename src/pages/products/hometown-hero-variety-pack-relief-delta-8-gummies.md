@@ -1,7 +1,7 @@
 ---
 templateKey: product-post
 title: Hometown Hero Variety Pack | Relief Delta-8 Gummies
-date: 2022-11-19T20:21:00.000Z
+date: 2022-11-19T20:22:00.000Z
 category:
   - Delta 8
 image: /img/hometown-hero-variety-pack-delta-8-gummies.jpg
