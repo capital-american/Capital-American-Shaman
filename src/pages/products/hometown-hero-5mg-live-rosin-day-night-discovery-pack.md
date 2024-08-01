@@ -49,7 +49,7 @@ Whether you are new to the world of Hemp or looking to try some new options, Hom
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/hometown-hero-live-rosin-5mg-day-and-nightd9-gummies/">Order Online</a></
 
 <br><br><br>
 
