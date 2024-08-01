@@ -36,7 +36,7 @@ Each Live Rosin gummy contains 8mg of Pure THCP which is equivalent to almost 25
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-lights-out-blood-orange-8mg-thcp/">Order Online</a></
 
 <br><br><br>
 
