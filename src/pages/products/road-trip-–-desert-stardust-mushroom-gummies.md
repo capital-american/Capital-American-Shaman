@@ -38,7 +38,7 @@ In an effort to create a unique product, Road Trip does not disclose the specifi
 
 Each pack contains 8 gummies (4g of equivalent effects to dried caps) with four flavor options: *Blue Raspberry, Strawberry, Green Apple, and Pineapple*
 
-**Attention: If you are currently using serotonin-regulating medications such as SSRIs, antidepressants, or similar drugs, please be aware that these gummies may not produce the desired effects. Individuals on such medications have reported feeling little to nothing from these products. Serotonin-regulating medications, like SSRIs, are designed to balance serotonin levels in the body and stabilize mood. Introducing external forms of serotonin, such as through our gummies, may disrupt this balance and increase the risk of interactions, including serotonin syndrome. This warning applies to all similar medications designed to stabilize mood, including MAOIs, SNRIs, and TCAs.**
+***Attention: If you are currently using serotonin-regulating medications such as SSRIs, antidepressants, or similar drugs, please be aware that these gummies may not produce the desired effects. Individuals on such medications have reported feeling little to nothing from these products. Serotonin-regulating medications, like SSRIs, are designed to balance serotonin levels in the body and stabilize mood. Introducing external forms of serotonin, such as through our gummies, may disrupt this balance and increase the risk of interactions, including serotonin syndrome. This warning applies to all similar medications designed to stabilize mood, including MAOIs, SNRIs, and TCAs.***
 
 <br><br>
 
