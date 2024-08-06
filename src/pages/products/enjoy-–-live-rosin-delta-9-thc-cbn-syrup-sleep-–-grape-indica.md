@@ -39,7 +39,7 @@ Whether you're dealing with chronic sleep issues or just need occasional help wi
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-sleep-live-rosin-syrup-800mg/">Order Online</a></
 
 <br><br><br>
 
