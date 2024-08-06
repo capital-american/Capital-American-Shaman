@@ -36,7 +36,7 @@ Whether you're hosting a party or simply enjoying a night with friends, these gu
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/hometown-hero-d8-gummies-variety-pack-30ct/">Order Online</a></
 
 <br><br><br>
 
