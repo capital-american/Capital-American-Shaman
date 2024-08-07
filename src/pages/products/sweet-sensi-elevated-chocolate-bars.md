@@ -54,7 +54,7 @@ Red Chile OG (Indica) -** Rich dark chocolate with spicy chili.
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/sweet-sensi-elevated-chocolate-bars/">Order Online</a></
 
 <br><br><br>
 
