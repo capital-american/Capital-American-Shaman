@@ -37,6 +37,18 @@ Each packet of 3CHI Delta 9 Drink Enhancers contain 10mg of hemp-derived Delta 9
 
 **Ingredients For Pink Lemonade Enhancer:** Proprietary Blend (Mannitol, Agar-Agar, Citric Acid, Natural and Artificial Flavors, Microcrystalline Cellulose, Adipic Acid, Maize Starch, Sodium Citrate, Magnesium Oxide), Hemp Extract PolyMorph ∆9, Sucralose, Potassium Sorbate, Sodium Benzoate. Ingredients For Tangerine Lime Enhancer: Proprietary Blend (Mannitol, Agar-Agar, Citric Acid, Natural and Artificial Flavors, Microcrystalline Cellulose, Adipic Acid, Maize Starch, Sodium Citrate, Magnesium Oxide), Hemp Extract PolyMorph ∆9, Sucralose, Potassium Sorbate, Sodium Benzoate.
 
-<br>
+<br><br>
+
+<Center>
+
+#### **To order online use the link below to our Online Store**
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/delta-9-drink-enhancer-3chi/">Order Online</a></
+
+<br><br><br>
 
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
