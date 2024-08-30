@@ -3,7 +3,7 @@ templateKey: product-post
 title: "Cheef Botanicals Mushroom Capsules "
 date: 2023-06-09T17:31:00.000Z
 category:
-  - Mushrooms
+  - Mushroom
 image: /img/cheef-botanicals-mushroom-capsules.jpg
 amount: 34.95
 tags:
