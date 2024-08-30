@@ -54,7 +54,7 @@ Customers may experience improved mood after their first serving, but we recomme
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/1836-fitness-jumpkicker-capsules-50ct/">Order Online</a></
 
 <br><br><br>
 
