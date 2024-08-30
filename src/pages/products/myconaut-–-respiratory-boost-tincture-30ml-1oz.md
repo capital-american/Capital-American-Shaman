@@ -3,7 +3,7 @@ templateKey: product-post
 title: MycoNaut – Respiratory Boost Tincture | 30ml / 1oz
 date: 2023-06-09T17:30:00.000Z
 category:
-  - Mushrooms
+  - Mushroom
 image: /img/respiratory-boost.jpg
 amount: 38.99
 tags:
