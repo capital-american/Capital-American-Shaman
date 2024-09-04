@@ -34,7 +34,7 @@ These candies come in various flavors and are made with a precise dosage, allowi
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/xite-hard-candy-d9-cbd/">Order Online</a></
 
 <br><br><br>
 
