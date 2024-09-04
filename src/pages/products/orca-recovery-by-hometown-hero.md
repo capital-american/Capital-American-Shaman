@@ -44,7 +44,7 @@ Recovery is a crucial aspect of maintaining an active and healthy lifestyle. Hom
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/orca-recovery-d9-l-theanine-pills-by-hometown-hero/">Order Online</a></
 
 <br><br><br>
 
