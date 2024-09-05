@@ -50,7 +50,7 @@ Keep your brain running smoothly and feel more focused with these easy-to-swallo
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cheef-botanicals-brain-boost-mushroom-softgels-1500mg/">Order Online</a></
 
 <br><br><br>
 
