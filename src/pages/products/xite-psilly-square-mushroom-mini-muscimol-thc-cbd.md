@@ -41,7 +41,7 @@ These chocolates are great for users looking for a more relaxed mushroom experie
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-face-cream-american-shaman/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/xite-psilly-squares-milk-chocolate/">Order Online</a></
 
 <br><br><br>
 
