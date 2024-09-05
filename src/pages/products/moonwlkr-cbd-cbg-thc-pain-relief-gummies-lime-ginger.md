@@ -49,7 +49,7 @@ Turmeric is a common spice that comes from the root of Curcuma longa. It contain
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-face-cream-american-shaman/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/moonwlkr-pain-cbd-cbg-thc-gummies/">Order Online</a></
 
 <br><br><br>
 
