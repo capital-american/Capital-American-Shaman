@@ -33,7 +33,7 @@ Every piece contains a custom blend of cannabinoids including D8, D9, D10, THCv,
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href=" https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href=" https://capitalcbd.shop/product/hometown-hero-blueberry-burst-sour-belts/">Order Online</a></
 
 <br><br><br>
 
