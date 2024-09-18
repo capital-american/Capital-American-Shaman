@@ -4,7 +4,7 @@ title: Live Rosin 1000mg Deep Sleep Gummies | THC + CBN 40ct
 date: 2023-05-05T20:25:00.000Z
 category:
   - Delta 9
-  - CBD & CBN
+  - CBG & CBN
 image: /img/1000-mg-deep-sleep-d9-gummies.jpg
 amount: 62.99
 tags:
