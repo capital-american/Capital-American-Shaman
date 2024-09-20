@@ -12,7 +12,7 @@ tags:
   - Sleep
   - Edible
 ---
-# **About Hometown Hero’s 100mg Sample Pack** 
+# **About Hometown Hero’s 100mg Sample Pack**
 
 Are you having trouble deciding what hemp strains best suit you and your needs? Are you tired of wasting money on products that just weren’t what you were looking for?
 
@@ -48,7 +48,7 @@ Whether you are new to the world of Hemp or looking to try some new options, Hom
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/hometown-hero-live-rosin-25mg-day-and-nightd9-gummies/">Order Online</a></
 
 <br><br><br>
 
