@@ -23,19 +23,15 @@ tags:
 
 **Vegan & gluten-free**
 
-
-No artificial colors, flavors, or solvents. Just a rich golden sap pressed from bubble hash made only with fresh, uncured hemp of the highest quality.
-This pine profile with citrus notes is the result of fine-tuned craft and Mother nature herself.
+No artificial colors, flavors, or solvents. Just a rich golden sap pressed from bubble hash made only with fresh, uncured hemp of the highest quality. This pine profile with citrus notes is the result of fine-tuned craft and Mother nature herself.
 
 **SUGGESTED USE**
 
 Take the desired number of milligrams. If it is your first time trying Delta 9 THC live rosin gummies, a good dose to start with is 1/2 a gummy. (12.5mg) You can always take the other half at a later time.  The effects of the Hometown Hero delta 9 live rosin gummies can vary from person to person.  The key is finding what is right for you.  Multiple trial periods may be necessary, and you should adjust as needed. 
 
-# 
 More About Hometown Hero Delta 9 Live Rosin Gummies
 
 **Sativa:** Uplifting, bright, positive. Synonymous with daytime use or for nights you could use an emotional pick-me-up. Flavor Profile- Pine, citrus, and fresh leaves. Pinene is the major terpene in this rosin.
-
 
 **Blue Dream:** Has an herbal profile with sharp fruity highlights and faint orange zest.  Experience this West Coast sativa with live rosin.
 
@@ -53,8 +49,18 @@ With each bite of these soft, chewy gummies, you get a smooth orange flavor foll
 
 In short, live rosin is nature meets craft.  For more information on Delta 9 derived from Hemp check our blog[ here.](https://capitalamericanshaman.com/blog/live-rosin/)
 
-<br>
+<br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Check out our other Delta 9 Products</a></Center>
+<Center>
 
-[](https://capitalamericanshaman.com/product-category/delta-9/)
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/hometown-hero-live-rosin-delta-9-gummies-25mg/">Order Online</a></
+
+<br><br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>[](https://capitalamericanshaman.com/product-category/delta-9/)
