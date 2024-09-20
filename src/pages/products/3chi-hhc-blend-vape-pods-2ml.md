@@ -44,7 +44,7 @@ THCP is very similar to THC, but consumers have reported it as having much stron
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href=" https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/3chi-hhc-blend-vape-pod-2ml/">Order Online</a></
 
 <br><br><br>
 
