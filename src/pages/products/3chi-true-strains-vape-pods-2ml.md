@@ -38,7 +38,7 @@ Every 2ml vape pod comes filled with transparent, unadulterated oil, containing 
 
 <Center>
 
-#### **To order online use the link below to our Online Store**
+**\*\*To order online use the link below to our Online Store\*\***
 
 <br><br>
 
