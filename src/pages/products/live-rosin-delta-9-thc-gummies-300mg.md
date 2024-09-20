@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Live Rosin Delta 9 THC Gummies | 300mg
+title: Enjoy Live Rosin Delta 9 THC Gummies | 300mg
 date: 2023-05-05T20:25:00.000Z
 category:
   - Delta 9
@@ -36,4 +36,16 @@ These gummies come in a mixed fruit flavor and are available in 3 different stra
 
 <br><br>
 
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-live-rosin-delta-9-thc-300mg-gummies-25ct/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
