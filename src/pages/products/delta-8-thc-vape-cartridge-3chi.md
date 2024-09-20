@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Delta 8 THC Vape Cartridge - 3Chi
+title: "3Chi Delta 8 THC Vape Cartridge "
 date: 2022-11-08T23:49:27.788Z
 category:
   - Delta 8
@@ -27,6 +27,18 @@ For a little more information on Delta 8 look [here.](https://capitalamericansha
 
 Our blog with some information on Delta 8 Carts can be found [here.](https://capitalamericanshaman.com/blog/delta-8-thc-vape-cartridges/)
 
-<br>
+<br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/product-category/delta-8/">Take a look at our other Delta 8 Products</a></Center>
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/delta-8-thc-vape-cartridge-3chi/">Order Online</a></
+
+<br><br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
