@@ -1,15 +1,15 @@
 ---
 templateKey: product-post
-title: D8 Delta 8 Nano Water Soluble
+title: Zen Master Delta-8 Nano Water Soluble
 date: 2022-10-29T19:44:38.999Z
 category:
   - Delta 8
 image: /img/delta-8-nano-water-soluble-product.jpg
 amount: 49.99
 tags:
-  - Products
-  - Zen Master
   - Delta 8
+  - Products
+  - Nano
 ---
 **Brand: Zen Master**
 
@@ -31,11 +31,11 @@ For a little more information on Delta 8 look [here.](https://capitalamericansha
 
 <Center>
 
-#### **To order online use the link below to our Online Store**
+**\*\*To order online use the link below to our Online Store\*\***
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/canine-cbd-water-soluble-hemp-oil-tincture/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/d8-delta-8-nano-water-soluble/">Order Online</a></
 
 <br><br><br>
 
