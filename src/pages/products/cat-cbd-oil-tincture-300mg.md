@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Cat CBD Oil Tincture (300mg)
+title: American Shaman Cat CBD Oil Tincture (300mg)
 date: 2022-11-05T20:16:11.963Z
 category:
   - CBD Dog / Cat and Equine Products
@@ -15,8 +15,7 @@ tags:
 
 **Serving Size:** (mL measure is on dropper)
 
-1lb. to 8lb. Cat = .125mL 9lb. to 15lb. Cat = .25mL 16lb. & over Cat = .375mL
-2X Daily
+1lb. to 8lb. Cat = .125mL 9lb. to 15lb. Cat = .25mL 16lb. & over Cat = .375mL 2X Daily
 
 **What is cat CBD oil?**
 
@@ -40,4 +39,16 @@ CBD oil for cats is not known to cause any issues when combined with other medic
 
 <br><br>
 
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cat-cbd-oil-tincture-300mg/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
