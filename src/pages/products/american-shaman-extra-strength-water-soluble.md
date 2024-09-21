@@ -8,6 +8,7 @@ image: /img/extra-strength-water-soluble-900mg.jpg
 amount: 179.99
 tags:
   - Product
+  - CBD
 ---
 **Brand: American Shaman**
 
@@ -21,4 +22,16 @@ Availible in with Lemon flavoring or without.
 
 <br><br>
 
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/extra-strength-water-soluble/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
