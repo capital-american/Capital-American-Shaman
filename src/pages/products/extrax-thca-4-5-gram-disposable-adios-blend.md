@@ -9,6 +9,7 @@ amount: 55.99
 tags:
   - THCA
   - Products
+  - Vape
 ---
 # **About Extrax’s 4.5 Gram THCa Disposable**
 
@@ -58,4 +59,16 @@ Disposable
 
 <br><br>
 
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/extrax-thca-4-5-gram-disposable-adios-blend/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
