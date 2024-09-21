@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Delta 9 Nano Gummies 12.5mg - 25ct
+title: American Shaman Delta-9 Nano Gummies 12.5mg - 25ct
 date: 2022-10-28T22:03:03.404Z
 category:
   - Delta 9
@@ -8,6 +8,8 @@ image: /img/delta-9-nano-gummies-25ct.jpg
 amount: 61.99
 tags:
   - Products
+  - Delta 9
+  - Edible
 ---
 **MADE IN USA:** These D9 Gummies will give you a psychoactive experience with a familiar favorite treat. Be sure to start with half of one first before working your way up to one.
 
@@ -57,4 +59,16 @@ WARNING: It is not advised to drive or participate in any activities requiring h
 
 <br><br>
 
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/delta-9-nano-gummies-12-5mg-25ct/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
