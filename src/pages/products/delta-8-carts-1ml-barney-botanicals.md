@@ -1,13 +1,15 @@
 ---
 templateKey: product-post
-title: Delta 8 Carts 1ml - Barney Botanicals
+title: "Barney Botanicals Delta-8 Carts 1ml  "
 date: 2022-11-05T21:18:53.779Z
 category:
   - Delta 8
 image: /img/barney-botanical-d8-1g-carts.jpg
 amount: 25
 tags:
+  - Delta 8
   - Products
+  - Vape
 ---
 **Brand: Barney Botanicals**
 
@@ -51,6 +53,18 @@ Over the years Barneys Botanicals has become your trusted source for Delta 8 THC
 
 For a little more information on Delta 8 look [here.](https://capitalamericanshaman.com/blog/delta-8/)
 
-<br>
+<br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/product-category/delta-8/">Take a look at our other Delta 8 Products</a></Center>
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/delta-8-carts-1ml-barney-botanicals/">Order Online</a></
+
+<br><br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
