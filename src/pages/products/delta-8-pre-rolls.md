@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Delta 8 Pre rolls
+title: Zen Master Delta-8 Pre-Rolls
 date: 2022-10-28T19:47:05.186Z
 category:
   - Delta 8
@@ -8,7 +8,7 @@ image: /img/delta-8-prerolls.jpg
 amount: 12.5
 tags:
   - Products
-  - Zen Master
+  - Delta 8
 ---
 Pre rolled and ready to smoke.  The perfect joint awaits. Our Pre-Rolled Zen Master Delta-8 Joint can enhance the moment. 
 
@@ -42,6 +42,18 @@ Known for packing a punch[](https://www.leafly.com/strains/lists/effect/euphoric
 
 For a little more information on Delta 8 look [here.](https://capitalamericanshaman.com/blog/delta-8/)
 
-<br>
+<br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/product-category/delta-8/">Take a look at our other Delta 8 Products</a></Center>
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/delta-8-pre-rolls/">Order Online</a></
+
+<br><br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
