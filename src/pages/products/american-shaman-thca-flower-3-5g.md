@@ -8,6 +8,8 @@ image: /img/american-shaman-thca-flower.jpg
 amount: 49.99
 tags:
   - THCa
+  - Flower
+  - Products
 ---
 # About American Shaman THCa Flower
 
@@ -37,4 +39,16 @@ Whether you're a connoisseur or new to THCa flowers, our range caters to all, of
 
 <br><br>
 
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/zen-master-thca-flower-3-5g/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
