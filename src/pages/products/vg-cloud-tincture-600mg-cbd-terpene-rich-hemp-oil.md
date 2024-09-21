@@ -8,6 +8,7 @@ image: /img/cbd-tincture-vg-cloud-extra-strength-600mg.jpg
 amount: 94.99
 tags:
   - Product
+  - CBD
 ---
 **Brand:** **American Shaman**
 
@@ -23,4 +24,16 @@ tags:
 
 <br><br>
 
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/vg-cloud-tincture-600mg-cbd-terpene-rich-hemp-oil/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
