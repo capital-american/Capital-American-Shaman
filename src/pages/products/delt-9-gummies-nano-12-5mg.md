@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Delta 9 Gummies(Nano) - 12.5mg
+title: Zen Master Delta-9 Gummies(Nano) - 12.5mg
 date: 2022-10-28T05:36:15.344Z
 category:
   - Delta 9
@@ -8,7 +8,8 @@ image: /img/delta-9-gummies-zen-master.jpg
 amount: 29.99
 tags:
   - Products
-  - Zen Master
+  - Delta 9
+  - Edible
 ---
 **B﻿rand: Zen Master**
 
@@ -31,7 +32,7 @@ Enjoy one D9 Gummy every 12 hours. Do not exceed the suggested use unless under 
 
 <Center>
 
-#### **To order online use the link below to our Online Store**
+**\*\*To order online use the link below to our Online Store\*\***
 
 <br><br>
 
