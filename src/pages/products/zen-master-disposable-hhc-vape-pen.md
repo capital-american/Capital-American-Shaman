@@ -7,7 +7,9 @@ category:
 image: /img/disposable-hhc-vapes.jpg
 amount: 29.99
 tags:
+  - HHC
   - Products
+  - Vape
 ---
 This is the same smooth experience as our original cartridge but with a battery pre-charged. This rig is ready to perform right out the box.  This disposable pen is branded white with Zen Master printed branding on the pen. This vape is filled with 1 mL of pure HHC (Hexahydrocannabinol) that will knock your socks off when you try this formulation. It is a gram cartridge and will give a lasting experience for this unique psychoactive experience.
 
@@ -44,4 +46,16 @@ Primary Terpenes: Terpinolene, Caryophyllene, Myrcene
 
 <br><br>
 
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/zen-master-disposable-hhc-vape-pen/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
