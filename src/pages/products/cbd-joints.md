@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: CBD Joints
+title: American Shaman CBD Joints
 date: 2022-10-11T11:14:43.326Z
 category:
   - Hemp Flower
@@ -8,6 +8,7 @@ image: /img/cbd-joints.jpg
 amount: 9.99
 tags:
   - Product
+  - CBD
 ---
 **Brand: American Shaman**
 
@@ -15,4 +16,16 @@ tags:
 
 <br><br>
 
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-joints/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
