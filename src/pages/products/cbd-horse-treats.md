@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: CBD Horse Treats
+title: American Shaman CBD Horse Treats
 date: 2022-11-01T21:15:00.000Z
 category:
   - CBD Dog / Cat and Equine Products
@@ -35,7 +35,7 @@ The best treat for a horse is a treat that’s both tasty and provides support f
 
 <Center>
 
-#### **To order online use the link below to our Online Store**
+**\*\*To order online use the link below to our Online Store\*\***
 
 <br><br>
 
