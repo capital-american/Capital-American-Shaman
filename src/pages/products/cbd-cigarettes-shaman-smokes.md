@@ -1,12 +1,13 @@
 ---
 templateKey: product-post
-title: CBD Cigarettes -  Shaman Smokes
+title: " Shaman Smokes - CBD Cigarettes "
 date: 2022-10-31T21:04:58.503Z
 category:
   - Hemp Flower
 image: /img/shaman-smokes.jpg
 amount: 9.99
 tags:
+  - CBD
   - Products
 ---
 **Brand: American Shaman**
@@ -24,3 +25,19 @@ Our Hemp cigarettes differ from others in that we formulate our blend to provide
 * Feature significant levels of CBD (cannabidiol), other cannabinoids like CBG (cannabigerol) and CBC (cannabichromene), and beneficial terpenes and flavonoids
 * Are faster-acting than other ways of taking CBD, such as CBD ediblesor oils
 * Are federally legal in the US thanks to the 2018 Farm Bill, and are available both in a store near you and online
+
+<br><br>
+
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-cigarettes-shaman-smokes/">Order Online</a></
+
+<br><br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
