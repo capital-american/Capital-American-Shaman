@@ -1,12 +1,13 @@
 ---
 templateKey: product-post
-title: HHC Prerolls
+title: Zen Master HHC Pre-Rolls
 date: 2022-11-01T21:46:38.559Z
 category:
   - HHC Products
 image: /img/hhc-prerolls.jpg
 amount: 12.5
 tags:
+  - HHC
   - Products
 ---
 **Brand: Zen Master**
@@ -52,6 +53,18 @@ Green Crack HHC Fortified Cone with 300 mg of Total Cannabinoids per Container -
 
 Choose your path to serenity with Zen Master’s HHC infused flower cone!
 
-<br>
+<br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://www.google.com/search?q=Capital+CBD+American+Shaman&tbm=lcl&sxsrf=ALiCzsa2XzapWbvIim-nHqqclmgfrSGd0Q%3A1668798574722&ei=bth3Y82WK5W0qtsPqt-W8Ac&ved=0ahUKEwjNhf2Rt7j7AhUVmmoFHaqvBX4Q4dUDCAg&oq=Capital+CBD+American+Shaman&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAwyBAgjECcyBAgjECcyBAgjECcyAggmMgUIABCGAzIFCAAQhgMyBQgAEIYDUABYAGDhD2gAcAB4AIABcYgBcZIBAzAuMZgBAMABAQ&sclient=gws-wiz-local#rlfi=hd:;si:3758067349796046640,l,ChtDYXBpdGFsIENCRCBBbWVyaWNhbiBTaGFtYW5I8bOdpJavgIAIWjkQABABEAIQAxgAGAEYAhgDIhtjYXBpdGFsIGNiZCBhbWVyaWNhbiBzaGFtYW4qCggCEAAQARACEAOSAR12aXRhbWluX2FuZF9zdXBwbGVtZW50c19zdG9yZeABAA,y,ojVWXBlNIig;mv:[[30.364081677319028,-97.72817981101284],[30.363721722680967,-97.7285969889872]]" rel="nofollow noreferrer">Visit our local Store</a></Center>
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/hhc-prerolls/">Order Online</a></
+
+<br><br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
