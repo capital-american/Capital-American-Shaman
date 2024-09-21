@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: HHC Gummies (12.5mg - 10ct)
+title: Zen Master HHC Gummies (12.5mg - 10ct)
 date: 2022-10-29T19:12:01.981Z
 category:
   - HHC Products
@@ -22,4 +22,16 @@ Color Sources: Watermelon: Red 40, Red 3.  Blackberry: Red 3.  Blue 1. Tropical 
 
 <br><br>
 
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/zen-master-hhc-gummies/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
