@@ -1,13 +1,15 @@
 ---
 templateKey: product-post
-title: Delta 9 Caramels - Zen Master
+title: "Zen Master Delta-9 Caramels  "
 date: 2022-11-05T23:07:29.531Z
 category:
   - Delta 9
 image: /img/zen-master-delta-9-caramels.jpg
 amount: 29.99
 tags:
+  - Delta 9
   - Products
+  - Edible
 ---
 **Brand: Zen Master**
 
@@ -25,4 +27,16 @@ Enjoy 1/2 D9 Caramel for first use, then up to 1/2 to 1 full D9 caramel every 12
 
 <br><br>
 
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/zen-master-d9-caramels/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
