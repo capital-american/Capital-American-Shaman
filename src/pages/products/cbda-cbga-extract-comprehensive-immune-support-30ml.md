@@ -7,7 +7,10 @@ category:
 image: /img/cbda-cbga.jpg
 amount: 89.99
 tags:
+  - CBD
   - Products
+  - CBG
+  - Immunity
 ---
  **Brand: American Shaman**
 
@@ -35,4 +38,16 @@ This blend of CBDA, CBD, CBGA & CBG cannabinoids comes along with Vitamin D, Vit
 
 <br><br>
 
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbda-cbga-extract-comprehensive-immune-support-30ml/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
