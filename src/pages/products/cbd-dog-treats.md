@@ -1,13 +1,15 @@
 ---
 templateKey: product-post
-title: CBD Dog Treats
+title: American Shaman CBD Dog Treats
 date: 2022-11-01T20:59:16.836Z
 category:
   - CBD Dog / Cat and Equine Products
 image: /img/cbd-dog-treats-brisket.jpg
 amount: 44.99
 tags:
+  - CBD
   - Products
+  - Pet
 ---
 **Brand: American Shaman**
 
@@ -27,10 +29,22 @@ For more information on CBD for pets please take a look here at our blog [here.]
 
 **Strength:** 5mg Nano Full Spectrum CBD Oil Per Bite 
 
-<br>
-
-<Center><a class="link-view-more-products" target="_blank" href="https://www.google.com/search?q=Capital+CBD+American+Shaman&tbm=lcl&sxsrf=ALiCzsa2XzapWbvIim-nHqqclmgfrSGd0Q%3A1668798574722&ei=bth3Y82WK5W0qtsPqt-W8Ac&ved=0ahUKEwjNhf2Rt7j7AhUVmmoFHaqvBX4Q4dUDCAg&oq=Capital+CBD+American+Shaman&gs_lcp=Cg1nd3Mtd2l6LWxvY2FsEAwyBAgjECcyBAgjECcyBAgjECcyAggmMgUIABCGAzIFCAAQhgMyBQgAEIYDUABYAGDhD2gAcAB4AIABcYgBcZIBAzAuMZgBAMABAQ&sclient=gws-wiz-local#rlfi=hd:;si:3758067349796046640,l,ChtDYXBpdGFsIENCRCBBbWVyaWNhbiBTaGFtYW5I8bOdpJavgIAIWjkQABABEAIQAxgAGAEYAhgDIhtjYXBpdGFsIGNiZCBhbWVyaWNhbiBzaGFtYW4qCggCEAAQARACEAOSAR12aXRhbWluX2FuZF9zdXBwbGVtZW50c19zdG9yZeABAA,y,ojVWXBlNIig;mv:[[30.364081677319028,-97.72817981101284],[30.363721722680967,-97.7285969889872]]" rel="nofollow noreferrer">Visit our local Store</a></Center>
-
 ### **Ingredients:**
 
 Natural Peanut Butter Flavor, Milk, Coconut Flour, White Rice Flour, Eggs, Molasses, Vanilla, Cinnamon, Vegetable Glycerin, Propylene Glycol, Polysorbate 80, Hemp Extract (Aerial Parts), Olive Oil, Medium Chain Triglyceride Oil (Coconut), Cannabidiol, Cannabigerol, a-Bisabolol, Terpineol, a-Pinene, Limonene, B-Caryophyllene, Linalool, Humulene.
+
+<br><br>
+
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-dog-treats/">Order Online</a></
+
+<br><br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
