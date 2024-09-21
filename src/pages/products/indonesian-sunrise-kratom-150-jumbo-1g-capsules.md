@@ -8,6 +8,7 @@ image: /img/1836-kratom-150ct-indonesian-sunrise.jpg
 amount: 54.95
 tags:
   - Products
+  - Kratom
 ---
 # **About 1836 Kratom “Indonesian Sunrise” Jumbo Kratom Capsules**
 
@@ -25,4 +26,16 @@ Many people, including a number of doctors, fitness enthusiasts and health profe
 
 <br><br>
 
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/1836-kratom-indonesian-sunrise-150-jumbo-caps/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
