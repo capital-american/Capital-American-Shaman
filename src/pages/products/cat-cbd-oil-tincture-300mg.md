@@ -7,7 +7,9 @@ category:
 image: /img/feline-cbd-oil-tincture.jpg
 amount: 59.99
 tags:
+  - CBD
   - Products
+  - Pets
 ---
 **Brand: American Shaman**
 
