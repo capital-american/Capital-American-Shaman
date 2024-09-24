@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: American Shaman | THCa Flower 3.5g
+title: Zen Master | THCa Flower 3.5g
 date: 2022-11-04T18:46:51.801Z
 category:
   - THCa
