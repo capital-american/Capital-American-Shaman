@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: THCa Diamond Infused Prerolls (2ct)
+title: American Shaman | THCa Diamond Infused Prerolls (2ct)
 date: 2022-11-03T21:01:46.106Z
 category:
   - THCa
@@ -36,4 +36,16 @@ Each strain offers a different terpene profile and cannabinoid content for a var
 
 <br><br>
 
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/thca-diamond-infused-prerolls-2ct-shaman/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
