@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: CBD Massage Oil
+title: American Shaman CBD Massage Oil
 date: 2022-10-11T11:12:18.186Z
 category:
   - CBD Lotions Creams and Topicals
@@ -8,6 +8,8 @@ image: /img/cbd-massage-oil-austin-shaman.jpg
 amount: 40
 tags:
   - Product
+  - CBD
+  - Topical
 ---
 **Brand: American Shaman**
 
@@ -19,4 +21,16 @@ tags:
 
 <br><br>
 
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-massage-oil/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
