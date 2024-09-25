@@ -8,6 +8,7 @@ image: /img/1836-kratom-fighters-full-potential.jpg
 amount: 29.99
 tags:
   - Products
+  - Kratom
 ---
  **Brand: 1836 Kratom**
 
@@ -18,6 +19,12 @@ tags:
 Super green Kratom enhanced w/ turmeric extract, cayenne & cinnamon. This product is in powder form. Some athletes believe turmeric to have many valuable properties & believe this blend provides incentive to push extra hard! Weightlifters, runners, manual laborers and those who "do" love Fighter's Full Potential!
 
 For more info on Kratom check our blog[ here.](https://capitalamericanshaman.com/blog/kratom/)
+
+<br><br>
+
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
 
 <br><br>
 
