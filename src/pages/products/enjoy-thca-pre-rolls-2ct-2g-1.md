@@ -46,7 +46,7 @@ Each tube contains two 1-gram THCa flower joints infused with terpenes for enhan
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-thca-prerolls-2ct/">Order Online</a></
 
 <br><br><br>
 
