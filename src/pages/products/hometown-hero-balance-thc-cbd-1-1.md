@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Hometown Hero Balance THC:CBD  | 1:1
+title: Hometown Hero Balance D9 THC:CBD  | 1:1
 date: 2022-11-19T20:22:00.000Z
 category:
   - Delta 9
@@ -41,7 +41,7 @@ Well-rounded Mind and Body Experience
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/hometown-hero-balance-thc-cbd-gummies/">Order Online</a></
 
 <br><br><br>
 
