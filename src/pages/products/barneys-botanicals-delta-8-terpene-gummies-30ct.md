@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Barneys Botanicals Delta-8 Terpene Gummies 30ct
+title: Barney's Botanicals Delta-8 Terpene Gummies 30ct
 date: 2023-05-05T20:26:00.000Z
 category:
   - Delta 8
@@ -47,7 +47,7 @@ With five different strain options, you can tailor your experience to suit speci
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href=" https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/barneys-botanicals-d8-terpene-gummies/">Order Online</a></
 
 <br><br><br>
 
