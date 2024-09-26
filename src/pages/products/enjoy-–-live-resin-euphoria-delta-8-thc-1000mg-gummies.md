@@ -35,7 +35,7 @@ Each delicious Blue Raspberry gummy packs a punch with 100mg of Delta-8 THC.
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-live-resin-euphoria-d8-thc-1000mg-10ct/">Order Online</a></
 
 <br><br><br>
 
