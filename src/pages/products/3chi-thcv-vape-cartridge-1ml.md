@@ -41,7 +41,7 @@ As its name suggests, THCv is similar to THC in molecular structure and psychoac
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/3chi-battery-starter-kit/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/3chi-thcv-vape-cartridge/">Order Online</a></
 
 <br><br><br>
 
