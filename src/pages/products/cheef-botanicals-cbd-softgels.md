@@ -42,7 +42,7 @@ These softgels are made from full-spectrum hemp extract containing all the benef
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cheef-botanicals-cbd-soft-gels/">Order Online</a></
 
 <br><br><br>
 
