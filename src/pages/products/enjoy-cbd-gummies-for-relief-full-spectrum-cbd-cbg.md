@@ -43,7 +43,7 @@ These meticulously crafted gummies include a special blend of ingredients that c
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-cbd-cbg-relief-gummies/">Order Online</a></
 
 <br><br><br>
 
