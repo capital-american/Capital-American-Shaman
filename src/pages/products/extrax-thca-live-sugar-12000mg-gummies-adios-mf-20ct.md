@@ -56,7 +56,7 @@ When these cannabinoids are combined, users may experience strong psychoactive e
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/extrax-thca-live-sugar-12000mg-gummies-adios-mf-2/">Order Online</a></
 
 <br><br><br>
 
