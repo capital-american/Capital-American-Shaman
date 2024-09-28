@@ -40,11 +40,11 @@ THCa (***tetrahydrocannabinolic acid***) diamonds are a type of hemp concentrate
 
 <Center>
 
-\*\*To order online use the link below to our Online Store\*\*
+**\*\*To order online use the link below to our Online Store\*\***
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/hometown-hero-5g-thca-liquid-diamond-live-resin-disposable/">Order Online</a></
 
 <br><br><br>
 
