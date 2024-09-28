@@ -43,7 +43,7 @@ With its convenient and versatile form, Respiratory Boost provides a natural way
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/3chi-battery-starter-kit/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/myco-nauts-respiratory-boost-1oz/">Order Online</a></
 
 <br><br><br>
 
