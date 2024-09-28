@@ -8,6 +8,7 @@ image: /img/zen-master-thca-diamonds.jpg
 amount: 39.99
 tags:
   - THCa
+  - Products
 ---
 # About Zen Master THCa Diamonds
 
@@ -27,4 +28,16 @@ Yes, our THCa Diamonds comply with the 2018 Farm Bill, containing less than 0.3%
 
 <br><br>
 
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/zen-thca-diamonds-1g/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
