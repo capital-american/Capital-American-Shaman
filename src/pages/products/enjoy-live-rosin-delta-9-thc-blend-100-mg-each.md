@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Enjoy Live Rosin Delta 9 THC Blend | 100 mg each
+title: Enjoy Live Rosin Delta-9 THC Blend | 100 mg each
 date: 2023-05-06T20:52:00.000Z
 category:
   - Delta 9
