@@ -41,11 +41,11 @@ THCa (***tetrahydrocannabinolic acid***), is a non-psychoactive precursor to THC
 
 <Center>
 
-\*\*To order online use the link below to our Online Store\*\*
+**\*\*To order online use the link below to our Online Store\*\***
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/extrax-diamond-heights-2ct-prerolls/">Order Online</a></
 
 <br><br><br>
 
