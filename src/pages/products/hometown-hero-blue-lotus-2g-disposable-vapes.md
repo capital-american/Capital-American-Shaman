@@ -47,7 +47,7 @@ Users may find that the Blue Lotus enhances a sense of well-being and can potent
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-sex-cbd-gummies/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/hometown-hero-blue-lotus-2g-disposable-vapes/">Order Online</a></
 
 <br><br><br>
 
