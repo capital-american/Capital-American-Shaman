@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Enjoy Live Rosin Delta 9 THC Blend | 300 mg each
+title: Enjoy Live Rosin Delta-9 THC Blend | 300 mg each
 date: 2023-05-06T20:53:19.474Z
 category:
   - Delta 9
@@ -43,4 +43,16 @@ Each Enjoy Hemp product is made from Hemp-Derived Delta-9 THC under .3% Delta-9 
 
 <br><br>
 
+<Center>
+
+**\*\*To order online use the link below to our Online Store\*\***
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-live-rosin-delta-9-thc-blend-3000mg/">Order Online</a></
+
+<br><br><br>
+
 <Center><a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br>
