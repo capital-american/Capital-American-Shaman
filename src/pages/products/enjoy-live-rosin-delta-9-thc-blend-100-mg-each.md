@@ -51,11 +51,11 @@ Each Enjoy Hemp product is made from Hemp-Derived Delta-9 THC under .3% Delta-9 
 
 <Center>
 
-To order online use the link below to our Online Store
+**\*\*To order online use the link below to our Online Store\*\***
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-face-cream-american-shaman/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/enjoy-live-rosin-delta-9-thc-blend-1000mg/">Order Online</a></
 
 <br><br><br>
 
