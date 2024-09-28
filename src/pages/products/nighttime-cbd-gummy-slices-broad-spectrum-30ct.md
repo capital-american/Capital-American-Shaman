@@ -1,6 +1,6 @@
 ---
 templateKey: product-post
-title: Nighttime CBD Gummy Slices - Broad Spectrum(30ct)
+title: Proleve's Nighttime CBD Gummy Slices - Broad Spectrum(30ct)
 date: 2022-11-01T22:20:00.000Z
 category:
   - CBD Edibles
@@ -36,11 +36,11 @@ Proleve gummies embody purity and quality, ensuring a safe and enjoyable journey
 
 <Center>
 
-\*\*To order online use the link below to our Online Store\*\*
+**\*\*To order online use the link below to our Online Store\*\***
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/cbd-face-cream-american-shaman/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/proleve-nighttime-cbd-gummies/">Order Online</a></
 
 <br><br><br>
 
