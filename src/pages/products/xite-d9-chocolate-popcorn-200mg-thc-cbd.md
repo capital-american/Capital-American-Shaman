@@ -35,7 +35,7 @@ Let’s Get Poppin!
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/road-trip-amanita-mushroom-gummies-watermelon/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/xite-chocolate-popcorn-d9cbd/">Order Online</a></
 
 <br><br><br>
 
