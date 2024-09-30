@@ -57,7 +57,7 @@ If your pet is new to CBD, start with a lower dose until they become used to it,
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/canine-cbd-hemp-oil-tincture/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/holistapet-cbd-oil-for-pets/">Order Online</a></
 
 <br><br><br>
 
