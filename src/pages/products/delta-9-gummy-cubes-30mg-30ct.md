@@ -25,3 +25,19 @@ These premium gummy slices come in an assortment of flavors everyone will enjoy 
 *30 gummies per bottle*
 
 *900mg total*
+
+<br>
+
+<Center>
+
+#### **To order online use the link below to our Online Store**
+
+<br><br>
+
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/barney-botanicals-30mg-delta-9-gummies/">Order Online</a></
+
+<br><br><br>
+
+<a class="link-view-more-products" target="_blank" href="https://capitalamericanshaman.com/products">Take a look at our Products</a></Center>
+
+<br><br><br>
