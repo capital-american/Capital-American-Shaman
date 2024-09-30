@@ -42,7 +42,7 @@ CBN (Cannabinol) is a non-psychoactive cannabinoid that is widely known as a sle
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/moonwlkr-cbd-cbn-thc-sleep-gummies-totally-tropical/">Order Online</a></
 
 <br><br><br>
 
