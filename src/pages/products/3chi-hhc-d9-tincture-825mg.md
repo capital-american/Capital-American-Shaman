@@ -34,7 +34,7 @@ Whether you take it sublingually or mix it into your favorite beverage, this 3Ch
 
 <br><br>
 
-<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/shop-online/">Order Online</a></
+<Center><a class="link-view-more-products" target="_blank" href="https://capitalcbd.shop/product/3chi-hhc-d9-tincture825mg/">Order Online</a></
 
 <br><br><br>
 
